@@ -1,7 +1,3 @@
-[TOC]
-
-
-
 ## 双生视界 (Girl Cafe Gun) 停服 Spine & Live2D 加密
 
 
@@ -22,9 +18,9 @@
 
 ### 资源
 
-Github上现成的模型。应该是日服的，只有一部分。
+Github上现成的模型。应该是日服的，只有一部分。我感觉他的模型有点乱，我的更全然后更整齐一点。
 
-[Live2d-model/少女咖啡枪 girls cafe gun at master · Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model/tree/master/少女咖啡枪 girls cafe gun)
+[Live2d-model/少女咖啡枪 girls cafe gun at master · Eikanya/Live2d-model](https://github.com/Eikanya/Live2d-model/tree/master/%E5%B0%91%E5%A5%B3%E5%92%96%E5%95%A1%E6%9E%AA%20girls%20cafe%20gun)
 
 还得是贴吧，找遗产就看贴吧[谁能分享份关服时的数据包【双生视界吧】_百度贴吧](https://tieba.baidu.com/p/9599456574?pid=151869573488&cid=0#151869573488)
 
