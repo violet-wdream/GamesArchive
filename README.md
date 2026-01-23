@@ -19,7 +19,7 @@ This project is intended for **research, learning, and preservation purposes**.
 
 
 
-## Disclaimer (English)
+## Disclaimer
 
 All game data and assets in this repository are collected from **publicly
 available sources on the Internet**.
