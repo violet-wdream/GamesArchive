@@ -1,0 +1,76 @@
+
+girl303_2da02.png
+size: 1012,1012
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ti
+  rotate: true
+  xy: 882, 550
+  size: 230, 121
+  orig: 235, 123
+  offset: 4, 1
+  index: -1
+ti-1
+  rotate: true
+  xy: 829, 252
+  size: 296, 167
+  orig: 325, 169
+  offset: 17, 1
+  index: -1
+tou1
+  rotate: false
+  xy: 462, 600
+  size: 418, 410
+  orig: 418, 410
+  offset: 0, 0
+  index: -1
+tou1-1
+  rotate: false
+  xy: 2, 593
+  size: 458, 417
+  orig: 458, 417
+  offset: 0, 0
+  index: -1
+tuiL
+  rotate: true
+  xy: 2, 334
+  size: 257, 331
+  orig: 267, 331
+  offset: 10, 0
+  index: -1
+tuiL1
+  rotate: true
+  xy: 462, 304
+  size: 294, 365
+  orig: 294, 365
+  offset: 0, 0
+  index: -1
+tuiR
+  rotate: true
+  xy: 386, 61
+  size: 241, 340
+  orig: 262, 356
+  offset: 0, 0
+  index: -1
+tuiR1
+  rotate: true
+  xy: 2, 23
+  size: 279, 382
+  orig: 279, 382
+  offset: 0, 0
+  index: -1
+wei
+  rotate: false
+  xy: 882, 782
+  size: 128, 228
+  orig: 128, 235
+  offset: 0, 7
+  index: -1
+wei2
+  rotate: true
+  xy: 728, 80
+  size: 170, 260
+  orig: 170, 260
+  offset: 0, 0
+  index: -1
