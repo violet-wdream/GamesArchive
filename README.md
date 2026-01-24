@@ -3,7 +3,6 @@
 [![Stars](https://img.shields.io/github/stars/violet-wdream/GamesArchive?style=social)](https://github.com/violet-wdream/GamesArchive/stargazers)
 [![Forks](https://img.shields.io/github/forks/violet-wdream/GamesArchive?style=social)](https://github.com/violet-wdream/GamesArchive/network/members)
 ![Issues](https://img.shields.io/github/issues/violet-wdream/GamesArchive)
-![License](https://img.shields.io/github/license/violet-wdream/GamesArchive)
 
 ## Introduction
 
