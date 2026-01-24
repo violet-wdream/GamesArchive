@@ -1,0 +1,186 @@
+{
+  "Version": 3,
+  "Name": "l2d8001",
+  "FileReferences": {
+    "Moc": "l2d8001.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl02_chuchang": [
+        {
+          "File": "motions/Mgirl02_chuchang.motion3.json"
+        }
+      ],
+      "Mgirl02_dazhaohu": [
+        {
+          "File": "motions/Mgirl02_dazhaohu.motion3.json"
+        }
+      ],
+      "Mgirl02_dianduzi": [
+        {
+          "File": "motions/Mgirl02_dianduzi.motion3.json"
+        }
+      ],
+      "Mgirl02_dianduziR": [
+        {
+          "File": "motions/Mgirl02_dianduziR.motion3.json"
+        }
+      ],
+      "Mgirl02_diansan": [
+        {
+          "File": "motions/Mgirl02_diansan.motion3.json"
+        }
+      ],
+      "Mgirl02_diansanR": [
+        {
+          "File": "motions/Mgirl02_diansanR.motion3.json"
+        }
+      ],
+      "Mgirl02_dianxiong": [
+        {
+          "File": "motions/Mgirl02_dianxiong.motion3.json"
+        }
+      ],
+      "Mgirl02_dianxiongR": [
+        {
+          "File": "motions/Mgirl02_dianxiongR.motion3.json"
+        }
+      ],
+      "Mgirl02_dianyoushou": [
+        {
+          "File": "motions/Mgirl02_dianyoushou.motion3.json"
+        }
+      ],
+      "Mgirl02_dianyoushouR": [
+        {
+          "File": "motions/Mgirl02_dianyoushouR.motion3.json"
+        }
+      ],
+      "Mgirl02_dianzuoshou": [
+        {
+          "File": "motions/Mgirl02_dianzuoshou.motion3.json"
+        }
+      ],
+      "Mgirl02_dianzuoshouR": [
+        {
+          "File": "motions/Mgirl02_dianzuoshouR.motion3.json"
+        }
+      ],
+      "Mgirl02_fanghuadengR": [
+        {
+          "File": "motions/Mgirl02_fanghuadengR.motion3.json"
+        }
+      ],
+      "Mgirl02_ganshouningjing": [
+        {
+          "File": "motions/Mgirl02_ganshouningjing.motion3.json"
+        }
+      ],
+      "Mgirl02_ganshouningjingR": [
+        {
+          "File": "motions/Mgirl02_ganshouningjingR.motion3.json"
+        }
+      ],
+      "Mgirl02_guansan": [
+        {
+          "File": "motions/Mgirl02_guansan.motion3.json"
+        }
+      ],
+      "Mgirl02_huangdongchabei": [
+        {
+          "File": "motions/Mgirl02_huangdongchabei.motion3.json"
+        }
+      ],
+      "Mgirl02_kaisan": [
+        {
+          "File": "motions/Mgirl02_kaisan.motion3.json"
+        }
+      ],
+      "Mgirl02_kunjuan": [
+        {
+          "File": "motions/Mgirl02_kunjuan.motion3.json"
+        }
+      ],
+      "Mgirl02_kunjuanR": [
+        {
+          "File": "motions/Mgirl02_kunjuanR.motion3.json"
+        }
+      ],
+      "Mgirl02_motouhuiying": [
+        {
+          "File": "motions/Mgirl02_motouhuiying.motion3.json"
+        }
+      ],
+      "Mgirl02_motouhuiyingR": [
+        {
+          "File": "motions/Mgirl02_motouhuiyingR.motion3.json"
+        }
+      ],
+      "Mgirl02_motouweixiao": [
+        {
+          "File": "motions/Mgirl02_motouweixiao.motion3.json"
+        }
+      ],
+      "Mgirl02_motouweixiaoR": [
+        {
+          "File": "motions/Mgirl02_motouweixiaoR.motion3.json"
+        }
+      ],
+      "Mgirl02_songli": [
+        {
+          "File": "motions/Mgirl02_songli.motion3.json"
+        }
+      ],
+      "Mgirl02_songliR": [
+        {
+          "File": "motions/Mgirl02_songliR.motion3.json"
+        }
+      ],
+      "Mgirl02_stand": [
+        {
+          "File": "motions/Mgirl02_stand.motion3.json"
+        }
+      ],
+      "Mgirl02_standR": [
+        {
+          "File": "motions/Mgirl02_standR.motion3.json"
+        }
+      ],
+      "Mgirl02_zhanshi1": [
+        {
+          "File": "motions/Mgirl02_zhanshi1.motion3.json"
+        }
+      ],
+      "Mgirl02_zhanshi2": [
+        {
+          "File": "motions/Mgirl02_zhanshi2.motion3.json"
+        }
+      ],
+      "Mgirl02_zhanshi3": [
+        {
+          "File": "motions/Mgirl02_zhanshi3.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

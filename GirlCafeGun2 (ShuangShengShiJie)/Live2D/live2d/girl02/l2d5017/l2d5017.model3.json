@@ -1,0 +1,101 @@
+{
+  "Version": 3,
+  "Name": "l2d5017",
+  "FileReferences": {
+    "Moc": "l2d5017.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl02_celian": [
+        {
+          "File": "motions/Mgirl02_celian.motion3.json"
+        }
+      ],
+      "Mgirl02_chuchang": [
+        {
+          "File": "motions/Mgirl02_chuchang.motion3.json"
+        }
+      ],
+      "Mgirl02_dianLshou": [
+        {
+          "File": "motions/Mgirl02_dianLshou.motion3.json"
+        }
+      ],
+      "Mgirl02_dianRshou": [
+        {
+          "File": "motions/Mgirl02_dianRshou.motion3.json"
+        }
+      ],
+      "Mgirl02_diandatui": [
+        {
+          "File": "motions/Mgirl02_diandatui.motion3.json"
+        }
+      ],
+      "Mgirl02_diantou": [
+        {
+          "File": "motions/Mgirl02_diantou.motion3.json"
+        }
+      ],
+      "Mgirl02_dianxionghua": [
+        {
+          "File": "motions/Mgirl02_dianxionghua.motion3.json"
+        }
+      ],
+      "Mgirl02_ditou": [
+        {
+          "File": "motions/Mgirl02_ditou.motion3.json"
+        }
+      ],
+      "Mgirl02_stand": [
+        {
+          "File": "motions/Mgirl02_stand.motion3.json"
+        }
+      ],
+      "Mgirl02_stand2": [
+        {
+          "File": "motions/Mgirl02_stand2.motion3.json"
+        }
+      ],
+      "Mgirl02_xiuse": [
+        {
+          "File": "motions/Mgirl02_xiuse.motion3.json"
+        }
+      ],
+      "Mgirl02_zhanshi1": [
+        {
+          "File": "motions/Mgirl02_zhanshi1.motion3.json"
+        }
+      ],
+      "Mgirl02_zhanshi2": [
+        {
+          "File": "motions/Mgirl02_zhanshi2.motion3.json"
+        }
+      ],
+      "Mgirl02_zhanshi3": [
+        {
+          "File": "motions/Mgirl02_zhanshi3.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

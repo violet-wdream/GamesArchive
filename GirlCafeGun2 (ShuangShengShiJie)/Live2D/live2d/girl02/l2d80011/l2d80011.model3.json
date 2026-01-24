@@ -1,0 +1,31 @@
+{
+  "Version": 3,
+  "Name": "l2d80011",
+  "FileReferences": {
+    "Moc": "l2d80011.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl02_zhanshi3": [
+        {
+          "File": "motions/Mgirl02_zhanshi3.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

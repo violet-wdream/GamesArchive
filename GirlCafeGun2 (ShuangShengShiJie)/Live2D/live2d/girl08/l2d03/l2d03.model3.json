@@ -1,0 +1,76 @@
+{
+  "Version": 3,
+  "Name": "l2d03",
+  "FileReferences": {
+    "Moc": "l2d03.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl08_diantou": [
+        {
+          "File": "motions/Mgirl08_diantou.motion3.json"
+        }
+      ],
+      "Mgirl08_dunyixia": [
+        {
+          "File": "motions/Mgirl08_dunyixia.motion3.json"
+        }
+      ],
+      "Mgirl08_lianhong": [
+        {
+          "File": "motions/Mgirl08_lianhong.motion3.json"
+        }
+      ],
+      "Mgirl08_motouxiao_a": [
+        {
+          "File": "motions/Mgirl08_motouxiao_a.motion3.json"
+        }
+      ],
+      "Mgirl08_nushi": [
+        {
+          "File": "motions/Mgirl08_nushi.motion3.json"
+        }
+      ],
+      "Mgirl08_stand": [
+        {
+          "File": "motions/Mgirl08_stand.motion3.json"
+        }
+      ],
+      "Mgirl08_xiaoyou": [
+        {
+          "File": "motions/Mgirl08_xiaoyou.motion3.json"
+        }
+      ],
+      "Mgirl08_xiaozuo": [
+        {
+          "File": "motions/Mgirl08_xiaozuo.motion3.json"
+        }
+      ],
+      "Mgirl08_yaotou": [
+        {
+          "File": "motions/Mgirl08_yaotou.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "Version": 3,
+  "Name": "l2d12",
+  "FileReferences": {
+    "Moc": "l2d12.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl11_chayao_a": [
+        {
+          "File": "motions/Mgirl11_chayao_a.motion3.json"
+        }
+      ],
+      "Mgirl11_fennu": [
+        {
+          "File": "motions/Mgirl11_fennu.motion3.json"
+        }
+      ],
+      "Mgirl11_ganga": [
+        {
+          "File": "motions/Mgirl11_ganga.motion3.json"
+        }
+      ],
+      "Mgirl11_haixiu_a": [
+        {
+          "File": "motions/Mgirl11_haixiu_a.motion3.json"
+        }
+      ],
+      "Mgirl11_jingxi": [
+        {
+          "File": "motions/Mgirl11_jingxi.motion3.json"
+        }
+      ],
+      "Mgirl11_jingya": [
+        {
+          "File": "motions/Mgirl11_jingya.motion3.json"
+        }
+      ],
+      "Mgirl11_liaofa": [
+        {
+          "File": "motions/Mgirl11_liaofa.motion3.json"
+        }
+      ],
+      "Mgirl11_motouhaixiu": [
+        {
+          "File": "motions/Mgirl11_motouhaixiu.motion3.json"
+        }
+      ],
+      "Mgirl11_qingmie": [
+        {
+          "File": "motions/Mgirl11_qingmie.motion3.json"
+        }
+      ],
+      "Mgirl11_shanshanzi": [
+        {
+          "File": "motions/Mgirl11_shanshanzi.motion3.json"
+        }
+      ],
+      "Mgirl11_shengji": [
+        {
+          "File": "motions/Mgirl11_shengji.motion3.json"
+        }
+      ],
+      "Mgirl11_shengqi": [
+        {
+          "File": "motions/Mgirl11_shengqi.motion3.json"
+        }
+      ],
+      "Mgirl11_stand": [
+        {
+          "File": "motions/Mgirl11_stand.motion3.json"
+        }
+      ],
+      "Mgirl11_tuoyehuangzhang": [
+        {
+          "File": "motions/Mgirl11_tuoyehuangzhang.motion3.json"
+        }
+      ],
+      "Mgirl11_wunai": [
+        {
+          "File": "motions/Mgirl11_wunai.motion3.json"
+        }
+      ],
+      "Mgirl11_yangan": [
+        {
+          "File": "motions/Mgirl11_yangan.motion3.json"
+        }
+      ],
+      "Mgirl11_zenmela_01": [
+        {
+          "File": "motions/Mgirl11_zenmela_01.motion3.json"
+        }
+      ],
+      "Mgirl11_zenmela_01_27035787": [
+        {
+          "File": "motions/Mgirl11_zenmela_01_27035787.motion3.json"
+        }
+      ],
+      "Mgirl11_zenmela_02": [
+        {
+          "File": "motions/Mgirl11_zenmela_02.motion3.json"
+        }
+      ],
+      "Mgirl11_zenmela_02_2619699": [
+        {
+          "File": "motions/Mgirl11_zenmela_02_2619699.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

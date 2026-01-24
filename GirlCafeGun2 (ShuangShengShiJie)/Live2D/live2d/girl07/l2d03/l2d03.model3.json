@@ -1,0 +1,84 @@
+{
+  "Version": 3,
+  "Name": "l2d03",
+  "FileReferences": {
+    "Moc": "l2d03.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl07_baishou": [
+        {
+          "File": "motions/Mgirl07_baishou.motion3.json"
+        }
+      ],
+      "Mgirl07_diantou": [
+        {
+          "File": "motions/Mgirl07_diantou.motion3.json"
+        }
+      ],
+      "Mgirl07_ganga_c": [
+        {
+          "File": "motions/Mgirl07_ganga_c.motion3.json"
+        }
+      ],
+      "Mgirl07_haixiu": [
+        {
+          "File": "motions/Mgirl07_haixiu.motion3.json"
+        }
+      ],
+      "Mgirl07_jingzhang": [
+        {
+          "File": "motions/Mgirl07_jingzhang.motion3.json"
+        }
+      ],
+      "Mgirl07_kaixin": [
+        {
+          "File": "motions/Mgirl07_kaixin.motion3.json"
+        }
+      ],
+      "Mgirl07_motouweixiao": [
+        {
+          "File": "motions/Mgirl07_motouweixiao.motion3.json"
+        }
+      ],
+      "Mgirl07_shaxiao": [
+        {
+          "File": "motions/Mgirl07_shaxiao.motion3.json"
+        }
+      ],
+      "Mgirl07_stand": [
+        {
+          "File": "motions/Mgirl07_stand.motion3.json"
+        }
+      ],
+      "Mgirl07_tuoyeyihuo": [
+        {
+          "File": "motions/Mgirl07_tuoyeyihuo.motion3.json"
+        }
+      ],
+      "Mgirl07_yihuo": [
+        {
+          "File": "motions/Mgirl07_yihuo.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

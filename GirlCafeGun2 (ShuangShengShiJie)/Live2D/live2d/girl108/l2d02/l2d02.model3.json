@@ -1,0 +1,51 @@
+{
+  "Version": 3,
+  "Name": "l2d02",
+  "FileReferences": {
+    "Moc": "l2d02.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl108_douqi": [
+        {
+          "File": "motions/Mgirl108_douqi.motion3.json"
+        }
+      ],
+      "Mgirl108_qingsong": [
+        {
+          "File": "motions/Mgirl108_qingsong.motion3.json"
+        }
+      ],
+      "Mgirl108_rengzhen": [
+        {
+          "File": "motions/Mgirl108_rengzhen.motion3.json"
+        }
+      ],
+      "Mgirl108_stand": [
+        {
+          "File": "motions/Mgirl108_stand.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

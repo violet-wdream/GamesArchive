@@ -1,0 +1,79 @@
+{
+  "Version": 3,
+  "Name": "l2d02",
+  "FileReferences": {
+    "Moc": "l2d02.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl11_diantou": [
+        {
+          "File": "motions/Mgirl11_diantou.motion3.json"
+        }
+      ],
+      "Mgirl11_kaixin": [
+        {
+          "File": "motions/Mgirl11_kaixin.motion3.json"
+        }
+      ],
+      "Mgirl11_motouweixiao": [
+        {
+          "File": "motions/Mgirl11_motouweixiao.motion3.json"
+        }
+      ],
+      "Mgirl11_shanduo": [
+        {
+          "File": "motions/Mgirl11_shanduo.motion3.json"
+        }
+      ],
+      "Mgirl11_shuzhan": [
+        {
+          "File": "motions/Mgirl11_shuzhan.motion3.json"
+        }
+      ],
+      "Mgirl11_stand": [
+        {
+          "File": "motions/Mgirl11_stand.motion3.json"
+        }
+      ],
+      "Mgirl11_tanqi": [
+        {
+          "File": "motions/Mgirl11_tanqi.motion3.json"
+        }
+      ],
+      "Mgirl11_weixiao": [
+        {
+          "File": "motions/Mgirl11_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl11_zhayan": [
+        {
+          "File": "motions/Mgirl11_zhayan.motion3.json"
+        }
+      ],
+      "Mgirl11_zuoyouzhangwang": [
+        {
+          "File": "motions/Mgirl11_zuoyouzhangwang.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

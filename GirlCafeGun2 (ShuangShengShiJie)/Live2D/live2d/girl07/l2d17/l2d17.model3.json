@@ -1,0 +1,374 @@
+{
+  "Version": 3,
+  "Name": "l2d17",
+  "FileReferences": {
+    "Moc": "l2d17.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl07_baishou": [
+        {
+          "File": "motions/Mgirl07_baishou.motion3.json"
+        }
+      ],
+      "Mgirl07_baishou2": [
+        {
+          "File": "motions/Mgirl07_baishou2.motion3.json"
+        }
+      ],
+      "Mgirl07_baohaibao": [
+        {
+          "File": "motions/Mgirl07_baohaibao.motion3.json"
+        }
+      ],
+      "Mgirl07_baohaibao_a": [
+        {
+          "File": "motions/Mgirl07_baohaibao_a.motion3.json"
+        }
+      ],
+      "Mgirl07_baonu_c": [
+        {
+          "File": "motions/Mgirl07_baonu_c.motion3.json"
+        }
+      ],
+      "Mgirl07_bianmoshu": [
+        {
+          "File": "motions/Mgirl07_bianmoshu.motion3.json"
+        }
+      ],
+      "Mgirl07_bianmoshu2": [
+        {
+          "File": "motions/Mgirl07_bianmoshu2.motion3.json"
+        }
+      ],
+      "Mgirl07_dahaqian_c": [
+        {
+          "File": "motions/Mgirl07_dahaqian_c.motion3.json"
+        }
+      ],
+      "Mgirl07_dazhaohu_a": [
+        {
+          "File": "motions/Mgirl07_dazhaohu_a.motion3.json"
+        }
+      ],
+      "Mgirl07_dazhaohu_a2": [
+        {
+          "File": "motions/Mgirl07_dazhaohu_a2.motion3.json"
+        }
+      ],
+      "Mgirl07_diantou": [
+        {
+          "File": "motions/Mgirl07_diantou.motion3.json"
+        }
+      ],
+      "Mgirl07_ganga_c": [
+        {
+          "File": "motions/Mgirl07_ganga_c.motion3.json"
+        }
+      ],
+      "Mgirl07_ganga_c2": [
+        {
+          "File": "motions/Mgirl07_ganga_c2.motion3.json"
+        }
+      ],
+      "Mgirl07_haixiu": [
+        {
+          "File": "motions/Mgirl07_haixiu.motion3.json"
+        }
+      ],
+      "Mgirl07_haixiu2": [
+        {
+          "File": "motions/Mgirl07_haixiu2.motion3.json"
+        }
+      ],
+      "Mgirl07_jianchi": [
+        {
+          "File": "motions/Mgirl07_jianchi.motion3.json"
+        }
+      ],
+      "Mgirl07_jiashengqi": [
+        {
+          "File": "motions/Mgirl07_jiashengqi.motion3.json"
+        }
+      ],
+      "Mgirl07_jingxi_a": [
+        {
+          "File": "motions/Mgirl07_jingxi_a.motion3.json"
+        }
+      ],
+      "Mgirl07_jingxi_a2": [
+        {
+          "File": "motions/Mgirl07_jingxi_a2.motion3.json"
+        }
+      ],
+      "Mgirl07_jingya": [
+        {
+          "File": "motions/Mgirl07_jingya.motion3.json"
+        }
+      ],
+      "Mgirl07_keai_a": [
+        {
+          "File": "motions/Mgirl07_keai_a.motion3.json"
+        }
+      ],
+      "Mgirl07_keai_a2": [
+        {
+          "File": "motions/Mgirl07_keai_a2.motion3.json"
+        }
+      ],
+      "Mgirl07_kuazhang": [
+        {
+          "File": "motions/Mgirl07_kuazhang.motion3.json"
+        }
+      ],
+      "Mgirl07_kunao": [
+        {
+          "File": "motions/Mgirl07_kunao.motion3.json"
+        }
+      ],
+      "Mgirl07_mimididian": [
+        {
+          "File": "motions/Mgirl07_mimididian.motion3.json"
+        }
+      ],
+      "Mgirl07_mimididian_a": [
+        {
+          "File": "motions/Mgirl07_mimididian_a.motion3.json"
+        }
+      ],
+      "Mgirl07_motouweixiao": [
+        {
+          "File": "motions/Mgirl07_motouweixiao.motion3.json"
+        }
+      ],
+      "Mgirl07_motouwushi_c": [
+        {
+          "File": "motions/Mgirl07_motouwushi_c.motion3.json"
+        }
+      ],
+      "Mgirl07_motouxiao_a": [
+        {
+          "File": "motions/Mgirl07_motouxiao_a.motion3.json"
+        }
+      ],
+      "Mgirl07_motouxiao_a2": [
+        {
+          "File": "motions/Mgirl07_motouxiao_a2.motion3.json"
+        }
+      ],
+      "Mgirl07_nu": [
+        {
+          "File": "motions/Mgirl07_nu.motion3.json"
+        }
+      ],
+      "Mgirl07_nu2": [
+        {
+          "File": "motions/Mgirl07_nu2.motion3.json"
+        }
+      ],
+      "Mgirl07_qidao": [
+        {
+          "File": "motions/Mgirl07_qidao.motion3.json"
+        }
+      ],
+      "Mgirl07_qidaozhufu": [
+        {
+          "File": "motions/Mgirl07_qidaozhufu.motion3.json"
+        }
+      ],
+      "Mgirl07_qidaozhufu2": [
+        {
+          "File": "motions/Mgirl07_qidaozhufu2.motion3.json"
+        }
+      ],
+      "Mgirl07_qinwenshizijia_a": [
+        {
+          "File": "motions/Mgirl07_qinwenshizijia_a.motion3.json"
+        }
+      ],
+      "Mgirl07_sajiao_a": [
+        {
+          "File": "motions/Mgirl07_sajiao_a.motion3.json"
+        }
+      ],
+      "Mgirl07_shiluo": [
+        {
+          "File": "motions/Mgirl07_shiluo.motion3.json"
+        }
+      ],
+      "Mgirl07_shiluo2": [
+        {
+          "File": "motions/Mgirl07_shiluo2.motion3.json"
+        }
+      ],
+      "Mgirl07_shuqi": [
+        {
+          "File": "motions/Mgirl07_shuqi.motion3.json"
+        }
+      ],
+      "Mgirl07_sikao_a": [
+        {
+          "File": "motions/Mgirl07_sikao_a.motion3.json"
+        }
+      ],
+      "Mgirl07_stand": [
+        {
+          "File": "motions/Mgirl07_stand.motion3.json"
+        }
+      ],
+      "Mgirl07_stand02": [
+        {
+          "File": "motions/Mgirl07_stand02.motion3.json"
+        }
+      ],
+      "Mgirl07_stand_a": [
+        {
+          "File": "motions/Mgirl07_stand_a.motion3.json"
+        }
+      ],
+      "Mgirl07_stand_c": [
+        {
+          "File": "motions/Mgirl07_stand_c.motion3.json"
+        }
+      ],
+      "Mgirl07_tianxiao_a": [
+        {
+          "File": "motions/Mgirl07_tianxiao_a.motion3.json"
+        }
+      ],
+      "Mgirl07_tianxiao_a2": [
+        {
+          "File": "motions/Mgirl07_tianxiao_a2.motion3.json"
+        }
+      ],
+      "Mgirl07_tiaoxizhuangzhi": [
+        {
+          "File": "motions/Mgirl07_tiaoxizhuangzhi.motion3.json"
+        }
+      ],
+      "Mgirl07_tiaoxizhuangzhi_a": [
+        {
+          "File": "motions/Mgirl07_tiaoxizhuangzhi_a.motion3.json"
+        }
+      ],
+      "Mgirl07_touteng_c": [
+        {
+          "File": "motions/Mgirl07_touteng_c.motion3.json"
+        }
+      ],
+      "Mgirl07_touxiao": [
+        {
+          "File": "motions/Mgirl07_touxiao.motion3.json"
+        }
+      ],
+      "Mgirl07_tuoyeganga_c": [
+        {
+          "File": "motions/Mgirl07_tuoyeganga_c.motion3.json"
+        }
+      ],
+      "Mgirl07_tuoyehaixiu": [
+        {
+          "File": "motions/Mgirl07_tuoyehaixiu.motion3.json"
+        }
+      ],
+      "Mgirl07_tuoyehaixiu2": [
+        {
+          "File": "motions/Mgirl07_tuoyehaixiu2.motion3.json"
+        }
+      ],
+      "Mgirl07_tuoyehaixiu_a": [
+        {
+          "File": "motions/Mgirl07_tuoyehaixiu_a.motion3.json"
+        }
+      ],
+      "Mgirl07_tuoyeyihuo": [
+        {
+          "File": "motions/Mgirl07_tuoyeyihuo.motion3.json"
+        }
+      ],
+      "Mgirl07_vowerguang": [
+        {
+          "File": "motions/Mgirl07_vowerguang.motion3.json"
+        }
+      ],
+      "Mgirl07_vowjingcha": [
+        {
+          "File": "motions/Mgirl07_vowjingcha.motion3.json"
+        }
+      ],
+      "Mgirl07_vowxiaolei": [
+        {
+          "File": "motions/Mgirl07_vowxiaolei.motion3.json"
+        }
+      ],
+      "Mgirl07_woshizijiamanyuan": [
+        {
+          "File": "motions/Mgirl07_woshizijiamanyuan.motion3.json"
+        }
+      ],
+      "Mgirl07_woshizijiamanyuan2": [
+        {
+          "File": "motions/Mgirl07_woshizijiamanyuan2.motion3.json"
+        }
+      ],
+      "Mgirl07_wuzuihaixiu": [
+        {
+          "File": "motions/Mgirl07_wuzuihaixiu.motion3.json"
+        }
+      ],
+      "Mgirl07_wuzuihaixiu2": [
+        {
+          "File": "motions/Mgirl07_wuzuihaixiu2.motion3.json"
+        }
+      ],
+      "Mgirl07_xianqi_c": [
+        {
+          "File": "motions/Mgirl07_xianqi_c.motion3.json"
+        }
+      ],
+      "Mgirl07_xianqunzi": [
+        {
+          "File": "motions/Mgirl07_xianqunzi.motion3.json"
+        }
+      ],
+      "Mgirl07_xiunu_a": [
+        {
+          "File": "motions/Mgirl07_xiunu_a.motion3.json"
+        }
+      ],
+      "Mgirl07_yansusikao": [
+        {
+          "File": "motions/Mgirl07_yansusikao.motion3.json"
+        }
+      ],
+      "Mgirl07_yi": [
+        {
+          "File": "motions/Mgirl07_yi.motion3.json"
+        }
+      ],
+      "Mgirl07_yihuo": [
+        {
+          "File": "motions/Mgirl07_yihuo.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

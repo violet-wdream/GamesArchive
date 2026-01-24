@@ -1,0 +1,101 @@
+{
+  "Version": 3,
+  "Name": "l2d401",
+  "FileReferences": {
+    "Moc": "l2d401.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl13_bu": [
+        {
+          "File": "motions/Mgirl13_bu.motion3.json"
+        }
+      ],
+      "Mgirl13_chaokaixin": [
+        {
+          "File": "motions/Mgirl13_chaokaixin.motion3.json"
+        }
+      ],
+      "Mgirl13_jiandao": [
+        {
+          "File": "motions/Mgirl13_jiandao.motion3.json"
+        }
+      ],
+      "Mgirl13_keai": [
+        {
+          "File": "motions/Mgirl13_keai.motion3.json"
+        }
+      ],
+      "Mgirl13_motoubiyan": [
+        {
+          "File": "motions/Mgirl13_motoubiyan.motion3.json"
+        }
+      ],
+      "Mgirl13_shitou": [
+        {
+          "File": "motions/Mgirl13_shitou.motion3.json"
+        }
+      ],
+      "Mgirl13_shiwang": [
+        {
+          "File": "motions/Mgirl13_shiwang.motion3.json"
+        }
+      ],
+      "Mgirl13_stand": [
+        {
+          "File": "motions/Mgirl13_stand.motion3.json"
+        }
+      ],
+      "Mgirl13_stand1": [
+        {
+          "File": "motions/Mgirl13_stand1.motion3.json"
+        }
+      ],
+      "Mgirl13_stand2": [
+        {
+          "File": "motions/Mgirl13_stand2.motion3.json"
+        }
+      ],
+      "Mgirl13_weixiao": [
+        {
+          "File": "motions/Mgirl13_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl13_wink": [
+        {
+          "File": "motions/Mgirl13_wink.motion3.json"
+        }
+      ],
+      "Mgirl13_yansu": [
+        {
+          "File": "motions/Mgirl13_yansu.motion3.json"
+        }
+      ],
+      "Mgirl13_yihuo": [
+        {
+          "File": "motions/Mgirl13_yihuo.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "Version": 3,
+  "Name": "l2d5018",
+  "FileReferences": {
+    "Moc": "l2d5018.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl15_chuchang": [
+        {
+          "File": "motions/Mgirl15_chuchang.motion3.json"
+        }
+      ],
+      "Mgirl15_dianqunzi": [
+        {
+          "File": "motions/Mgirl15_dianqunzi.motion3.json"
+        }
+      ],
+      "Mgirl15_dianshou": [
+        {
+          "File": "motions/Mgirl15_dianshou.motion3.json"
+        }
+      ],
+      "Mgirl15_diantui": [
+        {
+          "File": "motions/Mgirl15_diantui.motion3.json"
+        }
+      ],
+      "Mgirl15_dianxiongkou": [
+        {
+          "File": "motions/Mgirl15_dianxiongkou.motion3.json"
+        }
+      ],
+      "Mgirl15_menglu": [
+        {
+          "File": "motions/Mgirl15_menglu.motion3.json"
+        }
+      ],
+      "Mgirl15_motou": [
+        {
+          "File": "motions/Mgirl15_motou.motion3.json"
+        }
+      ],
+      "Mgirl15_stand": [
+        {
+          "File": "motions/Mgirl15_stand.motion3.json"
+        }
+      ],
+      "Mgirl15_zhangwang": [
+        {
+          "File": "motions/Mgirl15_zhangwang.motion3.json"
+        }
+      ],
+      "Mgirl15_zhanshi1": [
+        {
+          "File": "motions/Mgirl15_zhanshi1.motion3.json"
+        }
+      ],
+      "Mgirl15_zhanshi2": [
+        {
+          "File": "motions/Mgirl15_zhanshi2.motion3.json"
+        }
+      ],
+      "Mgirl15_zhanshi3": [
+        {
+          "File": "motions/Mgirl15_zhanshi3.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

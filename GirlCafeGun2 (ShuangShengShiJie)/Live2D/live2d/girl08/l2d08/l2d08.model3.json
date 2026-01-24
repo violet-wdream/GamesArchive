@@ -1,0 +1,131 @@
+{
+  "Version": 3,
+  "Name": "l2d08",
+  "FileReferences": {
+    "Moc": "l2d08.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl08_dapenti": [
+        {
+          "File": "motions/Mgirl08_dapenti.motion3.json"
+        }
+      ],
+      "Mgirl08_dazhaohu_a": [
+        {
+          "File": "motions/Mgirl08_dazhaohu_a.motion3.json"
+        }
+      ],
+      "Mgirl08_ganxie": [
+        {
+          "File": "motions/Mgirl08_ganxie.motion3.json"
+        }
+      ],
+      "Mgirl08_haixiu_a": [
+        {
+          "File": "motions/Mgirl08_haixiu_a.motion3.json"
+        }
+      ],
+      "Mgirl08_heixian1": [
+        {
+          "File": "motions/Mgirl08_heixian1.motion3.json"
+        }
+      ],
+      "Mgirl08_heixian2": [
+        {
+          "File": "motions/Mgirl08_heixian2.motion3.json"
+        }
+      ],
+      "Mgirl08_jingxi_a": [
+        {
+          "File": "motions/Mgirl08_jingxi_a.motion3.json"
+        }
+      ],
+      "Mgirl08_lengyin": [
+        {
+          "File": "motions/Mgirl08_lengyin.motion3.json"
+        }
+      ],
+      "Mgirl08_motouxiao": [
+        {
+          "File": "motions/Mgirl08_motouxiao.motion3.json"
+        }
+      ],
+      "Mgirl08_qidai": [
+        {
+          "File": "motions/Mgirl08_qidai.motion3.json"
+        }
+      ],
+      "Mgirl08_qidai_a": [
+        {
+          "File": "motions/Mgirl08_qidai_a.motion3.json"
+        }
+      ],
+      "Mgirl08_shengqi_a": [
+        {
+          "File": "motions/Mgirl08_shengqi_a.motion3.json"
+        }
+      ],
+      "Mgirl08_shishen": [
+        {
+          "File": "motions/Mgirl08_shishen.motion3.json"
+        }
+      ],
+      "Mgirl08_shishen_a": [
+        {
+          "File": "motions/Mgirl08_shishen_a.motion3.json"
+        }
+      ],
+      "Mgirl08_stand": [
+        {
+          "File": "motions/Mgirl08_stand.motion3.json"
+        }
+      ],
+      "Mgirl08_stand02": [
+        {
+          "File": "motions/Mgirl08_stand02.motion3.json"
+        }
+      ],
+      "Mgirl08_tuoyexiuse": [
+        {
+          "File": "motions/Mgirl08_tuoyexiuse.motion3.json"
+        }
+      ],
+      "Mgirl08_wuzhu": [
+        {
+          "File": "motions/Mgirl08_wuzhu.motion3.json"
+        }
+      ],
+      "Mgirl08_xiangshou_a": [
+        {
+          "File": "motions/Mgirl08_xiangshou_a.motion3.json"
+        }
+      ],
+      "Mgirl08_zhunbeichuxing": [
+        {
+          "File": "motions/Mgirl08_zhunbeichuxing.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}
