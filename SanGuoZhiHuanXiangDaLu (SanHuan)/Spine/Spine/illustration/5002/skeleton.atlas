@@ -1,0 +1,90 @@
+
+skeleton.png
+size: 1019,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+41300
+  rotate: false
+  xy: 2, 143
+  size: 635, 879
+  orig: 881, 881
+  offset: 170, 0
+  index: -1
+Vicious
+  rotate: true
+  xy: 356, 2
+  size: 88, 133
+  orig: 214, 208
+  offset: 105, 35
+  index: -1
+injured
+  rotate: true
+  xy: 829, 826
+  size: 196, 188
+  orig: 214, 208
+  offset: 12, 10
+  index: -1
+insane0
+  rotate: true
+  xy: 2, 5
+  size: 136, 352
+  orig: 136, 352
+  offset: 0, 0
+  index: -1
+insane1
+  rotate: false
+  xy: 639, 665
+  size: 188, 357
+  orig: 188, 357
+  offset: 0, 0
+  index: -1
+insane2
+  rotate: false
+  xy: 639, 297
+  size: 159, 366
+  orig: 166, 371
+  offset: 4, 0
+  index: -1
+insane4
+  rotate: true
+  xy: 829, 715
+  size: 109, 188
+  orig: 109, 188
+  offset: 0, 0
+  index: -1
+insane5
+  rotate: true
+  xy: 356, 92
+  size: 49, 178
+  orig: 49, 178
+  offset: 0, 0
+  index: -1
+insane6
+  rotate: false
+  xy: 800, 341
+  size: 209, 322
+  orig: 209, 322
+  offset: 0, 0
+  index: -1
+insane7
+  rotate: false
+  xy: 639, 101
+  size: 167, 194
+  orig: 167, 194
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 808, 173
+  size: 90, 84
+  orig: 214, 208
+  offset: 99, 38
+  index: -1
+shout
+  rotate: false
+  xy: 808, 259
+  size: 111, 80
+  orig: 214, 208
+  offset: 82, 33
+  index: -1

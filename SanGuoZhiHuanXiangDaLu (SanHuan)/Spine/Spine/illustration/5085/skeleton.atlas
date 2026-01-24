@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 1316,1102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 93
+  size: 586, 1007
+  orig: 586, 1007
+  offset: 0, 0
+  index: -1
+fox
+  rotate: false
+  xy: 590, 2
+  size: 179, 182
+  orig: 179, 182
+  offset: 0, 0
+  index: -1
+foxshy
+  rotate: false
+  xy: 771, 2
+  size: 179, 182
+  orig: 179, 182
+  offset: 0, 0
+  index: -1
+foxtease
+  rotate: true
+  xy: 1124, 839
+  size: 261, 182
+  orig: 261, 182
+  offset: 0, 0
+  index: -1
+images/cry
+  rotate: false
+  xy: 1036, 74
+  size: 188, 190
+  orig: 188, 190
+  offset: 0, 0
+  index: -1
+images/injure
+  rotate: true
+  xy: 1124, 648
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+images/mohua
+  rotate: true
+  xy: 590, 588
+  size: 512, 532
+  orig: 512, 532
+  offset: 0, 0
+  index: -1
+images/taunt
+  rotate: true
+  xy: 1124, 457
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+images/wrath
+  rotate: true
+  xy: 1036, 266
+  size: 189, 190
+  orig: 189, 190
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 590, 186
+  size: 400, 444
+  orig: 400, 444
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1526,826
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 822, 854
+  orig: 822, 854
+  offset: 0, 0
+  index: -1
+crazy
+  rotate: true
+  xy: 858, 13
+  size: 187, 204
+  orig: 187, 204
+  offset: 0, 0
+  index: -1
+images/enchantment
+  rotate: false
+  xy: 858, 202
+  size: 666, 622
+  orig: 666, 622
+  offset: 0, 0
+  index: -1
+images/excited
+  rotate: true
+  xy: 1270, 13
+  size: 187, 203
+  orig: 187, 203
+  offset: 0, 0
+  index: -1
+sad
+  rotate: true
+  xy: 1064, 13
+  size: 187, 204
+  orig: 187, 204
+  offset: 0, 0
+  index: -1

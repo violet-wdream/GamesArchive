@@ -1,0 +1,34 @@
+
+effect_soul.png
+size: 344,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effect/guang/guang_00000
+  rotate: false
+  xy: 314, 36
+  size: 28, 30
+  orig: 32, 32
+  offset: 2, 1
+  index: -1
+images/effect/guangxian/1_00000
+  rotate: false
+  xy: 2, 3
+  size: 128, 63
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+images/effect/toushi/1_00000
+  rotate: false
+  xy: 132, 2
+  size: 114, 64
+  orig: 128, 64
+  offset: 9, 0
+  index: -1
+images/effect/xing/xing_00000
+  rotate: false
+  xy: 248, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
