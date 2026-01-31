@@ -1,0 +1,370 @@
+
+petmovie4424.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L arm 1
+  rotate: false
+  xy: 993, 1405
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+L leg 1
+  rotate: false
+  xy: 189, 327
+  size: 37, 124
+  orig: 37, 124
+  offset: 0, 0
+  index: -1
+L leg 2
+  rotate: false
+  xy: 545, 1154
+  size: 54, 177
+  orig: 54, 177
+  offset: 0, 0
+  index: -1
+L rabbit 0
+  rotate: false
+  xy: 1327, 1829
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+L rabbit 1
+  rotate: false
+  xy: 2, 2
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+L rabbit arm 1
+  rotate: false
+  xy: 68, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+L rabbit arm 2
+  rotate: false
+  xy: 244, 466
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+L rabbit body
+  rotate: false
+  xy: 1273, 1778
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+L rabbit foot 1
+  rotate: false
+  xy: 1219, 1760
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+L rabbit foot 2
+  rotate: false
+  xy: 1080, 1721
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+L rabbit neck
+  rotate: false
+  xy: 68, 20
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+L shoushi1
+  rotate: false
+  xy: 770, 1362
+  size: 25, 36
+  orig: 25, 36
+  offset: 0, 0
+  index: -1
+L shoushi3
+  rotate: false
+  xy: 545, 1020
+  size: 55, 20
+  orig: 55, 20
+  offset: 0, 0
+  index: -1
+R arm 1
+  rotate: false
+  xy: 189, 264
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+R leg 1
+  rotate: false
+  xy: 545, 1042
+  size: 56, 110
+  orig: 56, 110
+  offset: 0, 0
+  index: -1
+R leg 2
+  rotate: false
+  xy: 1080, 1733
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+R rabbit
+  rotate: false
+  xy: 189, 216
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+R rabbit arm 1
+  rotate: false
+  xy: 354, 657
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+R rabbit arm 2
+  rotate: false
+  xy: 1154, 1736
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+R rabbit body
+  rotate: false
+  xy: 33, 11
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+R rabbit foot 1
+  rotate: false
+  xy: 228, 442
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+R rabbit foot 2
+  rotate: false
+  xy: 506, 740
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+R shoushi1
+  rotate: false
+  xy: 244, 477
+  size: 71, 54
+  orig: 71, 54
+  offset: 0, 0
+  index: -1
+R shoushi2
+  rotate: false
+  xy: 1642, 1845
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 1966, 1890
+  size: 80, 156
+  orig: 80, 156
+  offset: 0, 0
+  index: -1
+crown
+  rotate: false
+  xy: 1273, 1811
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+crystal 1
+  rotate: false
+  xy: 1693, 1936
+  size: 271, 110
+  orig: 271, 110
+  offset: 0, 0
+  index: -1
+crystal12
+  rotate: false
+  xy: 1348, 1954
+  size: 343, 92
+  orig: 343, 92
+  offset: 0, 0
+  index: -1
+crystal13
+  rotate: false
+  xy: 2, 1017
+  size: 541, 314
+  orig: 541, 314
+  offset: 0, 0
+  index: -1
+dress1
+  rotate: false
+  xy: 621, 1334
+  size: 96, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+dress2
+  rotate: false
+  xy: 1080, 1843
+  size: 266, 203
+  orig: 266, 203
+  offset: 0, 0
+  index: -1
+dress3
+  rotate: false
+  xy: 1045, 1421
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+dress4
+  rotate: false
+  xy: 519, 989
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+dress6
+  rotate: false
+  xy: 993, 1452
+  size: 102, 267
+  orig: 102, 267
+  offset: 0, 0
+  index: -1
+dress9
+  rotate: false
+  xy: 2, 453
+  size: 240, 201
+  orig: 240, 201
+  offset: 0, 0
+  index: -1
+fa0
+  rotate: false
+  xy: 1219, 1773
+  size: 52, 68
+  orig: 52, 68
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: false
+  xy: 621, 1721
+  size: 457, 325
+  orig: 457, 325
+  offset: 0, 0
+  index: -1
+fa5
+  rotate: false
+  xy: 1642, 1867
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+fa6
+  rotate: false
+  xy: 244, 533
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+fa8
+  rotate: false
+  xy: 2, 47
+  size: 191, 166
+  orig: 191, 166
+  offset: 0, 0
+  index: -1
+flower1
+  rotate: false
+  xy: 317, 481
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+harp
+  rotate: false
+  xy: 2, 656
+  size: 350, 359
+  orig: 350, 359
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 2, 215
+  size: 185, 236
+  orig: 185, 236
+  offset: 0, 0
+  index: -1
+leaf16
+  rotate: false
+  xy: 354, 753
+  size: 163, 262
+  orig: 163, 262
+  offset: 0, 0
+  index: -1
+moon
+  rotate: false
+  xy: 354, 671
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 601, 1307
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+necklace1
+  rotate: false
+  xy: 797, 1372
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+qunzizuo1
+  rotate: false
+  xy: 1154, 1758
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 1333
+  size: 617, 713
+  orig: 617, 713
+  offset: 0, 0
+  index: -1
+stair1
+  rotate: false
+  xy: 1348, 1842
+  size: 292, 110
+  orig: 292, 110
+  offset: 0, 0
+  index: -1
+star1
+  rotate: false
+  xy: 621, 1400
+  size: 370, 319
+  orig: 370, 319
+  offset: 0, 0
+  index: -1
+wuguan
+  rotate: false
+  xy: 719, 1353
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
