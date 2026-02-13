@@ -1,0 +1,41 @@
+
+Senior_Xuanxingcong_Pf_Bj.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 15
+  size: 1000, 953
+  orig: 1000, 953
+  offset: 0, 0
+  index: -1
+shitou_1
+  rotate: 270
+  xy: 1003, 16
+  size: 952, 423
+  orig: 952, 423
+  offset: 0, 0
+  index: -1
+shitou_10
+  rotate: true
+  xy: 1303, 35
+  size: 279, 216
+  orig: 279, 216
+  offset: 0, 0
+  index: -1
+shitou_2
+  rotate: true
+  xy: 884, 3
+  size: 142, 207
+  orig: 142, 207
+  offset: 0, 0
+  index: -1
+shitoubeihousha
+  rotate: true
+  xy: 2, 48
+  size: 107, 150
+  orig: 107, 150
+  offset: 0, 0
+  index: -1

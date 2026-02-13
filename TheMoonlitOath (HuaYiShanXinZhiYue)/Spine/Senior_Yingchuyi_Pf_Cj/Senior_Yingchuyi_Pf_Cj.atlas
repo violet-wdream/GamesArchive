@@ -1,0 +1,41 @@
+
+Senior_Yingchuyi_Pf_Cj.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 237
+  size: 900, 676
+  orig: 900, 676
+  offset: 0, 0
+  index: -1
+houbu1
+  rotate: true
+  xy: 253, 17
+  size: 216, 256
+  orig: 216, 256
+  offset: 0, 0
+  index: -1
+houbu3
+  rotate: true
+  xy: 550, 5
+  size: 117, 236
+  orig: 117, 236
+  offset: 0, 0
+  index: -1
+pijianhou1
+  rotate: 270
+  xy: 425, 25
+  size: 351, 458
+  orig: 351, 458
+  offset: 0, 0
+  index: -1
+wuding
+  rotate: 180
+  xy: 2, 3
+  size: 400, 309
+  orig: 400, 309
+  offset: 0, 0
+  index: -1

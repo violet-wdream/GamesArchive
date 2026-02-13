@@ -1,0 +1,49 @@
+{
+    "skeleton": {
+        "x": -528.3178100585938,
+        "y": -78.85193634033203,
+        "width": 962.35009765625,
+        "height": 972.7999877929688,
+        "hash": "saJjupyvgLe7e/t8aDOU/n8z0Q0",
+        "spine": "3.8.79"
+    },
+    "bones": [
+        {
+            "name": "root"
+        },
+        {
+            "name": "bone6",
+            "parent": "root",
+            "x": 6.71490478515625,
+            "y": 1.34295654296875,
+            "scaleX": 0.949999988079071,
+            "scaleY": 0.949999988079071
+        }
+    ],
+    "slots": [
+        {
+            "name": "BJ2",
+            "bone": "bone6",
+            "attachment": "BJ2"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "BJ2": {
+                    "BJ2": {
+                        "x": -56.6922721862793,
+                        "y": 427.5843200683594,
+                        "width": 1013.0,
+                        "height": 1024.0
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "idle1": {},
+        "idle2": {}
+    }
+}
