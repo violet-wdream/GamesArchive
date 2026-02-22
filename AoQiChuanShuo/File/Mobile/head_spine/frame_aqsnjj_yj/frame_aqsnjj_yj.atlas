@@ -1,0 +1,153 @@
+
+frame_aqsnjj_yj.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: true
+  xy: 210, 222
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+baoshilight
+  rotate: false
+  xy: 169, 185
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+biaoti
+  rotate: false
+  xy: 112, 214
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+chibangyoiushang
+  rotate: true
+  xy: 112, 180
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+chibangyouxia
+  rotate: false
+  xy: 29, 2
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+chibangzuoshang
+  rotate: false
+  xy: 47, 114
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+chibangzuoxia
+  rotate: false
+  xy: 2, 2
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 171
+  size: 108, 83
+  orig: 108, 83
+  offset: 0, 0
+  index: -1
+kuangchibang
+  rotate: true
+  xy: 2, 54
+  size: 115, 43
+  orig: 115, 43
+  offset: 0, 0
+  index: -1
+lightyou1
+  rotate: false
+  xy: 91, 94
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+lightyou2
+  rotate: true
+  xy: 112, 171
+  size: 7, 13
+  orig: 7, 13
+  offset: 0, 0
+  index: -1
+lightyou3
+  rotate: false
+  xy: 91, 67
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+lightyou4
+  rotate: false
+  xy: 75, 87
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+lightyou5
+  rotate: false
+  xy: 55, 31
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1
+lightyou6
+  rotate: false
+  xy: 55, 13
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+lightzuo2
+  rotate: false
+  xy: 91, 79
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+lightzuo3
+  rotate: true
+  xy: 81, 107
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+lightzuo4
+  rotate: true
+  xy: 75, 68
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+lihtzuo1
+  rotate: false
+  xy: 55, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+youfire
+  rotate: true
+  xy: 47, 63
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+zuofire
+  rotate: true
+  xy: 81, 126
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1

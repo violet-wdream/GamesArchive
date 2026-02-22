@@ -1,0 +1,160 @@
+
+frame_aqds02.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+k0
+  rotate: false
+  xy: 208, 52
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+k1
+  rotate: true
+  xy: 2, 2
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+k10
+  rotate: false
+  xy: 66, 3
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+k11
+  rotate: false
+  xy: 165, 6
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+k12
+  rotate: true
+  xy: 187, 8
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+k14
+  rotate: false
+  xy: 2, 28
+  size: 58, 98
+  orig: 58, 98
+  offset: 0, 0
+  index: -1
+k15
+  rotate: false
+  xy: 233, 30
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+k16
+  rotate: false
+  xy: 156, 36
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+k17
+  rotate: false
+  xy: 165, 99
+  size: 71, 27
+  orig: 71, 27
+  offset: 0, 0
+  index: -1
+k18
+  rotate: false
+  xy: 87, 4
+  size: 76, 28
+  orig: 76, 28
+  offset: 0, 0
+  index: -1
+k19
+  rotate: false
+  xy: 62, 34
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+k2
+  rotate: false
+  xy: 27, 3
+  size: 37, 23
+  orig: 37, 23
+  offset: 0, 0
+  index: -1
+k20
+  rotate: false
+  xy: 191, 84
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+k21
+  rotate: false
+  xy: 191, 62
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+k22
+  rotate: false
+  xy: 191, 73
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+k3
+  rotate: false
+  xy: 208, 30
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+k4
+  rotate: false
+  xy: 235, 66
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+k5
+  rotate: false
+  xy: 208, 8
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+k6
+  rotate: false
+  xy: 238, 105
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+k7
+  rotate: false
+  xy: 230, 8
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+k8
+  rotate: true
+  xy: 238, 88
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+k9
+  rotate: true
+  xy: 208, 77
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1

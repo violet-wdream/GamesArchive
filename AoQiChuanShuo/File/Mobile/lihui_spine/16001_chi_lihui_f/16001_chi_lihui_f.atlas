@@ -1,0 +1,83 @@
+
+16001_chi_lihui_f.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SUI1
+  rotate: true
+  xy: 1232, 962
+  size: 122, 564
+  orig: 122, 564
+  offset: 0, 0
+  index: -1
+SUI2
+  rotate: true
+  xy: 1252, 1213
+  size: 197, 674
+  orig: 197, 674
+  offset: 0, 0
+  index: -1
+suiy1
+  rotate: false
+  xy: 1232, 1086
+  size: 578, 125
+  orig: 578, 125
+  offset: 0, 0
+  index: -1
+tousui
+  rotate: true
+  xy: 760, 672
+  size: 547, 368
+  orig: 547, 368
+  offset: 0, 0
+  index: -1
+yousp1
+  rotate: false
+  xy: 419, 541
+  size: 339, 678
+  orig: 339, 678
+  offset: 0, 0
+  index: -1
+yousp2
+  rotate: false
+  xy: 2, 2
+  size: 243, 393
+  orig: 243, 393
+  offset: 0, 0
+  index: -1
+yousp3
+  rotate: true
+  xy: 419, 457
+  size: 82, 253
+  orig: 82, 253
+  offset: 0, 0
+  index: -1
+yousp4
+  rotate: false
+  xy: 2, 397
+  size: 415, 1013
+  orig: 415, 1013
+  offset: 0, 0
+  index: -1
+ysuid
+  rotate: true
+  xy: 1130, 715
+  size: 504, 100
+  orig: 504, 100
+  offset: 0, 0
+  index: -1
+ysuis
+  rotate: false
+  xy: 419, 1221
+  size: 831, 189
+  orig: 831, 189
+  offset: 0, 0
+  index: -1
+zuosp
+  rotate: false
+  xy: 2, 1412
+  size: 2024, 512
+  orig: 2024, 512
+  offset: 0, 0
+  index: -1

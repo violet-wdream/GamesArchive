@@ -1,0 +1,76 @@
+
+playerinfobg_dihuangxia.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuo1
+  rotate: false
+  xy: 375, 307
+  size: 98, 198
+  orig: 98, 198
+  offset: 0, 0
+  index: -1
+shuo10
+  rotate: true
+  xy: 2, 2
+  size: 68, 227
+  orig: 68, 227
+  offset: 0, 0
+  index: -1
+shuo11
+  rotate: false
+  xy: 2, 194
+  size: 333, 145
+  orig: 333, 145
+  offset: 0, 0
+  index: -1
+shuo2
+  rotate: true
+  xy: 2, 72
+  size: 120, 268
+  orig: 120, 268
+  offset: 0, 0
+  index: -1
+shuo3
+  rotate: false
+  xy: 337, 90
+  size: 47, 215
+  orig: 47, 215
+  offset: 0, 0
+  index: -1
+shuo4
+  rotate: false
+  xy: 386, 153
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+shuo6
+  rotate: false
+  xy: 231, 7
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+shuo7
+  rotate: true
+  xy: 272, 85
+  size: 107, 53
+  orig: 107, 53
+  offset: 0, 0
+  index: -1
+shuo8
+  rotate: false
+  xy: 2, 341
+  size: 371, 164
+  orig: 371, 164
+  offset: 0, 0
+  index: -1
+shuo9
+  rotate: false
+  xy: 386, 217
+  size: 43, 88
+  orig: 43, 88
+  offset: 0, 0
+  index: -1

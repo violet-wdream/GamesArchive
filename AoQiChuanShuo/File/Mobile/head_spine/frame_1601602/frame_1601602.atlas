@@ -1,0 +1,90 @@
+
+frame_1601602.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b0
+  rotate: false
+  xy: 2, 126
+  size: 136, 127
+  orig: 136, 127
+  offset: 0, 0
+  index: -1
+b1
+  rotate: true
+  xy: 126, 76
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+b10
+  rotate: false
+  xy: 140, 127
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+b11
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 239, 244
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 164, 91
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+b4
+  rotate: false
+  xy: 126, 36
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+b5
+  rotate: false
+  xy: 219, 191
+  size: 18, 62
+  orig: 18, 62
+  offset: 0, 0
+  index: -1
+b6
+  rotate: false
+  xy: 219, 160
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1
+b7
+  rotate: false
+  xy: 181, 157
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+b8
+  rotate: false
+  xy: 140, 149
+  size: 39, 104
+  orig: 39, 104
+  offset: 0, 0
+  index: -1
+b9
+  rotate: true
+  xy: 126, 15
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1

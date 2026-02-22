@@ -1,0 +1,118 @@
+
+frame_aqds01.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+t0
+  rotate: false
+  xy: 42, 5
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 26, 4
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+t10
+  rotate: false
+  xy: 196, 11
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+t11
+  rotate: false
+  xy: 2, 20
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+t12
+  rotate: true
+  xy: 110, 19
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+t13
+  rotate: false
+  xy: 159, 63
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+t14
+  rotate: false
+  xy: 110, 49
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+t15
+  rotate: false
+  xy: 110, 94
+  size: 111, 32
+  orig: 111, 32
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 2, 2
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 171, 12
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 171, 33
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 199, 34
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 226, 36
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+t7
+  rotate: true
+  xy: 223, 88
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+t8
+  rotate: false
+  xy: 221, 63
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+t9
+  rotate: true
+  xy: 226, 13
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+frame_aqsnjj_dj.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti
+  rotate: false
+  xy: 99, 36
+  size: 99, 38
+  orig: 99, 38
+  offset: 0, 0
+  index: -1
+chibangyoushang
+  rotate: false
+  xy: 210, 73
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+chibangyouxia
+  rotate: true
+  xy: 82, 14
+  size: 20, 55
+  orig: 20, 55
+  offset: 0, 0
+  index: -1
+chibangzuoshang
+  rotate: true
+  xy: 2, 2
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+chibangzuoxia
+  rotate: true
+  xy: 200, 51
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 38
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+kuangchibang
+  rotate: false
+  xy: 99, 76
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+youfire
+  rotate: false
+  xy: 54, 22
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+zuofire
+  rotate: false
+  xy: 54, 6
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1

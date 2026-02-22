@@ -1,0 +1,104 @@
+
+frame_2025nf.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rr0
+  rotate: true
+  xy: 186, 56
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+rr1
+  rotate: true
+  xy: 128, 163
+  size: 40, 99
+  orig: 40, 99
+  offset: 0, 0
+  index: -1
+rr10
+  rotate: false
+  xy: 128, 205
+  size: 97, 49
+  orig: 97, 49
+  offset: 0, 0
+  index: -1
+rr11
+  rotate: false
+  xy: 2, 7
+  size: 103, 40
+  orig: 103, 40
+  offset: 0, 0
+  index: -1
+rr12
+  rotate: true
+  xy: 229, 189
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+rr13
+  rotate: false
+  xy: 2, 130
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+rr2
+  rotate: false
+  xy: 111, 50
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+rr3
+  rotate: true
+  xy: 162, 19
+  size: 8, 53
+  orig: 8, 53
+  offset: 0, 0
+  index: -1
+rr4
+  rotate: true
+  xy: 128, 115
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+rr5
+  rotate: true
+  xy: 107, 2
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1
+rr6
+  rotate: true
+  xy: 107, 13
+  size: 14, 53
+  orig: 14, 53
+  offset: 0, 0
+  index: -1
+rr7
+  rotate: false
+  xy: 111, 29
+  size: 119, 19
+  orig: 119, 19
+  offset: 0, 0
+  index: -1
+rr8
+  rotate: false
+  xy: 2, 49
+  size: 107, 79
+  orig: 107, 79
+  offset: 0, 0
+  index: -1
+rr9
+  rotate: true
+  xy: 162, 7
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
