@@ -1,0 +1,110 @@
+{
+  "Version": 3,
+  "Name": "シーン2_02",
+  "FileReferences": {
+    "Moc": "シーン2_02.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": null,
+    "Motions": {
+      "【表情】微笑": [
+        {
+          "File": "motions/【表情】微笑.motion3.json"
+        }
+      ],
+      "【表情】流泪": [
+        {
+          "File": "motions/【表情】流泪.motion3.json"
+        }
+      ],
+      "【表情】默认": [
+        {
+          "File": "motions/【表情】默认.motion3.json"
+        }
+      ],
+      "吸烟": [
+        {
+          "File": "motions/吸烟.motion3.json"
+        }
+      ],
+      "吸烟2": [
+        {
+          "File": "motions/吸烟2.motion3.json"
+        }
+      ],
+      "烟头燃烧": [
+        {
+          "File": "motions/烟头燃烧.motion3.json"
+        }
+      ],
+      "转头": [
+        {
+          "File": "motions/转头.motion3.json"
+        }
+      ],
+      "飘动-云(风力0-1-0)": [
+        {
+          "File": "motions/飘动-云(风力0-1-0).motion3.json"
+        }
+      ],
+      "飘动-云": [
+        {
+          "File": "motions/飘动-云.motion3.json"
+        }
+      ],
+      "飘动-人物(风力0-1-0)": [
+        {
+          "File": "motions/飘动-人物(风力0-1-0).motion3.json"
+        }
+      ],
+      "飘动-人物": [
+        {
+          "File": "motions/飘动-人物.motion3.json"
+        }
+      ],
+      "飘动-背景(风力0-1-0)": [
+        {
+          "File": "motions/飘动-背景(风力0-1-0).motion3.json"
+        }
+      ],
+      "飘动-背景": [
+        {
+          "File": "motions/飘动-背景.motion3.json"
+        }
+      ],
+      "飘动-鸟(风力0-1-0)": [
+        {
+          "File": "motions/飘动-鸟(风力0-1-0).motion3.json"
+        }
+      ],
+      "飘动-鸟": [
+        {
+          "File": "motions/飘动-鸟.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthForm",
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
