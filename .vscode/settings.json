@@ -1,8 +1,0 @@
-{
-    "python-envs.pythonProjects": [
-        {
-            "envManager": "ms-python.python:conda",
-            "packageManager": "ms-python.python:conda"
-        }
-    ]
-}
