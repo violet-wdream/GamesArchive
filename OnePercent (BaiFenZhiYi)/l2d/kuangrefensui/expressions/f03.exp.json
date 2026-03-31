@@ -1,0 +1,14 @@
+{
+	"type":"Live2D Expression",
+	"fade_in":500,
+	"fade_out":500,
+	"params":[
+		{"id":"PARAM_ANGLE_X","val":30},
+		{"id":"PARAM_ANGLE_Z","val":30},
+		{"id":"PARAM_BROW_L_Y","val":1},
+		{"id":"PARAM_BROW_R_Y","val":1},
+		{"id":"PARAM_EYE_L_OPEN","val":0.29},
+		{"id":"PARAM_EYE_R_OPEN","val":0.29},
+		{"id":"PARAM_MOUTH_OPEN_Y","val":0.84,"def":1}
+	]
+}
