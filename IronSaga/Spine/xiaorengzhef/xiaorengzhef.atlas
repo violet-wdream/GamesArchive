@@ -1,0 +1,139 @@
+
+xiaorengzhef.png
+size: 1980,1005
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+b
+  rotate: false
+  xy: 219, 5
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+b1
+  rotate: true
+  xy: 1211, 743
+  size: 262, 764
+  orig: 262, 764
+  offset: 0, 0
+  index: -1
+b2
+  rotate: true
+  xy: 1211, 296
+  size: 447, 371
+  orig: 447, 371
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 0, 172
+  size: 796, 833
+  orig: 796, 833
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 738, 33
+  size: 161, 63
+  orig: 161, 63
+  offset: 0, 0
+  index: -1
+d2
+  rotate: true
+  xy: 590, 56
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 306, 1
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 267, 6
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 935, 17
+  size: 217, 185
+  orig: 217, 185
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 447, 0
+  size: 143, 172
+  orig: 143, 172
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 1211, 77
+  size: 349, 219
+  orig: 349, 219
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: false
+  xy: 0, 4
+  size: 219, 168
+  orig: 219, 168
+  offset: 0, 0
+  index: -1
+hl1
+  rotate: true
+  xy: 590, 1
+  size: 55, 148
+  orig: 55, 148
+  offset: 0, 0
+  index: -1
+hr1
+  rotate: true
+  xy: 696, 96
+  size: 76, 152
+  orig: 76, 152
+  offset: 0, 0
+  index: -1
+ht1
+  rotate: false
+  xy: 848, 98
+  size: 87, 104
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 1582, 2
+  size: 326, 398
+  orig: 326, 398
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 219, 33
+  size: 228, 139
+  orig: 228, 139
+  offset: 0, 0
+  index: -1
+tui11
+  rotate: false
+  xy: 1582, 328
+  size: 380, 415
+  orig: 380, 415
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 796, 202
+  size: 415, 803
+  orig: 415, 803
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+guyongbingwude.png
+size: 1522,1158
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye1
+  rotate: true
+  xy: 1512, 1142
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 0, 0
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 715, 174
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 924, 497
+  size: 190, 130
+  orig: 190, 130
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 924, 440
+  size: 57, 138
+  orig: 57, 138
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 715, 429
+  size: 209, 198
+  orig: 209, 198
+  offset: 0, 0
+  index: -1
+handgun
+  rotate: false
+  xy: 0, 13
+  size: 715, 614
+  orig: 715, 614
+  offset: 0, 0
+  index: -1
+hb
+  rotate: false
+  xy: 715, 272
+  size: 179, 157
+  orig: 179, 157
+  offset: 0, 0
+  index: -1
+r
+  rotate: true
+  xy: 0, 627
+  size: 531, 1512
+  orig: 531, 1512
+  offset: 0, 0
+  index: -1

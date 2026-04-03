@@ -1,0 +1,55 @@
+
+aishake.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body_0
+  rotate: false
+  xy: 1488, 1764
+  size: 311, 273
+  orig: 311, 273
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 475, 477
+  size: 260, 217
+  orig: 260, 220
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 766, 796
+  size: 360, 594
+  orig: 360, 594
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 2, 696
+  size: 762, 1341
+  orig: 762, 1341
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 2, 205
+  size: 471, 489
+  orig: 471, 489
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: true
+  xy: 2, 2
+  size: 201, 235
+  orig: 201, 235
+  offset: 0, 0
+  index: -1
+body_6
+  rotate: false
+  xy: 766, 1158
+  size: 720, 879
+  orig: 720, 879
+  offset: 0, 0
+  index: -1
