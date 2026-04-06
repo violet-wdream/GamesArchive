@@ -47,16 +47,12 @@ jobs:
           sed -i "s|<!-- LAST_UPDATE -->|$DATE|g" README.md
 
           # Replace content between DIR_SIZE_START and DIR_SIZE_END markers
-          {
-            sed -i '/<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/{
-              /<!-- DIR_SIZE_START -->/!{
-                /<!-- DIR_SIZE_END -->/!d
-              }
+          sed -i '/<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/{
+            /<!-- DIR_SIZE_START -->/!{
+              /<!-- DIR_SIZE_END -->/!d
             }
-            /<!-- DIR_SIZE_START -->/r dir_sizes.txt' README.md
           }
-          
-          mv README.tmp README.md
+          /<!-- DIR_SIZE_START -->/r dir_sizes.txt' README.md
 
       - name: Commit and Push
         run: |
