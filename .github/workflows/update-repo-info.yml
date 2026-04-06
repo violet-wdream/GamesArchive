@@ -1,0 +1,65 @@
+name: Update Repo Info
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-info:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate directory sizes
+        run: |
+
+          > dir_sizes.txt
+
+          for dir in */; do
+            [ -d "$dir" ] || continue 
+            
+            if [[ "$dir" == ".git/" || "$dir" == ".github/" ]]; then
+              continue
+            fi
+
+            SIZE=$(du -sh "$dir" | cut -f1)
+            NAME=${dir%/}
+
+            echo "| ${NAME} | ${SIZE} |" >> dir_sizes.txt
+          done
+
+      - name: Update README
+        run: |
+          TOTAL=$(du -sh --exclude=.git . | cut -f1)
+          DATE=$(date +'%Y-%m-%d')
+
+          # Replace REPO_SIZE placeholder
+          sed -i "s|<!-- REPO_SIZE -->|$TOTAL|g" README.md
+          
+          # Replace LAST_UPDATE placeholder
+          sed -i "s|<!-- LAST_UPDATE -->|$DATE|g" README.md
+
+          # Replace content between DIR_SIZE_START and DIR_SIZE_END markers
+          {
+            sed '/<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/!p; /<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/{/<!-- DIR_SIZE_START -->/!{/<!-- DIR_SIZE_END -->/!d}}; /<!-- DIR_SIZE_START -->/r dir_sizes.txt' README.md > README.tmp
+          }
+          
+          mv README.tmp README.md
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update repo info"
+            git push
+          else
+            echo "No changes to commit."
+          fi
