@@ -66,6 +66,7 @@ jobs:
           
           if ! git diff --staged --quiet; then
             git commit -m "chore: update repo info"
+            git pull --rebase
             git push
           else
             echo "No changes to commit."
