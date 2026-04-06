@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-info:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - uses: actions/checkout@v4
@@ -46,7 +48,12 @@ jobs:
 
           # Replace content between DIR_SIZE_START and DIR_SIZE_END markers
           {
-            sed '/<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/!p; /<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/{/<!-- DIR_SIZE_START -->/!{/<!-- DIR_SIZE_END -->/!d}}; /<!-- DIR_SIZE_START -->/r dir_sizes.txt' README.md > README.tmp
+            sed -i '/<!-- DIR_SIZE_START -->/,/<!-- DIR_SIZE_END -->/{
+              /<!-- DIR_SIZE_START -->/!{
+                /<!-- DIR_SIZE_END -->/!d
+              }
+            }
+            /<!-- DIR_SIZE_START -->/r dir_sizes.txt' README.md
           }
           
           mv README.tmp README.md
