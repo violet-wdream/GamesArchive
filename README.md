@@ -4,6 +4,12 @@
 [![Forks](https://img.shields.io/github/forks/violet-wdream/GamesArchive?style=social)](https://github.com/violet-wdream/GamesArchive/network/members)
 ![Issues](https://img.shields.io/github/issues/violet-wdream/GamesArchive)
 
+个人存档的游戏相关资产，目前只有Live2D/Spine模型，未来可能会添加3D模型/音频资源等。可以配合[DownGit](https://minhaskamal.github.io/DownGit/#/home)/[Gitzip](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/iemilfmlaliblejogfofhmjbfiaiegnd)分目录下载，但是解析文件过多时会失败，同时不建议下载整个仓库。
+如果你对某个游戏的资源获取有兴趣，可以在[Live2DHub](https://live2dhub.com/u/twistzz/activity/replies)上搜索相关的帖子。
+
+Personal archival repository for game-related assets, currently only Live2D/Spine models, but may add 3D models/audio resources in the future. You can use [DownGit](https://minhaskamal.github.io/DownGit/#/home)/[Gitzip](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/iemilfmlaliblejogfofhmjbfiaiegnd) to download by directory, but it may fail when there are too many files, and downloading the entire repository is not recommended. If you are interested in obtaining resources for a specific game, you can search for related posts on [Live2DHub](https://live2dhub.com/u/twistzz/activity/replies).
+
+
 ## 📦 Repository Info
 
 | Item | Value |
@@ -31,7 +37,7 @@
 
 ---
 
-## Introduction
+## 📕 Introduction
 
 GamesArchive is an archival repository for **Spine / Live2D model data** and
 related materials from various games.
@@ -45,7 +51,7 @@ This project is intended for **research, learning, and preservation purposes**.
 
 ---
 
-## Disclaimer
+## 🤓 Disclaimer
 
 All game data and assets in this repository are collected from **publicly
 available sources on the Internet**.
