@@ -4,6 +4,22 @@
 [![Forks](https://img.shields.io/github/forks/violet-wdream/GamesArchive?style=social)](https://github.com/violet-wdream/GamesArchive/network/members)
 ![Issues](https://img.shields.io/github/issues/violet-wdream/GamesArchive)
 
+## 📦 Repository Info
+
+| Item | Value |
+|------|------|
+| Repo Size | <!-- REPO_SIZE --> |
+| Last Updated | <!-- LAST_UPDATE --> |
+
+## 🎮 Game Directories Size
+
+| Directory | Size |
+|-----------|------|
+<!-- DIR_SIZE_START -->
+<!-- DIR_SIZE_END -->
+
+---
+
 ## Introduction
 
 GamesArchive is an archival repository for **Spine / Live2D model data** and
@@ -16,7 +32,7 @@ The repository may include:
 
 This project is intended for **research, learning, and preservation purposes**.
 
-
+---
 
 ## Disclaimer
 
