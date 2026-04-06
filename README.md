@@ -14,6 +14,19 @@
 ## 🎮 Game Directories Size
 
 <!-- DIR_SIZE_START -->
+| Directory | Size |
+|-----------|------|
+| AoLaXing | 2.1G |
+| AoQiChuanShuo | 4.2G |
+| GirlCafeGun2 (ShuangShengShiJie) | 3.4G |
+| HuanXiangMingJiangLu (SanGuoAnother) | 417M |
+| IronSaga | 766M |
+| MorningMist | 144M |
+| OnePercent (BaiFenZhiYi) | 19M |
+| SanGuoZhiHuanXiangDaLu (SanHuan) | 2.1G |
+| SanGuoZhiHuanXiangDaLu2 (SanHuan2) | 665M |
+| Sinisistar2 | 1.6G |
+| TheMoonlitOath (HuaYiShanXinZhiYue) | 1.3G |
 <!-- DIR_SIZE_END -->
 
 ---
