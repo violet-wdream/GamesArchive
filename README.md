@@ -32,17 +32,17 @@ Personal archival repository for game-related assets, currently only Live2D/Spin
 <!-- DIR_SIZE_START -->
 | Directory | Size |
 |-----------|------|
-| AoLaXing | 2.1G |
-| AoQiChuanShuo | 4.2G |
-| GirlCafeGun2 (ShuangShengShiJie) | 3.4G |
-| HuanXiangMingJiangLu (SanGuoAnother) | 417M |
-| IronSaga | 766M |
-| MorningMist | 144M |
-| OnePercent (BaiFenZhiYi) | 19M |
-| SanGuoZhiHuanXiangDaLu (SanHuan) | 2.1G |
-| SanGuoZhiHuanXiangDaLu2 (SanHuan2) | 665M |
-| Sinisistar2 | 1.6G |
-| TheMoonlitOath (HuaYiShanXinZhiYue) | 1.3G |
+| AoLaXing | 8.0K |
+| AoQiChuanShuo | 8.0K |
+| GirlCafeGun2 (ShuangShengShiJie) | 8.0K |
+| HuanXiangMingJiangLu (SanGuoAnother) | 20K |
+| IronSaga | 12K |
+| MorningMist | 8.0K |
+| OnePercent (BaiFenZhiYi) | 8.0K |
+| SanGuoZhiHuanXiangDaLu | 12K |
+| SanGuoZhiHuanXiangDaLu2 | 8.0K |
+| Sinisistar2 | 8.0K |
+| TheMoonlitOath (HuaYiShanXinZhiYue) | 4.0K |
 <!-- DIR_SIZE_END -->
 
 ---
