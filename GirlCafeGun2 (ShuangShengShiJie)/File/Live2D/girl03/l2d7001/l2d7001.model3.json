@@ -1,0 +1,71 @@
+{
+  "Version": 3,
+  "Name": "l2d7001",
+  "FileReferences": {
+    "Moc": "l2d7001.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl03_fangshaiyou": [
+        {
+          "File": "motions/Mgirl03_fangshaiyou.motion3.json"
+        }
+      ],
+      "Mgirl03_fengqi": [
+        {
+          "File": "motions/Mgirl03_fengqi.motion3.json"
+        }
+      ],
+      "Mgirl03_keshui": [
+        {
+          "File": "motions/Mgirl03_keshui.motion3.json"
+        }
+      ],
+      "Mgirl03_stand": [
+        {
+          "File": "motions/Mgirl03_stand.motion3.json"
+        }
+      ],
+      "Mgirl03_tiqiu": [
+        {
+          "File": "motions/Mgirl03_tiqiu.motion3.json"
+        }
+      ],
+      "Mgirl03_weixiao": [
+        {
+          "File": "motions/Mgirl03_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl03_wushui": [
+        {
+          "File": "motions/Mgirl03_wushui.motion3.json"
+        }
+      ],
+      "Mgirl03_xianqi": [
+        {
+          "File": "motions/Mgirl03_xianqi.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_DIAOCHUANG_SAHKE"
+      ]
+    }
+  ]
+}

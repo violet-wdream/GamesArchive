@@ -1,0 +1,67 @@
+{
+  "Version": 3,
+  "Name": "l2d7001",
+  "FileReferences": {
+    "Moc": "l2d7001.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl01_jingya": [
+        {
+          "File": "motions/Mgirl01_jingya.motion3.json"
+        }
+      ],
+      "Mgirl01_motou": [
+        {
+          "File": "motions/Mgirl01_motou.motion3.json"
+        }
+      ],
+      "Mgirl01_stand": [
+        {
+          "File": "motions/Mgirl01_stand.motion3.json"
+        }
+      ],
+      "Mgirl01_tuzi": [
+        {
+          "File": "motions/Mgirl01_tuzi.motion3.json"
+        }
+      ],
+      "Mgirl01_wawa": [
+        {
+          "File": "motions/Mgirl01_wawa.motion3.json"
+        }
+      ],
+      "Mgirl01_xiezi": [
+        {
+          "File": "motions/Mgirl01_xiezi.motion3.json"
+        }
+      ],
+      "Mgirl01_xihuan": [
+        {
+          "File": "motions/Mgirl01_xihuan.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

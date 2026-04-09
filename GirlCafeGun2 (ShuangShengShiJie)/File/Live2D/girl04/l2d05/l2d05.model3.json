@@ -1,0 +1,44 @@
+{
+  "Version": 3,
+  "Name": "l2d05",
+  "FileReferences": {
+    "Moc": "l2d05.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl04_shihao_a": [
+        {
+          "File": "motions/Mgirl04_shihao_a.motion3.json"
+        }
+      ],
+      "Mgirl04_stand": [
+        {
+          "File": "motions/Mgirl04_stand.motion3.json"
+        }
+      ],
+      "Mgirl04_weixiao": [
+        {
+          "File": "motions/Mgirl04_weixiao.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

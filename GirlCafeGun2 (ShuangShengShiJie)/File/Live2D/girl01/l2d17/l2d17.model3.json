@@ -1,0 +1,341 @@
+{
+  "Version": 3,
+  "Name": "l2d17",
+  "FileReferences": {
+    "Moc": "l2d17.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl01_baonu_c": [
+        {
+          "File": "motions/Mgirl01_baonu_c.motion3.json"
+        }
+      ],
+      "Mgirl01_bishi_c": [
+        {
+          "File": "motions/Mgirl01_bishi_c.motion3.json"
+        }
+      ],
+      "Mgirl01_dahaqian_c": [
+        {
+          "File": "motions/Mgirl01_dahaqian_c.motion3.json"
+        }
+      ],
+      "Mgirl01_dazhaohu": [
+        {
+          "File": "motions/Mgirl01_dazhaohu.motion3.json"
+        }
+      ],
+      "Mgirl01_dazhaohu2": [
+        {
+          "File": "motions/Mgirl01_dazhaohu2.motion3.json"
+        }
+      ],
+      "Mgirl01_dazhaohu_a": [
+        {
+          "File": "motions/Mgirl01_dazhaohu_a.motion3.json"
+        }
+      ],
+      "Mgirl01_dazhaohu_a2": [
+        {
+          "File": "motions/Mgirl01_dazhaohu_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_dey2i": [
+        {
+          "File": "motions/Mgirl01_dey2i.motion3.json"
+        }
+      ],
+      "Mgirl01_deyi": [
+        {
+          "File": "motions/Mgirl01_deyi.motion3.json"
+        }
+      ],
+      "Mgirl01_deyi_a": [
+        {
+          "File": "motions/Mgirl01_deyi_a.motion3.json"
+        }
+      ],
+      "Mgirl01_duishouzhi_a": [
+        {
+          "File": "motions/Mgirl01_duishouzhi_a.motion3.json"
+        }
+      ],
+      "Mgirl01_ganga_c": [
+        {
+          "File": "motions/Mgirl01_ganga_c.motion3.json"
+        }
+      ],
+      "Mgirl01_haixiu": [
+        {
+          "File": "motions/Mgirl01_haixiu.motion3.json"
+        }
+      ],
+      "Mgirl01_hecha": [
+        {
+          "File": "motions/Mgirl01_hecha.motion3.json"
+        }
+      ],
+      "Mgirl01_hecha2": [
+        {
+          "File": "motions/Mgirl01_hecha2.motion3.json"
+        }
+      ],
+      "Mgirl01_hongcha1": [
+        {
+          "File": "motions/Mgirl01_hongcha1.motion3.json"
+        }
+      ],
+      "Mgirl01_hongcha2_a": [
+        {
+          "File": "motions/Mgirl01_hongcha2_a.motion3.json"
+        }
+      ],
+      "Mgirl01_housuo": [
+        {
+          "File": "motions/Mgirl01_housuo.motion3.json"
+        }
+      ],
+      "Mgirl01_housuo2": [
+        {
+          "File": "motions/Mgirl01_housuo2.motion3.json"
+        }
+      ],
+      "Mgirl01_huaixiao": [
+        {
+          "File": "motions/Mgirl01_huaixiao.motion3.json"
+        }
+      ],
+      "Mgirl01_jingxi_a": [
+        {
+          "File": "motions/Mgirl01_jingxi_a.motion3.json"
+        }
+      ],
+      "Mgirl01_jingxi_a2": [
+        {
+          "File": "motions/Mgirl01_jingxi_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_jingya": [
+        {
+          "File": "motions/Mgirl01_jingya.motion3.json"
+        }
+      ],
+      "Mgirl01_juechufengsheng": [
+        {
+          "File": "motions/Mgirl01_juechufengsheng.motion3.json"
+        }
+      ],
+      "Mgirl01_leiguang": [
+        {
+          "File": "motions/Mgirl01_leiguang.motion3.json"
+        }
+      ],
+      "Mgirl01_leiguang2": [
+        {
+          "File": "motions/Mgirl01_leiguang2.motion3.json"
+        }
+      ],
+      "Mgirl01_moqunzi": [
+        {
+          "File": "motions/Mgirl01_moqunzi.motion3.json"
+        }
+      ],
+      "Mgirl01_moqunzi2": [
+        {
+          "File": "motions/Mgirl01_moqunzi2.motion3.json"
+        }
+      ],
+      "Mgirl01_motouheixian": [
+        {
+          "File": "motions/Mgirl01_motouheixian.motion3.json"
+        }
+      ],
+      "Mgirl01_motouweixiao": [
+        {
+          "File": "motions/Mgirl01_motouweixiao.motion3.json"
+        }
+      ],
+      "Mgirl01_motouwushi_c": [
+        {
+          "File": "motions/Mgirl01_motouwushi_c.motion3.json"
+        }
+      ],
+      "Mgirl01_motouxiao_a": [
+        {
+          "File": "motions/Mgirl01_motouxiao_a.motion3.json"
+        }
+      ],
+      "Mgirl01_motouxiao_a2": [
+        {
+          "File": "motions/Mgirl01_motouxiao_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_nanyizhixin": [
+        {
+          "File": "motions/Mgirl01_nanyizhixin.motion3.json"
+        }
+      ],
+      "Mgirl01_ninggu": [
+        {
+          "File": "motions/Mgirl01_ninggu.motion3.json"
+        }
+      ],
+      "Mgirl01_sajiao_a": [
+        {
+          "File": "motions/Mgirl01_sajiao_a.motion3.json"
+        }
+      ],
+      "Mgirl01_sajiao_a2": [
+        {
+          "File": "motions/Mgirl01_sajiao_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_shengqi": [
+        {
+          "File": "motions/Mgirl01_shengqi.motion3.json"
+        }
+      ],
+      "Mgirl01_stand": [
+        {
+          "File": "motions/Mgirl01_stand.motion3.json"
+        }
+      ],
+      "Mgirl01_stand02": [
+        {
+          "File": "motions/Mgirl01_stand02.motion3.json"
+        }
+      ],
+      "Mgirl01_stand_a": [
+        {
+          "File": "motions/Mgirl01_stand_a.motion3.json"
+        }
+      ],
+      "Mgirl01_stand_c": [
+        {
+          "File": "motions/Mgirl01_stand_c.motion3.json"
+        }
+      ],
+      "Mgirl01_tanqi_c": [
+        {
+          "File": "motions/Mgirl01_tanqi_c.motion3.json"
+        }
+      ],
+      "Mgirl01_tiaopi_a": [
+        {
+          "File": "motions/Mgirl01_tiaopi_a.motion3.json"
+        }
+      ],
+      "Mgirl01_tiaopi_a2": [
+        {
+          "File": "motions/Mgirl01_tiaopi_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_tuoyeganga_c": [
+        {
+          "File": "motions/Mgirl01_tuoyeganga_c.motion3.json"
+        }
+      ],
+      "Mgirl01_tuoyehaixiu_a": [
+        {
+          "File": "motions/Mgirl01_tuoyehaixiu_a.motion3.json"
+        }
+      ],
+      "Mgirl01_tuoyehaixiu_a2": [
+        {
+          "File": "motions/Mgirl01_tuoyehaixiu_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_tuoyehuangzhang": [
+        {
+          "File": "motions/Mgirl01_tuoyehuangzhang.motion3.json"
+        }
+      ],
+      "Mgirl01_weixiao": [
+        {
+          "File": "motions/Mgirl01_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl01_wuyu_c": [
+        {
+          "File": "motions/Mgirl01_wuyu_c.motion3.json"
+        }
+      ],
+      "Mgirl01_xianqi": [
+        {
+          "File": "motions/Mgirl01_xianqi.motion3.json"
+        }
+      ],
+      "Mgirl01_xindong_a": [
+        {
+          "File": "motions/Mgirl01_xindong_a.motion3.json"
+        }
+      ],
+      "Mgirl01_xiunu_a": [
+        {
+          "File": "motions/Mgirl01_xiunu_a.motion3.json"
+        }
+      ],
+      "Mgirl01_xiunu_a2": [
+        {
+          "File": "motions/Mgirl01_xiunu_a2.motion3.json"
+        }
+      ],
+      "Mgirl01_xuanranyuqi": [
+        {
+          "File": "motions/Mgirl01_xuanranyuqi.motion3.json"
+        }
+      ],
+      "Mgirl01_xunwen": [
+        {
+          "File": "motions/Mgirl01_xunwen.motion3.json"
+        }
+      ],
+      "Mgirl01_yangyangdeyi02": [
+        {
+          "File": "motions/Mgirl01_yangyangdeyi02.motion3.json"
+        }
+      ],
+      "Mgirl01_ziyuanziyi": [
+        {
+          "File": "motions/Mgirl01_ziyuanziyi.motion3.json"
+        }
+      ],
+      "Mgirl01_ziyuanziyi2": [
+        {
+          "File": "motions/Mgirl01_ziyuanziyi2.motion3.json"
+        }
+      ],
+      "Mgirl01_zizunxin": [
+        {
+          "File": "motions/Mgirl01_zizunxin.motion3.json"
+        }
+      ],
+      "Mgirl01_zizunxin2": [
+        {
+          "File": "motions/Mgirl01_zizunxin2.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

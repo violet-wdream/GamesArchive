@@ -1,0 +1,114 @@
+{
+  "Version": 3,
+  "Name": "l2d7017",
+  "FileReferences": {
+    "Moc": "l2d7017.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl02_badao": [
+        {
+          "File": "motions/Mgirl02_badao.motion3.json"
+        }
+      ],
+      "Mgirl02_badao_a": [
+        {
+          "File": "motions/Mgirl02_badao_a.motion3.json"
+        }
+      ],
+      "Mgirl02_chayue": [
+        {
+          "File": "motions/Mgirl02_chayue.motion3.json"
+        }
+      ],
+      "Mgirl02_dichu": [
+        {
+          "File": "motions/Mgirl02_dichu.motion3.json"
+        }
+      ],
+      "Mgirl02_haixiu1_a": [
+        {
+          "File": "motions/Mgirl02_haixiu1_a.motion3.json"
+        }
+      ],
+      "Mgirl02_haixiu2_a": [
+        {
+          "File": "motions/Mgirl02_haixiu2_a.motion3.json"
+        }
+      ],
+      "Mgirl02_jingxi_a": [
+        {
+          "File": "motions/Mgirl02_jingxi_a.motion3.json"
+        }
+      ],
+      "Mgirl02_motouxiao": [
+        {
+          "File": "motions/Mgirl02_motouxiao.motion3.json"
+        }
+      ],
+      "Mgirl02_shenzhan": [
+        {
+          "File": "motions/Mgirl02_shenzhan.motion3.json"
+        }
+      ],
+      "Mgirl02_shuaidao": [
+        {
+          "File": "motions/Mgirl02_shuaidao.motion3.json"
+        }
+      ],
+      "Mgirl02_stand": [
+        {
+          "File": "motions/Mgirl02_stand.motion3.json"
+        }
+      ],
+      "Mgirl02_tanqi_c": [
+        {
+          "File": "motions/Mgirl02_tanqi_c.motion3.json"
+        }
+      ],
+      "Mgirl02_tuoyehaixiu": [
+        {
+          "File": "motions/Mgirl02_tuoyehaixiu.motion3.json"
+        }
+      ],
+      "Mgirl02_xiuseyihuo_a": [
+        {
+          "File": "motions/Mgirl02_xiuseyihuo_a.motion3.json"
+        }
+      ],
+      "Mgirl02_yanmian": [
+        {
+          "File": "motions/Mgirl02_yanmian.motion3.json"
+        }
+      ],
+      "Mgirl02_yaotou_c": [
+        {
+          "File": "motions/Mgirl02_yaotou_c.motion3.json"
+        }
+      ],
+      "Mgirl02_zuokanyoukan": [
+        {
+          "File": "motions/Mgirl02_zuokanyoukan.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}
