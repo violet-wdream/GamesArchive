@@ -1,0 +1,124 @@
+{
+  "Version": 3,
+  "Name": "l2d12",
+  "FileReferences": {
+    "Moc": "l2d12.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl12_baiyan": [
+        {
+          "File": "motions/Mgirl12_baiyan.motion3.json"
+        }
+      ],
+      "Mgirl12_baiyanjingxia": [
+        {
+          "File": "motions/Mgirl12_baiyanjingxia.motion3.json"
+        }
+      ],
+      "Mgirl12_bianse": [
+        {
+          "File": "motions/Mgirl12_bianse.motion3.json"
+        }
+      ],
+      "Mgirl12_cangbuxia": [
+        {
+          "File": "motions/Mgirl12_cangbuxia.motion3.json"
+        }
+      ],
+      "Mgirl12_dazhaohu": [
+        {
+          "File": "motions/Mgirl12_dazhaohu.motion3.json"
+        }
+      ],
+      "Mgirl12_jiashengqi": [
+        {
+          "File": "motions/Mgirl12_jiashengqi.motion3.json"
+        }
+      ],
+      "Mgirl12_jingxi_a": [
+        {
+          "File": "motions/Mgirl12_jingxi_a.motion3.json"
+        }
+      ],
+      "Mgirl12_keai_a": [
+        {
+          "File": "motions/Mgirl12_keai_a.motion3.json"
+        }
+      ],
+      "Mgirl12_miaowu": [
+        {
+          "File": "motions/Mgirl12_miaowu.motion3.json"
+        }
+      ],
+      "Mgirl12_motouhaixiu": [
+        {
+          "File": "motions/Mgirl12_motouhaixiu.motion3.json"
+        }
+      ],
+      "Mgirl12_sajiao_a": [
+        {
+          "File": "motions/Mgirl12_sajiao_a.motion3.json"
+        }
+      ],
+      "Mgirl12_stand": [
+        {
+          "File": "motions/Mgirl12_stand.motion3.json"
+        }
+      ],
+      "Mgirl12_tianxiao_a": [
+        {
+          "File": "motions/Mgirl12_tianxiao_a.motion3.json"
+        }
+      ],
+      "Mgirl12_tiqunzi": [
+        {
+          "File": "motions/Mgirl12_tiqunzi.motion3.json"
+        }
+      ],
+      "Mgirl12_tuoyeganga": [
+        {
+          "File": "motions/Mgirl12_tuoyeganga.motion3.json"
+        }
+      ],
+      "Mgirl12_wink": [
+        {
+          "File": "motions/Mgirl12_wink.motion3.json"
+        }
+      ],
+      "Mgirl12_xiunu_a": [
+        {
+          "File": "motions/Mgirl12_xiunu_a.motion3.json"
+        }
+      ],
+      "Mgirl12_zhuangsi copy": [
+        {
+          "File": "motions/Mgirl12_zhuangsi copy.motion3.json"
+        }
+      ],
+      "Mgirl12_zhuangsi": [
+        {
+          "File": "motions/Mgirl12_zhuangsi.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

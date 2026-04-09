@@ -1,0 +1,107 @@
+{
+  "Version": 3,
+  "Name": "l2d5017",
+  "FileReferences": {
+    "Moc": "l2d5017.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl08_chuchang": [
+        {
+          "File": "motions/Mgirl08_chuchang.motion3.json"
+        }
+      ],
+      "Mgirl08_diantou": [
+        {
+          "File": "motions/Mgirl08_diantou.motion3.json"
+        }
+      ],
+      "Mgirl08_ditouxiao": [
+        {
+          "File": "motions/Mgirl08_ditouxiao.motion3.json"
+        }
+      ],
+      "Mgirl08_huadoudong01": [
+        {
+          "File": "motions/Mgirl08_huadoudong01.motion3.json"
+        }
+      ],
+      "Mgirl08_huadoudong02": [
+        {
+          "File": "motions/Mgirl08_huadoudong02.motion3.json"
+        }
+      ],
+      "Mgirl08_jingya": [
+        {
+          "File": "motions/Mgirl08_jingya.motion3.json"
+        }
+      ],
+      "Mgirl08_songhua": [
+        {
+          "File": "motions/Mgirl08_songhua.motion3.json"
+        }
+      ],
+      "Mgirl08_stand": [
+        {
+          "File": "motions/Mgirl08_stand.motion3.json"
+        }
+      ],
+      "Mgirl08_wuzuixiao": [
+        {
+          "File": "motions/Mgirl08_wuzuixiao.motion3.json"
+        }
+      ],
+      "Mgirl08_xiuse": [
+        {
+          "File": "motions/Mgirl08_xiuse.motion3.json"
+        }
+      ],
+      "Mgirl08_yaotou": [
+        {
+          "File": "motions/Mgirl08_yaotou.motion3.json"
+        }
+      ],
+      "Mgirl08_zhanshi1": [
+        {
+          "File": "motions/Mgirl08_zhanshi1.motion3.json"
+        }
+      ],
+      "Mgirl08_zhanshi2": [
+        {
+          "File": "motions/Mgirl08_zhanshi2.motion3.json"
+        }
+      ],
+      "Mgirl08_zhanshi3": [
+        {
+          "File": "motions/Mgirl08_zhanshi3.motion3.json"
+        }
+      ],
+      "Mgirl08_zhanshi4": [
+        {
+          "File": "motions/Mgirl08_zhanshi4.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

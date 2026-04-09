@@ -1,0 +1,61 @@
+{
+  "Version": 3,
+  "Name": "l2d01",
+  "FileReferences": {
+    "Moc": "l2d01.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl120_baonu": [
+        {
+          "File": "motions/Mgirl120_baonu.motion3.json"
+        }
+      ],
+      "Mgirl120_beishang": [
+        {
+          "File": "motions/Mgirl120_beishang.motion3.json"
+        }
+      ],
+      "Mgirl120_haipa": [
+        {
+          "File": "motions/Mgirl120_haipa.motion3.json"
+        }
+      ],
+      "Mgirl120_jingxia": [
+        {
+          "File": "motions/Mgirl120_jingxia.motion3.json"
+        }
+      ],
+      "Mgirl120_stand": [
+        {
+          "File": "motions/Mgirl120_stand.motion3.json"
+        }
+      ],
+      "Mgirl120_tiaopi": [
+        {
+          "File": "motions/Mgirl120_tiaopi.motion3.json"
+        }
+      ],
+      "Mgirl120_youxian": [
+        {
+          "File": "motions/Mgirl120_youxian.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

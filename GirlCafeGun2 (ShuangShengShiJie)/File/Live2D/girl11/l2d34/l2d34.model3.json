@@ -1,0 +1,109 @@
+{
+  "Version": 3,
+  "Name": "l2d34",
+  "FileReferences": {
+    "Moc": "l2d34.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl11_chayao_a": [
+        {
+          "File": "motions/Mgirl11_chayao_a.motion3.json"
+        }
+      ],
+      "Mgirl11_haixiu_a": [
+        {
+          "File": "motions/Mgirl11_haixiu_a.motion3.json"
+        }
+      ],
+      "Mgirl11_jingxi": [
+        {
+          "File": "motions/Mgirl11_jingxi.motion3.json"
+        }
+      ],
+      "Mgirl11_kunyi": [
+        {
+          "File": "motions/Mgirl11_kunyi.motion3.json"
+        }
+      ],
+      "Mgirl11_liaofa": [
+        {
+          "File": "motions/Mgirl11_liaofa.motion3.json"
+        }
+      ],
+      "Mgirl11_motouhaixiu": [
+        {
+          "File": "motions/Mgirl11_motouhaixiu.motion3.json"
+        }
+      ],
+      "Mgirl11_nuyi": [
+        {
+          "File": "motions/Mgirl11_nuyi.motion3.json"
+        }
+      ],
+      "Mgirl11_qidao": [
+        {
+          "File": "motions/Mgirl11_qidao.motion3.json"
+        }
+      ],
+      "Mgirl11_quanzhang": [
+        {
+          "File": "motions/Mgirl11_quanzhang.motion3.json"
+        }
+      ],
+      "Mgirl11_shengqi": [
+        {
+          "File": "motions/Mgirl11_shengqi.motion3.json"
+        }
+      ],
+      "Mgirl11_stand": [
+        {
+          "File": "motions/Mgirl11_stand.motion3.json"
+        }
+      ],
+      "Mgirl11_sumu": [
+        {
+          "File": "motions/Mgirl11_sumu.motion3.json"
+        }
+      ],
+      "Mgirl11_tuoyehuangzhang": [
+        {
+          "File": "motions/Mgirl11_tuoyehuangzhang.motion3.json"
+        }
+      ],
+      "Mgirl11_wunai": [
+        {
+          "File": "motions/Mgirl11_wunai.motion3.json"
+        }
+      ],
+      "Mgirl11_xinyi": [
+        {
+          "File": "motions/Mgirl11_xinyi.motion3.json"
+        }
+      ],
+      "Mgirl11_zenmela": [
+        {
+          "File": "motions/Mgirl11_zenmela.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

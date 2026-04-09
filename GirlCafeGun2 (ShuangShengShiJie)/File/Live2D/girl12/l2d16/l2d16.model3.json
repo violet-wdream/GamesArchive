@@ -1,0 +1,114 @@
+{
+  "Version": 3,
+  "Name": "l2d16",
+  "FileReferences": {
+    "Moc": "l2d16.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl12_ceshen": [
+        {
+          "File": "motions/Mgirl12_ceshen.motion3.json"
+        }
+      ],
+      "Mgirl12_chijing": [
+        {
+          "File": "motions/Mgirl12_chijing.motion3.json"
+        }
+      ],
+      "Mgirl12_haixiu": [
+        {
+          "File": "motions/Mgirl12_haixiu.motion3.json"
+        }
+      ],
+      "Mgirl12_jiashengqi": [
+        {
+          "File": "motions/Mgirl12_jiashengqi.motion3.json"
+        }
+      ],
+      "Mgirl12_jingxia": [
+        {
+          "File": "motions/Mgirl12_jingxia.motion3.json"
+        }
+      ],
+      "Mgirl12_motouweixiao": [
+        {
+          "File": "motions/Mgirl12_motouweixiao.motion3.json"
+        }
+      ],
+      "Mgirl12_nu": [
+        {
+          "File": "motions/Mgirl12_nu.motion3.json"
+        }
+      ],
+      "Mgirl12_shiwo": [
+        {
+          "File": "motions/Mgirl12_shiwo.motion3.json"
+        }
+      ],
+      "Mgirl12_stand": [
+        {
+          "File": "motions/Mgirl12_stand.motion3.json"
+        }
+      ],
+      "Mgirl12_tuoyeyihuo": [
+        {
+          "File": "motions/Mgirl12_tuoyeyihuo.motion3.json"
+        }
+      ],
+      "Mgirl12_wanqizi": [
+        {
+          "File": "motions/Mgirl12_wanqizi.motion3.json"
+        }
+      ],
+      "Mgirl12_wuzhu": [
+        {
+          "File": "motions/Mgirl12_wuzhu.motion3.json"
+        }
+      ],
+      "Mgirl12_xianqunzi": [
+        {
+          "File": "motions/Mgirl12_xianqunzi.motion3.json"
+        }
+      ],
+      "Mgirl12_xiuse": [
+        {
+          "File": "motions/Mgirl12_xiuse.motion3.json"
+        }
+      ],
+      "Mgirl12_yibenzhengjing": [
+        {
+          "File": "motions/Mgirl12_yibenzhengjing.motion3.json"
+        }
+      ],
+      "Mgirl12_yihuo": [
+        {
+          "File": "motions/Mgirl12_yihuo.motion3.json"
+        }
+      ],
+      "Mgirl12_zhamao": [
+        {
+          "File": "motions/Mgirl12_zhamao.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}
