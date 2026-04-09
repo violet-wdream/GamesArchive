@@ -1,0 +1,89 @@
+{
+  "Version": 3,
+  "Name": "l2d401",
+  "FileReferences": {
+    "Moc": "l2d401.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl15_bu": [
+        {
+          "File": "motions/Mgirl15_bu.motion3.json"
+        }
+      ],
+      "Mgirl15_duishouzhi": [
+        {
+          "File": "motions/Mgirl15_duishouzhi.motion3.json"
+        }
+      ],
+      "Mgirl15_haixiu1": [
+        {
+          "File": "motions/Mgirl15_haixiu1.motion3.json"
+        }
+      ],
+      "Mgirl15_huahua": [
+        {
+          "File": "motions/Mgirl15_huahua.motion3.json"
+        }
+      ],
+      "Mgirl15_jiandao": [
+        {
+          "File": "motions/Mgirl15_jiandao.motion3.json"
+        }
+      ],
+      "Mgirl15_motoubiyan": [
+        {
+          "File": "motions/Mgirl15_motoubiyan.motion3.json"
+        }
+      ],
+      "Mgirl15_shitou": [
+        {
+          "File": "motions/Mgirl15_shitou.motion3.json"
+        }
+      ],
+      "Mgirl15_stand": [
+        {
+          "File": "motions/Mgirl15_stand.motion3.json"
+        }
+      ],
+      "Mgirl15_stand2": [
+        {
+          "File": "motions/Mgirl15_stand2.motion3.json"
+        }
+      ],
+      "Mgirl15_weixiao": [
+        {
+          "File": "motions/Mgirl15_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl15_wulian": [
+        {
+          "File": "motions/Mgirl15_wulian.motion3.json"
+        }
+      ],
+      "Mgirl15_yiwen": [
+        {
+          "File": "motions/Mgirl15_yiwen.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

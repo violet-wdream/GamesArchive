@@ -1,0 +1,219 @@
+{
+  "Version": 3,
+  "Name": "l2d27",
+  "FileReferences": {
+    "Moc": "l2d27.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl15_baishou": [
+        {
+          "File": "motions/Mgirl15_baishou.motion3.json"
+        }
+      ],
+      "Mgirl15_baishou2": [
+        {
+          "File": "motions/Mgirl15_baishou2.motion3.json"
+        }
+      ],
+      "Mgirl15_buganzhixin": [
+        {
+          "File": "motions/Mgirl15_buganzhixin.motion3.json"
+        }
+      ],
+      "Mgirl15_buganzhixin2": [
+        {
+          "File": "motions/Mgirl15_buganzhixin2.motion3.json"
+        }
+      ],
+      "Mgirl15_bukaixing": [
+        {
+          "File": "motions/Mgirl15_bukaixing.motion3.json"
+        }
+      ],
+      "Mgirl15_chuochuo": [
+        {
+          "File": "motions/Mgirl15_chuochuo.motion3.json"
+        }
+      ],
+      "Mgirl15_chuochuo2": [
+        {
+          "File": "motions/Mgirl15_chuochuo2.motion3.json"
+        }
+      ],
+      "Mgirl15_cuocuo": [
+        {
+          "File": "motions/Mgirl15_cuocuo.motion3.json"
+        }
+      ],
+      "Mgirl15_cuocuo2": [
+        {
+          "File": "motions/Mgirl15_cuocuo2.motion3.json"
+        }
+      ],
+      "Mgirl15_duishouzhi": [
+        {
+          "File": "motions/Mgirl15_duishouzhi.motion3.json"
+        }
+      ],
+      "Mgirl15_duishouzhi2": [
+        {
+          "File": "motions/Mgirl15_duishouzhi2.motion3.json"
+        }
+      ],
+      "Mgirl15_haixiu1": [
+        {
+          "File": "motions/Mgirl15_haixiu1.motion3.json"
+        }
+      ],
+      "Mgirl15_haixiu2": [
+        {
+          "File": "motions/Mgirl15_haixiu2.motion3.json"
+        }
+      ],
+      "Mgirl15_huahua": [
+        {
+          "File": "motions/Mgirl15_huahua.motion3.json"
+        }
+      ],
+      "Mgirl15_jingxia": [
+        {
+          "File": "motions/Mgirl15_jingxia.motion3.json"
+        }
+      ],
+      "Mgirl15_jingxia2": [
+        {
+          "File": "motions/Mgirl15_jingxia2.motion3.json"
+        }
+      ],
+      "Mgirl15_juanL": [
+        {
+          "File": "motions/Mgirl15_juanL.motion3.json"
+        }
+      ],
+      "Mgirl15_juanL2": [
+        {
+          "File": "motions/Mgirl15_juanL2.motion3.json"
+        }
+      ],
+      "Mgirl15_juanR": [
+        {
+          "File": "motions/Mgirl15_juanR.motion3.json"
+        }
+      ],
+      "Mgirl15_juanR2": [
+        {
+          "File": "motions/Mgirl15_juanR2.motion3.json"
+        }
+      ],
+      "Mgirl15_jugong": [
+        {
+          "File": "motions/Mgirl15_jugong.motion3.json"
+        }
+      ],
+      "Mgirl15_jugong2": [
+        {
+          "File": "motions/Mgirl15_jugong2.motion3.json"
+        }
+      ],
+      "Mgirl15_motoubiyan": [
+        {
+          "File": "motions/Mgirl15_motoubiyan.motion3.json"
+        }
+      ],
+      "Mgirl15_motoubiyan2": [
+        {
+          "File": "motions/Mgirl15_motoubiyan2.motion3.json"
+        }
+      ],
+      "Mgirl15_shengqi": [
+        {
+          "File": "motions/Mgirl15_shengqi.motion3.json"
+        }
+      ],
+      "Mgirl15_shengxiu": [
+        {
+          "File": "motions/Mgirl15_shengxiu.motion3.json"
+        }
+      ],
+      "Mgirl15_shengxiu2": [
+        {
+          "File": "motions/Mgirl15_shengxiu2.motion3.json"
+        }
+      ],
+      "Mgirl15_stand": [
+        {
+          "File": "motions/Mgirl15_stand.motion3.json"
+        }
+      ],
+      "Mgirl15_stand_a": [
+        {
+          "File": "motions/Mgirl15_stand_a.motion3.json"
+        }
+      ],
+      "Mgirl15_stand_c": [
+        {
+          "File": "motions/Mgirl15_stand_c.motion3.json"
+        }
+      ],
+      "Mgirl15_tuoyeganga": [
+        {
+          "File": "motions/Mgirl15_tuoyeganga.motion3.json"
+        }
+      ],
+      "Mgirl15_tuoyeganga2": [
+        {
+          "File": "motions/Mgirl15_tuoyeganga2.motion3.json"
+        }
+      ],
+      "Mgirl15_weijin": [
+        {
+          "File": "motions/Mgirl15_weijin.motion3.json"
+        }
+      ],
+      "Mgirl15_weijin2": [
+        {
+          "File": "motions/Mgirl15_weijin2.motion3.json"
+        }
+      ],
+      "Mgirl15_weixiao": [
+        {
+          "File": "motions/Mgirl15_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl15_yanjing": [
+        {
+          "File": "motions/Mgirl15_yanjing.motion3.json"
+        }
+      ],
+      "Mgirl15_yanjing2": [
+        {
+          "File": "motions/Mgirl15_yanjing2.motion3.json"
+        }
+      ],
+      "Mgirl15_yansu": [
+        {
+          "File": "motions/Mgirl15_yansu.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_L_OPEN",
+        "PARAM_EYE_R_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
+}

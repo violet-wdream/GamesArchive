@@ -1,0 +1,176 @@
+{
+  "Version": 3,
+  "Name": "l2d01",
+  "FileReferences": {
+    "Moc": "l2d01.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": null,
+    "Motions": {
+      "Mgirl201_banye": [
+        {
+          "File": "motions/Mgirl201_banye.motion3.json"
+        }
+      ],
+      "Mgirl201_bilibili": [
+        {
+          "File": "motions/Mgirl201_bilibili.motion3.json"
+        }
+      ],
+      "Mgirl201_changgui1": [
+        {
+          "File": "motions/Mgirl201_changgui1.motion3.json"
+        }
+      ],
+      "Mgirl201_changgui2": [
+        {
+          "File": "motions/Mgirl201_changgui2.motion3.json"
+        }
+      ],
+      "Mgirl201_deng": [
+        {
+          "File": "motions/Mgirl201_deng.motion3.json"
+        }
+      ],
+      "Mgirl201_ganga": [
+        {
+          "File": "motions/Mgirl201_ganga.motion3.json"
+        }
+      ],
+      "Mgirl201_ganxie": [
+        {
+          "File": "motions/Mgirl201_ganxie.motion3.json"
+        }
+      ],
+      "Mgirl201_housuo": [
+        {
+          "File": "motions/Mgirl201_housuo.motion3.json"
+        }
+      ],
+      "Mgirl201_huangzhang": [
+        {
+          "File": "motions/Mgirl201_huangzhang.motion3.json"
+        }
+      ],
+      "Mgirl201_koulian": [
+        {
+          "File": "motions/Mgirl201_koulian.motion3.json"
+        }
+      ],
+      "Mgirl201_motouhaixiu": [
+        {
+          "File": "motions/Mgirl201_motouhaixiu.motion3.json"
+        }
+      ],
+      "Mgirl201_paipai": [
+        {
+          "File": "motions/Mgirl201_paipai.motion3.json"
+        }
+      ],
+      "Mgirl201_paoyingbi": [
+        {
+          "File": "motions/Mgirl201_paoyingbi.motion3.json"
+        }
+      ],
+      "Mgirl201_railgun": [
+        {
+          "File": "motions/Mgirl201_railgun.motion3.json"
+        }
+      ],
+      "Mgirl201_shengqi": [
+        {
+          "File": "motions/Mgirl201_shengqi.motion3.json"
+        }
+      ],
+      "Mgirl201_sikao": [
+        {
+          "File": "motions/Mgirl201_sikao.motion3.json"
+        }
+      ],
+      "Mgirl201_stand": [
+        {
+          "File": "motions/Mgirl201_stand.motion3.json"
+        }
+      ],
+      "Mgirl201_tanqi": [
+        {
+          "File": "motions/Mgirl201_tanqi.motion3.json"
+        }
+      ],
+      "Mgirl201_tiaomei": [
+        {
+          "File": "motions/Mgirl201_tiaomei.motion3.json"
+        }
+      ],
+      "Mgirl201_tuoyeyihuo": [
+        {
+          "File": "motions/Mgirl201_tuoyeyihuo.motion3.json"
+        }
+      ],
+      "Mgirl201_wanshang": [
+        {
+          "File": "motions/Mgirl201_wanshang.motion3.json"
+        }
+      ],
+      "Mgirl201_weixiao": [
+        {
+          "File": "motions/Mgirl201_weixiao.motion3.json"
+        }
+      ],
+      "Mgirl201_xianjing": [
+        {
+          "File": "motions/Mgirl201_xianjing.motion3.json"
+        }
+      ],
+      "Mgirl201_xianqi": [
+        {
+          "File": "motions/Mgirl201_xianqi.motion3.json"
+        }
+      ],
+      "Mgirl201_yaotou": [
+        {
+          "File": "motions/Mgirl201_yaotou.motion3.json"
+        }
+      ],
+      "Mgirl201_zamaoshengqi": [
+        {
+          "File": "motions/Mgirl201_zamaoshengqi.motion3.json"
+        }
+      ],
+      "Mgirl201_zantong": [
+        {
+          "File": "motions/Mgirl201_zantong.motion3.json"
+        }
+      ],
+      "Mgirl201_zaoshang": [
+        {
+          "File": "motions/Mgirl201_zaoshang.motion3.json"
+        }
+      ],
+      "Mgirl201_zhongwu": [
+        {
+          "File": "motions/Mgirl201_zhongwu.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}
