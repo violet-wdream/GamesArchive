@@ -1,0 +1,107 @@
+{
+  "Version": 3,
+  "Name": "シーン4.8",
+  "FileReferences": {
+    "Moc": "シーン4.8.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png",
+      "textures/texture_03.png"
+    ],
+    "Physics": null,
+    "Pose": null,
+    "DisplayInfo": null,
+    "Motions": {
+      "【表情】高潮": [
+        {
+          "File": "motions/【表情】高潮.motion3.json"
+        }
+      ],
+      "【表情】默认": [
+        {
+          "File": "motions/【表情】默认.motion3.json"
+        }
+      ],
+      "仰头高潮": [
+        {
+          "File": "motions/仰头高潮.motion3.json"
+        }
+      ],
+      "做爱循环": [
+        {
+          "File": "motions/做爱循环.motion3.json"
+        }
+      ],
+      "冲刺射精": [
+        {
+          "File": "motions/冲刺射精.motion3.json"
+        }
+      ],
+      "口交循环": [
+        {
+          "File": "motions/口交循环.motion3.json"
+        }
+      ],
+      "呼吸循环": [
+        {
+          "File": "motions/呼吸循环.motion3.json"
+        }
+      ],
+      "头发飘动": [
+        {
+          "File": "motions/头发飘动.motion3.json"
+        }
+      ],
+      "扶头切换": [
+        {
+          "File": "motions/扶头切换.motion3.json"
+        }
+      ],
+      "抽烟": [
+        {
+          "File": "motions/抽烟.motion3.json"
+        }
+      ],
+      "水滴滴落": [
+        {
+          "File": "motions/水滴滴落.motion3.json"
+        }
+      ],
+      "精液流出": [
+        {
+          "File": "motions/精液流出.motion3.json"
+        }
+      ],
+      "自慰切换": [
+        {
+          "File": "motions/自慰切换.motion3.json"
+        }
+      ],
+      "自慰循环": [
+        {
+          "File": "motions/自慰循环.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeROpen",
+        "ParamEyeLOpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthForm",
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}
