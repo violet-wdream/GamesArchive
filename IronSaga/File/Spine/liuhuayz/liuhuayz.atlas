@@ -1,0 +1,90 @@
+
+liuhuayz.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+body_0
+  rotate: true
+  xy: 2, 2
+  size: 64, 326
+  orig: 64, 326
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 820, 417
+  size: 71, 241
+  orig: 71, 241
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 1847, 1810
+  size: 192, 230
+  orig: 192, 230
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: true
+  xy: 415, 87
+  size: 251, 307
+  orig: 251, 307
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: true
+  xy: 2, 68
+  size: 270, 411
+  orig: 270, 411
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: false
+  xy: 820, 490
+  size: 247, 347
+  orig: 247, 347
+  offset: 0, 0
+  index: -1
+body_6
+  rotate: false
+  xy: 724, 159
+  size: 25, 179
+  orig: 25, 179
+  offset: 0, 0
+  index: -1
+body_7
+  rotate: false
+  xy: 1069, 637
+  size: 24, 200
+  orig: 24, 200
+  offset: 0, 0
+  index: -1
+body_8
+  rotate: false
+  xy: 2, 340
+  size: 816, 1700
+  orig: 816, 1700
+  offset: 0, 0
+  index: -1
+body_9
+  rotate: false
+  xy: 820, 839
+  size: 1025, 1201
+  orig: 1025, 1201
+  offset: 0, 0
+  index: -1
+q
+  rotate: false
+  xy: 1847, 1759
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+w
+  rotate: false
+  xy: 330, 18
+  size: 62, 48
+  orig: 62, 48
+  offset: 0, 0
+  index: -1

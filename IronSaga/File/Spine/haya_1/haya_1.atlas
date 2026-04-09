@@ -1,0 +1,118 @@
+
+haya_1.png
+size: 1310,967
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+eye
+  rotate: false
+  xy: 828, 321
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 866, 322
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 443, 318
+  size: 323, 352
+  orig: 323, 352
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1183, 91
+  size: 103, 177
+  orig: 103, 177
+  offset: 0, 0
+  index: -1
+hua
+  rotate: true
+  xy: 1183, 286
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: true
+  xy: 769, 28
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+ren
+  rotate: true
+  xy: 0, 670
+  size: 366, 1319
+  orig: 366, 1319
+  offset: 0, 0
+  index: -1
+shou
+  rotate: true
+  xy: 769, 347
+  size: 323, 410
+  orig: 323, 410
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: true
+  xy: 1179, 342
+  size: 88, 48
+  orig: 88, 48
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 769, 91
+  size: 99, 165
+  orig: 99, 165
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 766, 325
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 1227, 268
+  size: 83, 162
+  orig: 83, 162
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 0, 175
+  size: 443, 495
+  orig: 443, 495
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: true
+  xy: 1179, 430
+  size: 240, 123
+  orig: 240, 123
+  offset: 0, 0
+  index: -1
+tui
+  rotate: true
+  xy: 0, 0
+  size: 175, 769
+  orig: 175, 769
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 443, 190
+  size: 128, 740
+  orig: 128, 740
+  offset: 0, 0
+  index: -1

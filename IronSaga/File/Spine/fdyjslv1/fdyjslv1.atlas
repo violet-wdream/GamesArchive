@@ -1,0 +1,76 @@
+
+fdyjslv1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+FDYJS1_bg
+  rotate: false
+  xy: 2, 141
+  size: 689, 343
+  orig: 689, 343
+  offset: 0, 0
+  index: -1
+FDYJS1_bgoff
+  rotate: false
+  xy: 216, 48
+  size: 170, 91
+  orig: 170, 91
+  offset: 0, 0
+  index: -1
+FDYJS1_bomb
+  rotate: false
+  xy: 907, 379
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+FDYJS1_frt
+  rotate: false
+  xy: 2, 2
+  size: 212, 137
+  orig: 212, 137
+  offset: 0, 0
+  index: -1
+FDYJS1_frtoff
+  rotate: false
+  xy: 693, 347
+  size: 212, 137
+  orig: 212, 137
+  offset: 0, 0
+  index: -1
+FDYJS1_gls
+  rotate: false
+  xy: 813, 290
+  size: 59, 55
+  orig: 59, 55
+  offset: 0, 0
+  index: -1
+FDYJS1_glsbk
+  rotate: false
+  xy: 693, 223
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+FDYJS1_lt
+  rotate: false
+  xy: 693, 285
+  size: 118, 60
+  orig: 118, 60
+  offset: 0, 0
+  index: -1
+FDYJShole
+  rotate: false
+  xy: 216, 6
+  size: 83, 40
+  orig: 83, 40
+  offset: 0, 0
+  index: -1
+FDYJSholeshd
+  rotate: false
+  xy: 388, 76
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1

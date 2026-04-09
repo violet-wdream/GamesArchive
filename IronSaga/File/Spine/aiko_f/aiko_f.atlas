@@ -1,0 +1,132 @@
+
+aiko_f.png
+size: 1808,902
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+dao
+  rotate: false
+  xy: 0, 49
+  size: 831, 853
+  orig: 831, 853
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 219, 15
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: true
+  xy: 235, 19
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1214, 329
+  size: 145, 165
+  orig: 145, 165
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 120, 6
+  size: 43, 99
+  orig: 43, 99
+  offset: 0, 0
+  index: -1
+hand1
+  rotate: false
+  xy: 1424, 325
+  size: 365, 176
+  orig: 365, 176
+  offset: 0, 0
+  index: -1
+hand2
+  rotate: true
+  xy: 1573, 15
+  size: 310, 154
+  orig: 310, 154
+  offset: 0, 0
+  index: -1
+hl1
+  rotate: true
+  xy: 0, 0
+  size: 49, 120
+  orig: 49, 120
+  offset: 0, 0
+  index: -1
+hl2
+  rotate: true
+  xy: 1214, 1
+  size: 324, 359
+  orig: 324, 359
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: true
+  xy: 1424, 501
+  size: 299, 383
+  orig: 299, 383
+  offset: 0, 0
+  index: -1
+hr1
+  rotate: true
+  xy: 831, 3
+  size: 209, 158
+  orig: 209, 158
+  offset: 0, 0
+  index: -1
+hr2
+  rotate: false
+  xy: 1727, 138
+  size: 78, 187
+  orig: 78, 187
+  offset: 0, 0
+  index: -1
+mao
+  rotate: true
+  xy: 1017, 215
+  size: 259, 197
+  orig: 259, 197
+  offset: 0, 0
+  index: -1
+qundi
+  rotate: false
+  xy: 1424, 800
+  size: 384, 102
+  orig: 384, 102
+  offset: 0, 0
+  index: -1
+red1
+  rotate: true
+  xy: 989, 8
+  size: 204, 128
+  orig: 204, 128
+  offset: 0, 0
+  index: -1
+ren
+  rotate: false
+  xy: 1017, 474
+  size: 407, 428
+  orig: 407, 428
+  offset: 0, 0
+  index: -1
+tui
+  rotate: false
+  xy: 831, 212
+  size: 186, 690
+  orig: 186, 690
+  offset: 0, 0
+  index: -1
+zuofa
+  rotate: false
+  xy: 1727, 9
+  size: 63, 129
+  orig: 63, 129
+  offset: 0, 0
+  index: -1

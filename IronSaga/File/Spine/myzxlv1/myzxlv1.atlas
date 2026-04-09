@@ -1,0 +1,97 @@
+
+myzxlv1.png
+size: 2048,512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+MYZX1_Alt
+  rotate: false
+  xy: 2, 105
+  size: 266, 74
+  orig: 266, 74
+  offset: 0, 0
+  index: -1
+MYZX1_BuidA
+  rotate: true
+  xy: 1400, 257
+  size: 243, 344
+  orig: 243, 344
+  offset: 0, 0
+  index: -1
+MYZX1_BuidAoff
+  rotate: false
+  xy: 1746, 156
+  size: 243, 344
+  orig: 243, 344
+  offset: 0, 0
+  index: -1
+MYZX1_BuidB
+  rotate: true
+  xy: 497, 138
+  size: 41, 190
+  orig: 41, 190
+  offset: 0, 0
+  index: -1
+MYZX1_BuidC
+  rotate: true
+  xy: 497, 97
+  size: 39, 171
+  orig: 39, 171
+  offset: 0, 0
+  index: -1
+MYZX1_BuidD
+  rotate: false
+  xy: 1991, 298
+  size: 45, 202
+  orig: 45, 202
+  offset: 0, 0
+  index: -1
+MYZX1_BuidE
+  rotate: false
+  xy: 270, 83
+  size: 225, 96
+  orig: 225, 96
+  offset: 0, 0
+  index: -1
+MYZX1_BuidF
+  rotate: false
+  xy: 2, 2
+  size: 230, 101
+  orig: 230, 101
+  offset: 0, 0
+  index: -1
+MYZX1_BuidltA
+  rotate: true
+  xy: 1400, 195
+  size: 60, 267
+  orig: 60, 267
+  offset: 0, 0
+  index: -1
+MYZX1_BuidltB
+  rotate: false
+  xy: 799, 73
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1
+MYZX1_BuidltC
+  rotate: false
+  xy: 689, 71
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+MYZX1_bg
+  rotate: false
+  xy: 2, 181
+  size: 697, 319
+  orig: 697, 319
+  offset: 0, 0
+  index: -1
+MYZX1_bgoff
+  rotate: false
+  xy: 701, 181
+  size: 697, 319
+  orig: 697, 319
+  offset: 0, 0
+  index: -1
