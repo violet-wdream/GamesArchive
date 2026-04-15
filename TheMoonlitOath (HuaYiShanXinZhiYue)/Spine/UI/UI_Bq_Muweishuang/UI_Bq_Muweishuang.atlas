@@ -1,0 +1,104 @@
+
+UI_Bq_Muweishuang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 122
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 106, 206
+  size: 36, 32
+  orig: 42, 32
+  offset: 6, 0
+  index: -1
+a3
+  rotate: false
+  xy: 120, 189
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 175, 133
+  size: 32, 105
+  orig: 32, 105
+  offset: 0, 0
+  index: -1
+a5
+  rotate: false
+  xy: 92, 97
+  size: 90, 91
+  orig: 90, 91
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 59, 85
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+brow
+  rotate: true
+  xy: 183, 63
+  size: 63, 6
+  orig: 63, 6
+  offset: 0, 0
+  index: -1
+char1
+  rotate: false
+  xy: 2, 10
+  size: 120, 30
+  orig: 120, 30
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 146, 152
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 150
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+faguan
+  rotate: false
+  xy: 124, 3
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 124, 40
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 2, 41
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 161
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1

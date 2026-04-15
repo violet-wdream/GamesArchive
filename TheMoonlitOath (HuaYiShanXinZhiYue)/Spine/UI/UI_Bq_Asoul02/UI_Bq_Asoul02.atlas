@@ -1,0 +1,146 @@
+
+UI_Bq_Asoul02.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan_you
+  rotate: false
+  xy: 232, 162
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+biyan_zuo
+  rotate: false
+  xy: 232, 153
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+char
+  rotate: true
+  xy: 94, 58
+  size: 139, 33
+  orig: 139, 33
+  offset: 0, 0
+  index: -1
+erduo_you
+  rotate: true
+  xy: 39, 84
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+erduo_zuo
+  rotate: 180
+  xy: 49, 40
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+gebo_you
+  rotate: false
+  xy: 230, 102
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+gebo_zuo
+  rotate: false
+  xy: 195, 124
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 114
+  size: 90, 82
+  orig: 90, 82
+  offset: 0, 0
+  index: -1
+mei
+  rotate: false
+  xy: 166, 4
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 183, 83
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: true
+  xy: 129, 93
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: false
+  xy: 193, 158
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+toufa03
+  rotate: true
+  xy: 61, 9
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+toufa05
+  rotate: true
+  xy: 129, 22
+  size: 101, 100
+  orig: 101, 110
+  offset: 0, 0
+  index: -1
+toufahou
+  rotate: 270
+  xy: 2, 20
+  size: 102, 65
+  orig: 102, 65
+  offset: 0, 0
+  index: -1
+xingxing_z
+  rotate: false
+  xy: 232, 177
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+yanjing_y
+  rotate: false
+  xy: 226, 16
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+yanjing_z
+  rotate: false
+  xy: 229, 54
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 179, 153
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+zui_szc
+  rotate: false
+  xy: 69, 190
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+UI_E_Meiyiyanghongfubaidenge.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: 270
+  xy: 65, 3
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 97
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+e3
+  rotate: 270
+  xy: 53, 34
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+e4
+  rotate: 270
+  xy: 2, 54
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+e5
+  rotate: 180
+  xy: 2, 8
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 95, 84
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1

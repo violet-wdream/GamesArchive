@@ -1,0 +1,48 @@
+
+UI_E_Hongchiyee.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: true
+  xy: 57, 5
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 109
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+e3
+  rotate: 270
+  xy: 2, 29
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 2, 161
+  size: 81, 56
+  orig: 81, 56
+  offset: 0, 0
+  index: -1
+e5
+  rotate: true
+  xy: 10, 73
+  size: 49, 65
+  orig: 49, 65
+  offset: 0, 0
+  index: -1
+e6
+  rotate: true
+  xy: 2, 3
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1

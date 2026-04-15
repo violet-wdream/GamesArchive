@@ -1,0 +1,42 @@
+{
+    "skeleton": {
+        "x": 0.0,
+        "y": 0.0,
+        "width": 0.0,
+        "height": 0.0,
+        "hash": "rI5ME9GlHcfoseRKY2vvFjtnVHU",
+        "spine": "3.8.79",
+        "images": "C:/Users/fei.zhou/Downloads/黑衣人立绘/images2/",
+        "audio": "C:\\Users\\fei.zhou\\Downloads\\黑衣人立绘"
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "heiyiren",
+            "bone": "root",
+            "attachment": "heiyiren"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "heiyiren": {
+                    "heiyiren": {
+                        "x": 1.0602569580078125,
+                        "y": 316.93682861328125,
+                        "width": 400.0,
+                        "height": 657.0
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "animation": {}
+    }
+}

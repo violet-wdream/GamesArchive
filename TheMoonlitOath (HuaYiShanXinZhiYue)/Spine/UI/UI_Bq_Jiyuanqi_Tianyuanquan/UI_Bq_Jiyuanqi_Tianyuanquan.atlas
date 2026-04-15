@@ -1,0 +1,69 @@
+
+UI_Bq_Jiyuanqi_Tianyuanquan.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bird
+  rotate: false
+  xy: 187, 204
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 94
+  size: 183, 137
+  orig: 183, 137
+  offset: 0, 0
+  index: -1
+char
+  rotate: false
+  xy: 2, 51
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+char1
+  rotate: false
+  xy: 47, 51
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 142, 93
+  size: 110, 95
+  orig: 110, 95
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 2, 226
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 2, 226
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 96, 23
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+xl
+  rotate: false
+  xy: 3, 4
+  size: 96, 46
+  orig: 96, 46
+  offset: 0, 0
+  index: -1

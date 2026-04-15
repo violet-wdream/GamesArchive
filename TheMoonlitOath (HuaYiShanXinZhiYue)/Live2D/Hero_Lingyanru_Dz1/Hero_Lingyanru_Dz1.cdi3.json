@@ -1,0 +1,2146 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "Param",
+      "GroupId": "",
+      "Name": "耳环 左 3"
+    },
+    {
+      "Id": "Param10",
+      "GroupId": "",
+      "Name": "摇动 前发 4-2"
+    },
+    {
+      "Id": "Param100",
+      "GroupId": "",
+      "Name": "耳环 右 1"
+    },
+    {
+      "Id": "Param101",
+      "GroupId": "",
+      "Name": "左上臂长短"
+    },
+    {
+      "Id": "Param102",
+      "GroupId": "",
+      "Name": "左下臂臂长短"
+    },
+    {
+      "Id": "Param103",
+      "GroupId": "",
+      "Name": "右上臂长短"
+    },
+    {
+      "Id": "Param104",
+      "GroupId": "",
+      "Name": "右下臂长短"
+    },
+    {
+      "Id": "Param105",
+      "GroupId": "",
+      "Name": "外袖 3"
+    },
+    {
+      "Id": "Param106",
+      "GroupId": "",
+      "Name": "不透明度"
+    },
+    {
+      "Id": "Param107",
+      "GroupId": "",
+      "Name": "木牌z"
+    },
+    {
+      "Id": "Param108",
+      "GroupId": "",
+      "Name": "木牌x"
+    },
+    {
+      "Id": "Param109",
+      "GroupId": "",
+      "Name": "木牌y"
+    },
+    {
+      "Id": "Param11",
+      "GroupId": "",
+      "Name": "摇动 前发 5-2"
+    },
+    {
+      "Id": "Param110",
+      "GroupId": "",
+      "Name": "木牌流苏2"
+    },
+    {
+      "Id": "Param111",
+      "GroupId": "",
+      "Name": "木牌流苏3"
+    },
+    {
+      "Id": "Param112",
+      "GroupId": "",
+      "Name": "木牌叶子1-1"
+    },
+    {
+      "Id": "Param113",
+      "GroupId": "",
+      "Name": "木牌叶子1-2"
+    },
+    {
+      "Id": "Param114",
+      "GroupId": "",
+      "Name": "木牌叶子2-2"
+    },
+    {
+      "Id": "Param115",
+      "GroupId": "",
+      "Name": "木牌叶子2-1"
+    },
+    {
+      "Id": "Param116",
+      "GroupId": "",
+      "Name": "木牌流苏1"
+    },
+    {
+      "Id": "Param117",
+      "GroupId": "",
+      "Name": "木牌大小"
+    },
+    {
+      "Id": "Param118",
+      "GroupId": "",
+      "Name": "右腕x"
+    },
+    {
+      "Id": "Param119",
+      "GroupId": "",
+      "Name": "左腕y"
+    },
+    {
+      "Id": "Param12",
+      "GroupId": "",
+      "Name": "摇动 前发 5-1"
+    },
+    {
+      "Id": "Param120",
+      "GroupId": "",
+      "Name": "左腕x"
+    },
+    {
+      "Id": "Param121",
+      "GroupId": "",
+      "Name": "右腕y"
+    },
+    {
+      "Id": "Param122",
+      "GroupId": "",
+      "Name": "物理"
+    },
+    {
+      "Id": "Param123",
+      "GroupId": "",
+      "Name": "头发"
+    },
+    {
+      "Id": "Param124",
+      "GroupId": "",
+      "Name": "柳枝显隐"
+    },
+    {
+      "Id": "Param125",
+      "GroupId": "",
+      "Name": "柳枝x"
+    },
+    {
+      "Id": "Param126",
+      "GroupId": "",
+      "Name": "柳枝y"
+    },
+    {
+      "Id": "Param127",
+      "GroupId": "",
+      "Name": "左手2显隐"
+    },
+    {
+      "Id": "Param128",
+      "GroupId": "",
+      "Name": "左手1显隐"
+    },
+    {
+      "Id": "Param129",
+      "GroupId": "",
+      "Name": "右手2 显隐"
+    },
+    {
+      "Id": "Param13",
+      "GroupId": "",
+      "Name": "摇动 前发 5-3"
+    },
+    {
+      "Id": "Param130",
+      "GroupId": "",
+      "Name": "右手1 显隐"
+    },
+    {
+      "Id": "Param131",
+      "GroupId": "",
+      "Name": "参数341"
+    },
+    {
+      "Id": "Param132",
+      "GroupId": "",
+      "Name": "左外衣1 4"
+    },
+    {
+      "Id": "Param133",
+      "GroupId": "",
+      "Name": "左外衣1 3"
+    },
+    {
+      "Id": "Param134",
+      "GroupId": "",
+      "Name": "左外衣1 2"
+    },
+    {
+      "Id": "Param135",
+      "GroupId": "",
+      "Name": "左外衣1 1"
+    },
+    {
+      "Id": "Param136",
+      "GroupId": "",
+      "Name": "右外衣1 1"
+    },
+    {
+      "Id": "Param137",
+      "GroupId": "",
+      "Name": "右外衣1 2"
+    },
+    {
+      "Id": "Param138",
+      "GroupId": "",
+      "Name": "右外衣1 3"
+    },
+    {
+      "Id": "Param139",
+      "GroupId": "",
+      "Name": "右外衣1 4"
+    },
+    {
+      "Id": "Param14",
+      "GroupId": "",
+      "Name": "摇动 前发 6-2"
+    },
+    {
+      "Id": "Param140",
+      "GroupId": "",
+      "Name": "指环显隐"
+    },
+    {
+      "Id": "Param141",
+      "GroupId": "",
+      "Name": "手环显隐"
+    },
+    {
+      "Id": "Param142",
+      "GroupId": "",
+      "Name": "层级"
+    },
+    {
+      "Id": "Param143",
+      "GroupId": "",
+      "Name": "层级"
+    },
+    {
+      "Id": "Param15",
+      "GroupId": "",
+      "Name": "摇动 前发 6-1"
+    },
+    {
+      "Id": "Param16",
+      "GroupId": "",
+      "Name": "摇动 前发 7-1"
+    },
+    {
+      "Id": "Param17",
+      "GroupId": "",
+      "Name": "摇动 前发 7-2"
+    },
+    {
+      "Id": "Param18",
+      "GroupId": "",
+      "Name": "摇动 前发 7-3"
+    },
+    {
+      "Id": "Param19",
+      "GroupId": "",
+      "Name": "摇动 前发 8-1"
+    },
+    {
+      "Id": "Param2",
+      "GroupId": "",
+      "Name": "耳环 右 3"
+    },
+    {
+      "Id": "Param20",
+      "GroupId": "",
+      "Name": "摇动 前发 8-2"
+    },
+    {
+      "Id": "Param21",
+      "GroupId": "",
+      "Name": "腰饰 1-3"
+    },
+    {
+      "Id": "Param22",
+      "GroupId": "",
+      "Name": "腰饰 1-4"
+    },
+    {
+      "Id": "Param23",
+      "GroupId": "",
+      "Name": "腰饰 1-1"
+    },
+    {
+      "Id": "Param24",
+      "GroupId": "",
+      "Name": "腰饰 1-2"
+    },
+    {
+      "Id": "Param25",
+      "GroupId": "",
+      "Name": "腰饰 2-1"
+    },
+    {
+      "Id": "Param26",
+      "GroupId": "",
+      "Name": "腰饰 3-2"
+    },
+    {
+      "Id": "Param27",
+      "GroupId": "",
+      "Name": "腰饰 2-2"
+    },
+    {
+      "Id": "Param28",
+      "GroupId": "",
+      "Name": "腰饰 4"
+    },
+    {
+      "Id": "Param29",
+      "GroupId": "",
+      "Name": "腰饰 3-1"
+    },
+    {
+      "Id": "Param3",
+      "GroupId": "",
+      "Name": "摇动 前发 1-1"
+    },
+    {
+      "Id": "Param30",
+      "GroupId": "",
+      "Name": "摇动 发丝 1-1"
+    },
+    {
+      "Id": "Param31",
+      "GroupId": "",
+      "Name": "摇动 发丝 1-2"
+    },
+    {
+      "Id": "Param32",
+      "GroupId": "",
+      "Name": "摇动 发丝 2-1"
+    },
+    {
+      "Id": "Param33",
+      "GroupId": "",
+      "Name": "摇动 发丝 3-1"
+    },
+    {
+      "Id": "Param34",
+      "GroupId": "",
+      "Name": "摇动 发丝 2-2"
+    },
+    {
+      "Id": "Param35",
+      "GroupId": "",
+      "Name": "摇动 发丝 3-2"
+    },
+    {
+      "Id": "Param36",
+      "GroupId": "",
+      "Name": "项链1"
+    },
+    {
+      "Id": "Param37",
+      "GroupId": "",
+      "Name": "项链2"
+    },
+    {
+      "Id": "Param38",
+      "GroupId": "",
+      "Name": "左上臂"
+    },
+    {
+      "Id": "Param39",
+      "GroupId": "",
+      "Name": "摇动 侧发 1-1"
+    },
+    {
+      "Id": "Param4",
+      "GroupId": "",
+      "Name": "摇动 前发 1-2"
+    },
+    {
+      "Id": "Param40",
+      "GroupId": "",
+      "Name": "摇动 侧发 1-2"
+    },
+    {
+      "Id": "Param41",
+      "GroupId": "",
+      "Name": "左下臂"
+    },
+    {
+      "Id": "Param42",
+      "GroupId": "",
+      "Name": "左腕z"
+    },
+    {
+      "Id": "Param43",
+      "GroupId": "",
+      "Name": "裙摆 中 1"
+    },
+    {
+      "Id": "Param44",
+      "GroupId": "",
+      "Name": "裙摆 左 1"
+    },
+    {
+      "Id": "Param45",
+      "GroupId": "",
+      "Name": "裙摆 中 3"
+    },
+    {
+      "Id": "Param46",
+      "GroupId": "",
+      "Name": "裙摆 中 2"
+    },
+    {
+      "Id": "Param47",
+      "GroupId": "",
+      "Name": "裙摆 左 2"
+    },
+    {
+      "Id": "Param48",
+      "GroupId": "",
+      "Name": "裙摆 左 3"
+    },
+    {
+      "Id": "Param49",
+      "GroupId": "",
+      "Name": "裙摆 右 1"
+    },
+    {
+      "Id": "Param5",
+      "GroupId": "",
+      "Name": "摇动 前发 2-2"
+    },
+    {
+      "Id": "Param50",
+      "GroupId": "",
+      "Name": "裙摆 右 2"
+    },
+    {
+      "Id": "Param51",
+      "GroupId": "",
+      "Name": "裙摆 右 3"
+    },
+    {
+      "Id": "Param52",
+      "GroupId": "",
+      "Name": "袖尾毛 1"
+    },
+    {
+      "Id": "Param53",
+      "GroupId": "",
+      "Name": "袖尾毛 2"
+    },
+    {
+      "Id": "Param54",
+      "GroupId": "",
+      "Name": "内袖 1"
+    },
+    {
+      "Id": "Param55",
+      "GroupId": "",
+      "Name": "内袖 2"
+    },
+    {
+      "Id": "Param56",
+      "GroupId": "",
+      "Name": "外袖 1"
+    },
+    {
+      "Id": "Param57",
+      "GroupId": "",
+      "Name": "外袖 3"
+    },
+    {
+      "Id": "Param58",
+      "GroupId": "",
+      "Name": "左食指"
+    },
+    {
+      "Id": "Param59",
+      "GroupId": "",
+      "Name": "左中指"
+    },
+    {
+      "Id": "Param6",
+      "GroupId": "",
+      "Name": "摇动 前发 2-1"
+    },
+    {
+      "Id": "Param60",
+      "GroupId": "",
+      "Name": "左无名指"
+    },
+    {
+      "Id": "Param61",
+      "GroupId": "",
+      "Name": "左小指"
+    },
+    {
+      "Id": "Param62",
+      "GroupId": "",
+      "Name": "右食指"
+    },
+    {
+      "Id": "Param63",
+      "GroupId": "",
+      "Name": "右中指"
+    },
+    {
+      "Id": "Param64",
+      "GroupId": "",
+      "Name": "右无名指"
+    },
+    {
+      "Id": "Param65",
+      "GroupId": "",
+      "Name": "右小指"
+    },
+    {
+      "Id": "Param66",
+      "GroupId": "",
+      "Name": "右拇指"
+    },
+    {
+      "Id": "Param67",
+      "GroupId": "",
+      "Name": "摇动 前发 9-1"
+    },
+    {
+      "Id": "Param68",
+      "GroupId": "",
+      "Name": "摇动 前发 9-2"
+    },
+    {
+      "Id": "Param69",
+      "GroupId": "",
+      "Name": "摇动 侧发 2-1"
+    },
+    {
+      "Id": "Param7",
+      "GroupId": "",
+      "Name": "摇动 前发 3-1"
+    },
+    {
+      "Id": "Param70",
+      "GroupId": "",
+      "Name": "右上臂"
+    },
+    {
+      "Id": "Param71",
+      "GroupId": "",
+      "Name": "右下臂"
+    },
+    {
+      "Id": "Param72",
+      "GroupId": "",
+      "Name": "右腕z"
+    },
+    {
+      "Id": "Param73",
+      "GroupId": "",
+      "Name": "摇动 侧发 2-2"
+    },
+    {
+      "Id": "Param74",
+      "GroupId": "",
+      "Name": "内裙 2"
+    },
+    {
+      "Id": "Param75",
+      "GroupId": "",
+      "Name": "内裙 1"
+    },
+    {
+      "Id": "Param76",
+      "GroupId": "",
+      "Name": "左肩高低"
+    },
+    {
+      "Id": "Param77",
+      "GroupId": "",
+      "Name": "右毛领肩头毛抖动1"
+    },
+    {
+      "Id": "Param78",
+      "GroupId": "",
+      "Name": "右毛领肩头毛抖动2"
+    },
+    {
+      "Id": "Param79",
+      "GroupId": "",
+      "Name": "左毛领肩头毛抖动1"
+    },
+    {
+      "Id": "Param8",
+      "GroupId": "",
+      "Name": "摇动 前发 3-2"
+    },
+    {
+      "Id": "Param80",
+      "GroupId": "",
+      "Name": "左毛领肩头毛抖动2"
+    },
+    {
+      "Id": "Param81",
+      "GroupId": "",
+      "Name": "右眼   缩小"
+    },
+    {
+      "Id": "Param82",
+      "GroupId": "",
+      "Name": "左眼   缩小"
+    },
+    {
+      "Id": "Param83",
+      "GroupId": "",
+      "Name": "右肩高低"
+    },
+    {
+      "Id": "Param84",
+      "GroupId": "",
+      "Name": "外袖 2"
+    },
+    {
+      "Id": "Param85",
+      "GroupId": "",
+      "Name": "外袖 4"
+    },
+    {
+      "Id": "Param86",
+      "GroupId": "",
+      "Name": "外袖 4"
+    },
+    {
+      "Id": "Param87",
+      "GroupId": "",
+      "Name": "内袖 1"
+    },
+    {
+      "Id": "Param88",
+      "GroupId": "",
+      "Name": "内袖 2"
+    },
+    {
+      "Id": "Param89",
+      "GroupId": "",
+      "Name": "外袖 1"
+    },
+    {
+      "Id": "Param9",
+      "GroupId": "",
+      "Name": "摇动 前发 4-1"
+    },
+    {
+      "Id": "Param90",
+      "GroupId": "",
+      "Name": "外袖 2"
+    },
+    {
+      "Id": "Param91",
+      "GroupId": "",
+      "Name": "背景串 1-1"
+    },
+    {
+      "Id": "Param92",
+      "GroupId": "",
+      "Name": "背景串 1-2"
+    },
+    {
+      "Id": "Param93",
+      "GroupId": "",
+      "Name": "背景串 2-1"
+    },
+    {
+      "Id": "Param94",
+      "GroupId": "",
+      "Name": "背景串 2-2"
+    },
+    {
+      "Id": "Param95",
+      "GroupId": "",
+      "Name": "背景串 3-1"
+    },
+    {
+      "Id": "Param96",
+      "GroupId": "",
+      "Name": "背景串 3-2"
+    },
+    {
+      "Id": "Param97",
+      "GroupId": "",
+      "Name": "耳环 左 2"
+    },
+    {
+      "Id": "Param98",
+      "GroupId": "",
+      "Name": "耳环 左 1"
+    },
+    {
+      "Id": "Param99",
+      "GroupId": "",
+      "Name": "耳环 右 2"
+    },
+    {
+      "Id": "ParamAngleX",
+      "GroupId": "",
+      "Name": "角度 X"
+    },
+    {
+      "Id": "ParamAngleY",
+      "GroupId": "",
+      "Name": "角度 Y"
+    },
+    {
+      "Id": "ParamAngleZ",
+      "GroupId": "",
+      "Name": "角度 Z"
+    },
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "身体旋转　Y"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体旋转　Z"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "ParamBrowLAngle",
+      "GroupId": "",
+      "Name": "左眉　角度"
+    },
+    {
+      "Id": "ParamBrowLForm",
+      "GroupId": "",
+      "Name": "左眉　変形"
+    },
+    {
+      "Id": "ParamBrowLX",
+      "GroupId": "",
+      "Name": "左眉　左右"
+    },
+    {
+      "Id": "ParamBrowLY",
+      "GroupId": "",
+      "Name": "左眉   上下"
+    },
+    {
+      "Id": "ParamBrowRAngle",
+      "GroupId": "",
+      "Name": "右眉　角度"
+    },
+    {
+      "Id": "ParamBrowRForm",
+      "GroupId": "",
+      "Name": "右眉　変形"
+    },
+    {
+      "Id": "ParamBrowRX",
+      "GroupId": "",
+      "Name": "右眉　左右"
+    },
+    {
+      "Id": "ParamBrowRY",
+      "GroupId": "",
+      "Name": "右眉　上下"
+    },
+    {
+      "Id": "ParamEyeBallX",
+      "GroupId": "",
+      "Name": "眼球 X"
+    },
+    {
+      "Id": "ParamEyeBallY",
+      "GroupId": "",
+      "Name": "眼球 Y"
+    },
+    {
+      "Id": "ParamEyeLOpen",
+      "GroupId": "",
+      "Name": "左眼　开闭"
+    },
+    {
+      "Id": "ParamEyeLSmile",
+      "GroupId": "",
+      "Name": "左眼　微笑"
+    },
+    {
+      "Id": "ParamEyeROpen",
+      "GroupId": "",
+      "Name": "右眼   开闭"
+    },
+    {
+      "Id": "ParamEyeRSmile",
+      "GroupId": "",
+      "Name": "右眼　微笑"
+    },
+    {
+      "Id": "ParamMouthForm",
+      "GroupId": "",
+      "Name": "嘴部　变形"
+    },
+    {
+      "Id": "ParamMouthOpenY",
+      "GroupId": "",
+      "Name": "嘴巴　张开和闭合"
+    },
+    {
+      "Id": "Param_Angle_Rotation190",
+      "GroupId": "",
+      "Name": "[0]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation192",
+      "GroupId": "",
+      "Name": "[1]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation194",
+      "GroupId": "",
+      "Name": "[2]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation195",
+      "GroupId": "",
+      "Name": "[3]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation196",
+      "GroupId": "",
+      "Name": "[4]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation197",
+      "GroupId": "",
+      "Name": "[5]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation198",
+      "GroupId": "",
+      "Name": "[6]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation199",
+      "GroupId": "",
+      "Name": "[7]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation200",
+      "GroupId": "",
+      "Name": "[8]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation201",
+      "GroupId": "",
+      "Name": "[9]liuzhi旋转2"
+    },
+    {
+      "Id": "Param_Angle_Rotation26",
+      "GroupId": "",
+      "Name": "[0]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation58",
+      "GroupId": "",
+      "Name": "[0]项链吊坠"
+    },
+    {
+      "Id": "Param_Angle_Rotation60",
+      "GroupId": "",
+      "Name": "[4]项链吊坠"
+    },
+    {
+      "Id": "Param_Angle_Rotation69",
+      "GroupId": "",
+      "Name": "[1]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation70",
+      "GroupId": "",
+      "Name": "[2]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation86",
+      "GroupId": "",
+      "Name": "[3]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation87",
+      "GroupId": "",
+      "Name": "[4]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation88",
+      "GroupId": "",
+      "Name": "[5]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation89",
+      "GroupId": "",
+      "Name": "[6]左缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation90",
+      "GroupId": "",
+      "Name": "[0]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation91",
+      "GroupId": "",
+      "Name": "[1]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation92",
+      "GroupId": "",
+      "Name": "[2]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation93",
+      "GroupId": "",
+      "Name": "[3]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation94",
+      "GroupId": "",
+      "Name": "[4]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation95",
+      "GroupId": "",
+      "Name": "[5]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation96",
+      "GroupId": "",
+      "Name": "[6]右缎带"
+    },
+    {
+      "Id": "Param_Angle_Rotation97",
+      "GroupId": "",
+      "Name": "[1]项链吊坠"
+    },
+    {
+      "Id": "Param_Angle_Rotation98",
+      "GroupId": "",
+      "Name": "[2]项链吊坠"
+    },
+    {
+      "Id": "Param_Angle_Rotation99",
+      "GroupId": "",
+      "Name": "[3]项链吊坠"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing1",
+      "GroupId": "",
+      "Name": "长巾流苏1-1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing19",
+      "GroupId": "",
+      "Name": "长巾流苏2-4-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing2",
+      "GroupId": "",
+      "Name": "长巾流苏1-2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing20",
+      "GroupId": "",
+      "Name": "长巾流苏2-3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing21",
+      "GroupId": "",
+      "Name": "长巾流苏2-2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing22",
+      "GroupId": "",
+      "Name": "长巾流苏2-1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing3",
+      "GroupId": "",
+      "Name": "长巾流苏1-3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing4",
+      "GroupId": "",
+      "Name": "长巾流苏1-4-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_beijing5",
+      "GroupId": "",
+      "Name": "长巾流苏1-5-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_erhuan1",
+      "GroupId": "",
+      "Name": "耳环 右 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_erhuan4",
+      "GroupId": "",
+      "Name": "耳环 左 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_qunzi1",
+      "GroupId": "",
+      "Name": "裙子 丝带 1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_toufa21",
+      "GroupId": "",
+      "Name": "后发 右 3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi11",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 4-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi12",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi13",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi14",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi15",
+      "GroupId": "",
+      "Name": "腰带 左 1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi16",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi17",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi18",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_1_yaoshi7",
+      "GroupId": "",
+      "Name": "腰饰 1-5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing1",
+      "GroupId": "",
+      "Name": "长巾流苏1-1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing19",
+      "GroupId": "",
+      "Name": "长巾流苏2-4-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing2",
+      "GroupId": "",
+      "Name": "长巾流苏1-2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing20",
+      "GroupId": "",
+      "Name": "长巾流苏2-3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing21",
+      "GroupId": "",
+      "Name": "长巾流苏2-2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing22",
+      "GroupId": "",
+      "Name": "长巾流苏2-1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing23",
+      "GroupId": "",
+      "Name": "背景长巾3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing24",
+      "GroupId": "",
+      "Name": "背景短巾4-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing25",
+      "GroupId": "",
+      "Name": "背景长巾2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing26",
+      "GroupId": "",
+      "Name": "背景短巾3-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing27",
+      "GroupId": "",
+      "Name": "背景长巾1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing28",
+      "GroupId": "",
+      "Name": "背景短巾1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing3",
+      "GroupId": "",
+      "Name": "长巾流苏1-3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing31",
+      "GroupId": "",
+      "Name": "背景蓝丝带1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing32",
+      "GroupId": "",
+      "Name": "背景蓝丝带2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing33",
+      "GroupId": "",
+      "Name": "背景短巾2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing34",
+      "GroupId": "",
+      "Name": "背景短巾5-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing4",
+      "GroupId": "",
+      "Name": "长巾流苏1-4-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_beijing5",
+      "GroupId": "",
+      "Name": "长巾流苏1-5-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_erhuan1",
+      "GroupId": "",
+      "Name": "耳环 右 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_erhuan4",
+      "GroupId": "",
+      "Name": "耳环 左 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_fashi2",
+      "GroupId": "",
+      "Name": "发饰带 右 2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_maoling1",
+      "GroupId": "",
+      "Name": "右毛领1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_maoling2",
+      "GroupId": "",
+      "Name": "左毛领1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_qunzi1",
+      "GroupId": "",
+      "Name": "裙子 丝带 2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_toufa19",
+      "GroupId": "",
+      "Name": "后发 左 1-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_toufa21",
+      "GroupId": "",
+      "Name": "后发 右 3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-1"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_toufa23",
+      "GroupId": "",
+      "Name": "[1]toufa20"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi11",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 4-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi12",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi13",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi14",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi15",
+      "GroupId": "",
+      "Name": "腰带 左 2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi16",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi17",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi18",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_2_yaoshi7",
+      "GroupId": "",
+      "Name": "腰饰 1-6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing1",
+      "GroupId": "",
+      "Name": "长巾流苏1-1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing19",
+      "GroupId": "",
+      "Name": "长巾流苏2-4-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing2",
+      "GroupId": "",
+      "Name": "长巾流苏1-2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing20",
+      "GroupId": "",
+      "Name": "长巾流苏2-3-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing21",
+      "GroupId": "",
+      "Name": "长巾流苏2-2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing22",
+      "GroupId": "",
+      "Name": "长巾流苏2-1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing23",
+      "GroupId": "",
+      "Name": "背景长巾3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing24",
+      "GroupId": "",
+      "Name": "背景短巾4-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing25",
+      "GroupId": "",
+      "Name": "背景长巾2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing26",
+      "GroupId": "",
+      "Name": "背景短巾3-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing27",
+      "GroupId": "",
+      "Name": "背景长巾1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing28",
+      "GroupId": "",
+      "Name": "背景短巾1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing3",
+      "GroupId": "",
+      "Name": "长巾流苏1-3-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing31",
+      "GroupId": "",
+      "Name": "背景蓝丝带1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing32",
+      "GroupId": "",
+      "Name": "背景蓝丝带2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing33",
+      "GroupId": "",
+      "Name": "背景短巾2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing34",
+      "GroupId": "",
+      "Name": "背景短巾5-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing4",
+      "GroupId": "",
+      "Name": "长巾流苏1-4-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_beijing5",
+      "GroupId": "",
+      "Name": "长巾流苏1-5-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_erhuan1",
+      "GroupId": "",
+      "Name": "耳环 右 6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_erhuan4",
+      "GroupId": "",
+      "Name": "耳环 左 6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_fashi2",
+      "GroupId": "",
+      "Name": "发饰带 右 3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_maoling1",
+      "GroupId": "",
+      "Name": "右毛领2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_maoling2",
+      "GroupId": "",
+      "Name": "左毛领2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_qunzi1",
+      "GroupId": "",
+      "Name": "裙子 丝带 3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_toufa19",
+      "GroupId": "",
+      "Name": "后发 左 1-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_toufa20",
+      "GroupId": "",
+      "Name": "[2]toufa20"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_toufa21",
+      "GroupId": "",
+      "Name": "后发 右 3-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-2"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi11",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 4-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi12",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 3-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi13",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi14",
+      "GroupId": "",
+      "Name": "腰带 左 流苏 1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi15",
+      "GroupId": "",
+      "Name": "腰带 左 3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi16",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 3-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi17",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi18",
+      "GroupId": "",
+      "Name": "腰带 右 流苏 1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_3_yaoshi7",
+      "GroupId": "",
+      "Name": "腰饰 1-7"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_beijing23",
+      "GroupId": "",
+      "Name": "背景长巾3-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_beijing25",
+      "GroupId": "",
+      "Name": "背景长巾2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_beijing27",
+      "GroupId": "",
+      "Name": "背景长巾1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_beijing31",
+      "GroupId": "",
+      "Name": "背景蓝丝带1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_beijing32",
+      "GroupId": "",
+      "Name": "背景蓝丝带2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_fashi2",
+      "GroupId": "",
+      "Name": "发饰带 右 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_maoling1",
+      "GroupId": "",
+      "Name": "右毛领3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_maoling2",
+      "GroupId": "",
+      "Name": "左毛领3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_qunzi1",
+      "GroupId": "",
+      "Name": "裙子 丝带 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_toufa19",
+      "GroupId": "",
+      "Name": "后发 左 1-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_toufa20",
+      "GroupId": "",
+      "Name": "[3]toufa20"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_toufa21",
+      "GroupId": "",
+      "Name": "后发 右 3-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-3"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_yaoshi15",
+      "GroupId": "",
+      "Name": "腰带 左 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_4_yaoshi7",
+      "GroupId": "",
+      "Name": "腰饰 1-8"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_beijing23",
+      "GroupId": "",
+      "Name": "背景长巾3-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_beijing25",
+      "GroupId": "",
+      "Name": "背景长巾2-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_beijing27",
+      "GroupId": "",
+      "Name": "背景长巾1-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_beijing31",
+      "GroupId": "",
+      "Name": "背景蓝丝带1-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_beijing32",
+      "GroupId": "",
+      "Name": "背景蓝丝带2-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_fashi2",
+      "GroupId": "",
+      "Name": "发饰带 右 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_maoling1",
+      "GroupId": "",
+      "Name": "右毛领4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_maoling2",
+      "GroupId": "",
+      "Name": "左毛领4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_qunzi1",
+      "GroupId": "",
+      "Name": "裙子 丝带 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_toufa19",
+      "GroupId": "",
+      "Name": "后发 左 1-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_toufa21",
+      "GroupId": "",
+      "Name": "后发 右 3-5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-4"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_yaoshi15",
+      "GroupId": "",
+      "Name": "腰带 左 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_5_yaoshi7",
+      "GroupId": "",
+      "Name": "腰饰 1-9"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_fashi2",
+      "GroupId": "",
+      "Name": "发饰带 右 6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-5"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_6_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 7"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-6"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_xiuzi8",
+      "GroupId": "",
+      "Name": "右袖毛7"
+    },
+    {
+      "Id": "Param_Angle_Rotation_7_yaoshi19",
+      "GroupId": "",
+      "Name": "腰带 右 7"
+    },
+    {
+      "Id": "Param_Angle_Rotation_8_fashi3",
+      "GroupId": "",
+      "Name": "发饰带 左 8"
+    },
+    {
+      "Id": "Param_Angle_Rotation_8_toufa17",
+      "GroupId": "",
+      "Name": "后发 右 1-7"
+    },
+    {
+      "Id": "Param_Angle_Rotation_8_toufa22",
+      "GroupId": "",
+      "Name": "后发 右 2-7"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "duandai1_Skinning",
+      "Name": "duandai2(蒙皮)"
+    },
+    {
+      "Id": "duandai2_Skinning",
+      "Name": "toufa21(旋转)"
+    },
+    {
+      "Id": "duandai3_Skinning",
+      "Name": "duandai3(蒙皮)"
+    },
+    {
+      "Id": "duandai3_Skinning2",
+      "Name": "toufa24(蒙皮)"
+    },
+    {
+      "Id": "duandai4_Skinning",
+      "Name": "duandai4(蒙皮)"
+    },
+    {
+      "Id": "duandai4_Skinning2",
+      "Name": "erhuan6(回转)"
+    },
+    {
+      "Id": "erhuan1_Skinning",
+      "Name": "erhuan1(旋转)"
+    },
+    {
+      "Id": "erhuan1_Skinning2",
+      "Name": "ｱ�ﾇ�"
+    },
+    {
+      "Id": "erhuan3_Skinning",
+      "Name": "erhuan1(回转)"
+    },
+    {
+      "Id": "erhuan4_Skinning",
+      "Name": "erhuan4(旋转)"
+    },
+    {
+      "Id": "erhuan4_Skinning2",
+      "Name": "duandai4(回转)"
+    },
+    {
+      "Id": "erhuan6_Skinning",
+      "Name": "erhuan4(回转)"
+    },
+    {
+      "Id": "fashi2_Skinning",
+      "Name": "qunzi1(旋转)"
+    },
+    {
+      "Id": "fashi3_Skinning",
+      "Name": "fashi3(旋转)"
+    },
+    {
+      "Id": "fashi3_Skinning2",
+      "Name": "fashi2(旋转)"
+    },
+    {
+      "Id": "liuzhi12_Skinning2",
+      "Name": "beijing5(蒙皮)"
+    },
+    {
+      "Id": "liuzhi13_Skinning2",
+      "Name": "beijing4(旋转)"
+    },
+    {
+      "Id": "liuzhi15_Skinning2",
+      "Name": "beijing4(蒙皮)"
+    },
+    {
+      "Id": "liuzhi16_Skinning2",
+      "Name": "beijing3(旋转)"
+    },
+    {
+      "Id": "liuzhi17_Skinning2",
+      "Name": "beijing3(蒙皮)"
+    },
+    {
+      "Id": "liuzhi18_Skinning2",
+      "Name": "beijing2(旋转)"
+    },
+    {
+      "Id": "liuzhi20_Skinning2",
+      "Name": "beijing2(蒙皮)"
+    },
+    {
+      "Id": "liuzhi21_Skinning2",
+      "Name": "beijing1(旋转)"
+    },
+    {
+      "Id": "liuzhi23_Skinning2",
+      "Name": "beijing1(蒙皮)"
+    },
+    {
+      "Id": "liuzhi24_Skinning2",
+      "Name": "duandai3(回转)"
+    },
+    {
+      "Id": "liuzhi26_Skinning2",
+      "Name": "beijing20(旋转)"
+    },
+    {
+      "Id": "liuzhi3_Skinning2",
+      "Name": "beijing20(蒙皮)"
+    },
+    {
+      "Id": "liuzhi4_Skinning2",
+      "Name": "beijing19(旋转)"
+    },
+    {
+      "Id": "liuzhi64",
+      "Name": "部件130"
+    },
+    {
+      "Id": "liuzhi8_Skinning2",
+      "Name": "beijing19(蒙皮)"
+    },
+    {
+      "Id": "liuzhi9_Skinning2",
+      "Name": "beijing5(旋转)"
+    },
+    {
+      "Id": "maoling1_Skinning",
+      "Name": "maoling1(旋转)"
+    },
+    {
+      "Id": "maoling2_Skinning",
+      "Name": "erhuan4(蒙皮)"
+    },
+    {
+      "Id": "paizi",
+      "Name": "liuzhi2"
+    },
+    {
+      "Id": "Part",
+      "Name": "ﾎﾄｼ�ｼﾐ1"
+    },
+    {
+      "Id": "Part10",
+      "Name": "erhuan6(蒙皮)"
+    },
+    {
+      "Id": "Part11",
+      "Name": "erhuan4(蒙皮)"
+    },
+    {
+      "Id": "Part12",
+      "Name": "erhuan3(蒙皮)"
+    },
+    {
+      "Id": "Part13",
+      "Name": "erhuan1(蒙皮)"
+    },
+    {
+      "Id": "Part14",
+      "Name": "yaoshi7(蒙皮)"
+    },
+    {
+      "Id": "Part15",
+      "Name": "yaoshi14(蒙皮)"
+    },
+    {
+      "Id": "Part16",
+      "Name": "yaoshi13(蒙皮)"
+    },
+    {
+      "Id": "Part17",
+      "Name": "yaoshi12(蒙皮)"
+    },
+    {
+      "Id": "Part18",
+      "Name": "yaoshi11(蒙皮)"
+    },
+    {
+      "Id": "Part19",
+      "Name": "yaoshi18(蒙皮)"
+    },
+    {
+      "Id": "Part2",
+      "Name": "paizi"
+    },
+    {
+      "Id": "Part20",
+      "Name": "yaoshi17(蒙皮)"
+    },
+    {
+      "Id": "Part21",
+      "Name": "yaoshi16(蒙皮)"
+    },
+    {
+      "Id": "Part22",
+      "Name": "yaoshi19(蒙皮)"
+    },
+    {
+      "Id": "Part23",
+      "Name": "toufa21(蒙皮)"
+    },
+    {
+      "Id": "Part24",
+      "Name": "toufa20(蒙皮)"
+    },
+    {
+      "Id": "Part25",
+      "Name": "yaoshi15(蒙皮)"
+    },
+    {
+      "Id": "Part26",
+      "Name": "qunzi1(蒙皮)"
+    },
+    {
+      "Id": "Part27",
+      "Name": "fashi3(蒙皮)"
+    },
+    {
+      "Id": "Part28",
+      "Name": "ｱｳｾｰ"
+    },
+    {
+      "Id": "Part29",
+      "Name": "xiuzi8(蒙皮)"
+    },
+    {
+      "Id": "Part30",
+      "Name": "maoling2(蒙皮)"
+    },
+    {
+      "Id": "Part31",
+      "Name": "金属"
+    },
+    {
+      "Id": "Part4",
+      "Name": "duandai3(蒙皮)"
+    },
+    {
+      "Id": "Part5",
+      "Name": "duandai4(蒙皮)"
+    },
+    {
+      "Id": "Part52",
+      "Name": "erhuan3(回转)"
+    },
+    {
+      "Id": "Part53",
+      "Name": "erhuan1(蒙皮)"
+    },
+    {
+      "Id": "Part55",
+      "Name": "yaoshi19(旋转)"
+    },
+    {
+      "Id": "Part56",
+      "Name": "maoling2(旋转)"
+    },
+    {
+      "Id": "Part57",
+      "Name": "toufa19(蒙皮)"
+    },
+    {
+      "Id": "Part58",
+      "Name": "toufa17(蒙皮)"
+    },
+    {
+      "Id": "Part6",
+      "Name": "fashi3(蒙皮)"
+    },
+    {
+      "Id": "Part61",
+      "Name": "toufa22(蒙皮)"
+    },
+    {
+      "Id": "Part7",
+      "Name": "fashi2(蒙皮)"
+    },
+    {
+      "Id": "Part8",
+      "Name": "xiuzi8(旋转)"
+    },
+    {
+      "Id": "Part9",
+      "Name": "右手2"
+    },
+    {
+      "Id": "qunzi1_Skinning",
+      "Name": "身体"
+    },
+    {
+      "Id": "toufa17_Skinning2",
+      "Name": "toufa18(蒙皮)"
+    },
+    {
+      "Id": "toufa19_Skinning2",
+      "Name": "toufa17(旋转)"
+    },
+    {
+      "Id": "toufa20_Skinning",
+      "Name": "toufa19(旋转)"
+    },
+    {
+      "Id": "toufa21_Skinning",
+      "Name": "toufa20(旋转)"
+    },
+    {
+      "Id": "toufa22_Skinning2",
+      "Name": "duandai1(蒙皮)"
+    },
+    {
+      "Id": "toufa23_Skinning",
+      "Name": "toufa22(旋转)"
+    },
+    {
+      "Id": "toufa24_Skinning",
+      "Name": "toufa23(蒙皮)"
+    },
+    {
+      "Id": "toufa37_Skinning",
+      "Name": "fashi3(回转)"
+    },
+    {
+      "Id": "xiuzi8_Skinning",
+      "Name": "部件131"
+    },
+    {
+      "Id": "yaoshi11_Skinning",
+      "Name": "yaoshi7(旋转)"
+    },
+    {
+      "Id": "yaoshi12_Skinning",
+      "Name": "yaoshi11(旋转)"
+    },
+    {
+      "Id": "yaoshi13_Skinning",
+      "Name": "yaoshi12(旋转)"
+    },
+    {
+      "Id": "yaoshi14_Skinning",
+      "Name": "yaoshi13(旋转)"
+    },
+    {
+      "Id": "yaoshi15_Skinning",
+      "Name": "yaoshi14(旋转)"
+    },
+    {
+      "Id": "yaoshi16_Skinning",
+      "Name": "yaoshi15(旋转)"
+    },
+    {
+      "Id": "yaoshi17_Skinning",
+      "Name": "yaoshi16(旋转)"
+    },
+    {
+      "Id": "yaoshi18_Skinning",
+      "Name": "yaoshi17(旋转)"
+    },
+    {
+      "Id": "yaoshi19_Skinning",
+      "Name": "yaoshi18(旋转)"
+    },
+    {
+      "Id": "yaoshi7_Skinning",
+      "Name": "maoling1(蒙皮)"
+    },
+    {
+      "Id": "zui",
+      "Name": "beijing21(蒙皮)"
+    }
+  ]
+}

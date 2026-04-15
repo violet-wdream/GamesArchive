@@ -1,0 +1,111 @@
+
+UI_Bq_Luguang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lian
+  rotate: 270
+  xy: 159, 121
+  size: 116, 77
+  orig: 116, 77
+  offset: 0, 0
+  index: -1
+meimaoyou
+  rotate: false
+  xy: 208, 36
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+meimaozuo
+  rotate: false
+  xy: 208, 53
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 31, 208
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 2, 120
+  size: 162, 116
+  orig: 162, 116
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 2, 3
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 72, 22
+  size: 59, 46
+  orig: 59, 46
+  offset: 0, 0
+  index: -1
+wz
+  rotate: false
+  xy: 26, 71
+  size: 209, 48
+  orig: 209, 48
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 136, 223
+  size: 14, 21
+  orig: 96, 71
+  offset: 0, 50
+  index: -1
+xing2
+  rotate: false
+  xy: 2, 84
+  size: 22, 35
+  orig: 22, 35
+  offset: 0, 0
+  index: -1
+xing3
+  rotate: false
+  xy: 229, 207
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+yanjingyou
+  rotate: false
+  xy: 176, 43
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+yanjingzuo
+  rotate: false
+  xy: 133, 41
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 176, 20
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 232
+  size: 13, 5
+  orig: 13, 5
+  offset: 0, 0
+  index: -1

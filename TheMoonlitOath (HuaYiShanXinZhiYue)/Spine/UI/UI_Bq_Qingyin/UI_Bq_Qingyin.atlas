@@ -1,0 +1,111 @@
+
+UI_Bq_Qingyin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 111, 45
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+brow
+  rotate: false
+  xy: 44, 6
+  size: 84, 10
+  orig: 84, 10
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 93, 202
+  size: 37, 11
+  orig: 37, 11
+  offset: 0, 0
+  index: -1
+char1
+  rotate: true
+  xy: 2, 3
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 200, 23
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 44, 17
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+eyeL_by
+  rotate: false
+  xy: 132, 205
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 122, 133
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+eyeR_by
+  rotate: false
+  xy: 108, 193
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 86
+  size: 119, 127
+  orig: 119, 127
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: true
+  xy: 143, 29
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+hounao
+  rotate: false
+  xy: 2, 44
+  size: 98, 41
+  orig: 98, 41
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: 270
+  xy: 120, 62
+  size: 151, 125
+  orig: 151, 125
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 2, 209
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 115, 188
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+UI_st_mao2.png
+size: 320,336
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao20
+  rotate: false
+  xy: 2, 286
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+mao21
+  rotate: 180
+  xy: 2, 4
+  size: 105, 72
+  orig: 105, 72
+  offset: 0, 0
+  index: -1
+mao22
+  rotate: false
+  xy: 168, 111
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+mao220
+  rotate: true
+  xy: 283, 173
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+mao221
+  rotate: false
+  xy: 197, 317
+  size: 21, 16
+  orig: 23, 20
+  offset: 1, 2
+  index: -1
+mao223
+  rotate: false
+  xy: 2, 127
+  size: 301, 206
+  orig: 301, 206
+  offset: 0, 0
+  index: -1
+mao224
+  rotate: false
+  xy: 278, 63
+  size: 37, 69
+  orig: 37, 69
+  offset: 0, 0
+  index: -1
+mao225
+  rotate: 180
+  xy: 2, 41
+  size: 277, 120
+  orig: 277, 120
+  offset: 0, 0
+  index: -1
+mao23
+  rotate: true
+  xy: 160, 3
+  size: 36, 41
+  orig: 38, 43
+  offset: 1, 1
+  index: -1
+mao24
+  rotate: false
+  xy: 109, 10
+  size: 49, 31
+  orig: 51, 33
+  offset: 1, 1
+  index: -1
+mao25
+  rotate: true
+  xy: 261, 120
+  size: 60, 41
+  orig: 60, 41
+  offset: 0, 0
+  index: -1
+mao26
+  rotate: false
+  xy: 251, 8
+  size: 55, 53
+  orig: 55, 53
+  offset: 0, 0
+  index: -1
+mao27
+  rotate: false
+  xy: 37, 327
+  size: 7, 6
+  orig: 10, 8
+  offset: 2, 1
+  index: -1
+mao28
+  rotate: false
+  xy: 27, 319
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+mao29
+  rotate: true
+  xy: 243, 271
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1

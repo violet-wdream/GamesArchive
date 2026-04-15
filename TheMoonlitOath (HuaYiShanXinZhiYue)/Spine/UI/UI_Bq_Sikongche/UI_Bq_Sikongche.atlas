@@ -1,0 +1,216 @@
+
+UI_Bq_Sikongche.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 26
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 80, 28
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+a3
+  rotate: false
+  xy: 135, 69
+  size: 60, 43
+  orig: 60, 43
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 92, 114
+  size: 90, 35
+  orig: 90, 35
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 199, 161
+  size: 90, 16
+  orig: 90, 16
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 101, 96
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+b2
+  rotate: false
+  xy: 2, 9
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+b3
+  rotate: false
+  xy: 134, 18
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 203, 57
+  size: 60, 23
+  orig: 60, 23
+  offset: 0, 0
+  index: -1
+brow
+  rotate: false
+  xy: 98, 243
+  size: 75, 8
+  orig: 75, 8
+  offset: 0, 0
+  index: -1
+char1
+  rotate: true
+  xy: 41, 11
+  size: 57, 35
+  orig: 57, 35
+  offset: 0, 0
+  index: -1
+char2
+  rotate: true
+  xy: 2, 60
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+erhuanL1
+  rotate: false
+  xy: 2, 139
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+erhuanL2
+  rotate: true
+  xy: 43, 208
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+erhuanL3
+  rotate: true
+  xy: 2, 227
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+erhuanL4
+  rotate: false
+  xy: 184, 119
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+erhuanL5
+  rotate: true
+  xy: 39, 227
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+erhuanR
+  rotate: false
+  xy: 98, 217
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: true
+  xy: 196, 3
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: true
+  xy: 216, 225
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 116, 150
+  size: 81, 90
+  orig: 81, 90
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 78, 12
+  size: 52, 13
+  orig: 52, 13
+  offset: 0, 0
+  index: -1
+houfa2
+  rotate: true
+  xy: 134, 41
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+houfa3
+  rotate: true
+  xy: 49, 69
+  size: 71, 84
+  orig: 71, 84
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 2, 133
+  size: 118, 118
+  orig: 120, 118
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 225, 130
+  size: 12, 44
+  orig: 12, 44
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 216, 176
+  size: 12, 47
+  orig: 12, 47
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 223, 11
+  size: 12, 45
+  orig: 12, 45
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 134
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 102, 211
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

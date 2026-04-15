@@ -1,0 +1,27 @@
+
+Scene_Shuzhong_QJ.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shuzi
+  rotate: true
+  xy: 322, 323
+  size: 700, 299
+  orig: 700, 373
+  offset: 0, 0
+  index: -1
+zhuzi2
+  rotate: true
+  xy: 405, 3
+  size: 450, 419
+  orig: 450, 419
+  offset: 0, 0
+  index: -1
+zhuzi4
+  rotate: false
+  xy: 2, 2
+  size: 444, 1020
+  orig: 444, 1020
+  offset: 0, 0
+  index: -1

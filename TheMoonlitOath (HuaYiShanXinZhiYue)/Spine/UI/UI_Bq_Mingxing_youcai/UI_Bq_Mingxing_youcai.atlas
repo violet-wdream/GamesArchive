@@ -1,0 +1,146 @@
+
+UI_Bq_Mingxing_youcai.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char1
+  rotate: false
+  xy: 2, 12
+  size: 160, 40
+  orig: 160, 40
+  offset: 0, 0
+  index: -1
+l_body
+  rotate: 270
+  xy: 135, 113
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+l_browL
+  rotate: true
+  xy: 2, 151
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+l_browR
+  rotate: true
+  xy: 236, 90
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+l_fatuan
+  rotate: true
+  xy: 131, 53
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+l_lian
+  rotate: false
+  xy: 2, 54
+  size: 132, 127
+  orig: 134, 127
+  offset: 2, 0
+  index: -1
+l_liuhai1
+  rotate: 180
+  xy: 138, 103
+  size: 59, 77
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+l_liuhai3
+  rotate: true
+  xy: 174, 4
+  size: 69, 35
+  orig: 72, 40
+  offset: 0, 5
+  index: -1
+l_pijian_you
+  rotate: false
+  xy: 232, 59
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+l_pijian_zuo
+  rotate: true
+  xy: 211, 3
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+l_touguan
+  rotate: 270
+  xy: 205, 26
+  size: 61, 26
+  orig: 61, 26
+  offset: 0, 0
+  index: -1
+l_xiuzi
+  rotate: false
+  xy: 209, 157
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+l_yanpi
+  rotate: true
+  xy: 191, 62
+  size: 115, 20
+  orig: 115, 20
+  offset: 0, 0
+  index: -1
+l_yanqiu
+  rotate: true
+  xy: 212, 90
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 233, 26
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+xiuzi_L
+  rotate: false
+  xy: 110, 156
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+yanjingyou-by
+  rotate: false
+  xy: 2, 60
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+yanjingzuo-by
+  rotate: true
+  xy: 163, 21
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+youshou_youcai
+  rotate: false
+  xy: 236, 130
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+zui_youcai
+  rotate: false
+  xy: 2, 71
+  size: 12, 5
+  orig: 12, 5
+  offset: 0, 0
+  index: -1

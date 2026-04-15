@@ -1,0 +1,69 @@
+
+UI_Bq_Mao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 127
+  size: 200, 124
+  orig: 200, 124
+  offset: 0, 0
+  index: -1
+brow
+  rotate: true
+  xy: 2, 12
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+char1
+  rotate: true
+  xy: 174, 25
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 2, 132
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: true
+  xy: 203, 127
+  size: 70, 29
+  orig: 82, 34
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 67, 4
+  size: 57, 17
+  orig: 57, 17
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 3
+  size: 172, 130
+  orig: 172, 130
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 203, 199
+  size: 29, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 33, 124
+  size: 24, 21
+  orig: 30, 25
+  offset: 4, 3
+  index: -1

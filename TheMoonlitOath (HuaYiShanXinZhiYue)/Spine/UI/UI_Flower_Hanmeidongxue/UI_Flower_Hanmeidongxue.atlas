@@ -1,0 +1,104 @@
+
+UI_Flower_Hanmeidongxue.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dz
+  rotate: false
+  xy: 2, 206
+  size: 294, 128
+  orig: 294, 128
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 2, 42
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 327, 75
+  size: 70, 61
+  orig: 70, 61
+  offset: 0, 0
+  index: -1
+hb1
+  rotate: false
+  xy: 135, 319
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+hb2
+  rotate: false
+  xy: 39, 5
+  size: 137, 51
+  orig: 137, 51
+  offset: 0, 0
+  index: -1
+lm1
+  rotate: true
+  xy: 2, 4
+  size: 239, 408
+  orig: 239, 408
+  offset: 0, 0
+  index: -1
+lm2
+  rotate: false
+  xy: 166, 116
+  size: 237, 195
+  orig: 237, 195
+  offset: 0, 0
+  index: -1
+sy
+  rotate: false
+  xy: 284, 259
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+sz
+  rotate: false
+  xy: 2, 278
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+y1
+  rotate: false
+  xy: 50, 170
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 13, 236
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+y3
+  rotate: false
+  xy: 160, 174
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+y4
+  rotate: false
+  xy: 95, 317
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+y5
+  rotate: false
+  xy: 2, 256
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1

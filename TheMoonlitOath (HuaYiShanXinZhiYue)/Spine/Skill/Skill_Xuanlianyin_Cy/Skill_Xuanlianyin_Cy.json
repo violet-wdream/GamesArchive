@@ -1,0 +1,44 @@
+{
+    "skeleton": {
+        "x": -891.3716430664062,
+        "y": -131.77069091796875,
+        "width": 1500.775146484375,
+        "height": 852.0250244140625,
+        "hash": "9SQDKsMr0eRIlaIrnYZs2vNoGwQ",
+        "spine": "3.8.79",
+        "images": "./images/",
+        "audio": "/Users/bytedance/Downloads/宣连隐_大招"
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "xlypf",
+            "bone": "root",
+            "attachment": "xlypf"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "xlypf": {
+                    "xlypf": {
+                        "x": -140.9840850830078,
+                        "y": 294.2418212890625,
+                        "scaleX": 0.8650000095367432,
+                        "scaleY": 0.8650000095367432,
+                        "width": 1735.0,
+                        "height": 985.0
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "Skill_Idle": {}
+    }
+}

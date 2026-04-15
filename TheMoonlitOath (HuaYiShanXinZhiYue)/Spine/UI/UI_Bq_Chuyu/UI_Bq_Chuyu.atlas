@@ -1,0 +1,76 @@
+
+UI_Bq_Chuyu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: 180
+  xy: 2, 4
+  size: 109, 64
+  orig: 109, 64
+  offset: 0, 0
+  index: -1
+brow
+  rotate: false
+  xy: 147, 237
+  size: 89, 13
+  orig: 89, 13
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 56, 204
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+char1
+  rotate: false
+  xy: 108, 33
+  size: 145, 44
+  orig: 145, 44
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 2, 91
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 17, 62
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 123, 95
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+face
+  rotate: 270
+  xy: 154, 81
+  size: 133, 99
+  orig: 153, 99
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 2, 77
+  size: 160, 173
+  orig: 160, 173
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 246
+  size: 11, 3
+  orig: 11, 3
+  offset: 0, 0
+  index: -1

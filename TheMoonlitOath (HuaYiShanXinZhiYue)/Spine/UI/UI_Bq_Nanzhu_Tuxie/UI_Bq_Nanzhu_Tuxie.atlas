@@ -1,0 +1,146 @@
+
+UI_Bq_Nanzhu_Tuxie.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: 180
+  xy: 165, 4
+  size: 68, 69
+  orig: 108, 184
+  offset: 19, 115
+  index: -1
+browL
+  rotate: false
+  xy: 275, 461
+  size: 47, 16
+  orig: 47, 16
+  offset: 0, 0
+  index: -1
+browR
+  rotate: false
+  xy: 215, 458
+  size: 58, 20
+  orig: 58, 20
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 229, 10
+  size: 150, 47
+  orig: 150, 47
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: false
+  xy: 409, 30
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+f zui qi1
+  rotate: false
+  xy: 275, 434
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+f zui qi2
+  rotate: false
+  xy: 56, 460
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+f zui qi3
+  rotate: 180
+  xy: 104, 61
+  size: 120, 103
+  orig: 120, 103
+  offset: 0, 0
+  index: -1
+hounao
+  rotate: false
+  xy: 2, 208
+  size: 295, 270
+  orig: 295, 270
+  offset: 0, 0
+  index: -1
+lian
+  rotate: 270
+  xy: 265, 220
+  size: 258, 242
+  orig: 258, 242
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 219, 121
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: true
+  xy: 2, 117
+  size: 89, 134
+  orig: 89, 134
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: 180
+  xy: 334, 96
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+shoubiR
+  rotate: false
+  xy: 2, 346
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 24
+  size: 34, 159
+  orig: 34, 159
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 227, 59
+  size: 35, 169
+  orig: 35, 169
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 454, 35
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+xiuziL2
+  rotate: false
+  xy: 7, 424
+  size: 49, 53
+  orig: 53, 79
+  offset: 4, 26
+  index: -1
+xiuziR2
+  rotate: true
+  xy: 129, 147
+  size: 60, 69
+  orig: 62, 90
+  offset: 0, 21
+  index: -1
+yanjing
+  rotate: false
+  xy: 470, 450
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

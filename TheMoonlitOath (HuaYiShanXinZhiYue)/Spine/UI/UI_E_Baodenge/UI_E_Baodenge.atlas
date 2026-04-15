@@ -1,0 +1,48 @@
+
+UI_E_Baodenge.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: 270
+  xy: 17, 3
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 136
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+e3
+  rotate: true
+  xy: 9, 95
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 2, 184
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+e5
+  rotate: 180
+  xy: 2, 66
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+e6
+  rotate: 270
+  xy: 2, 38
+  size: 29, 64
+  orig: 29, 64
+  offset: 0, 0
+  index: -1

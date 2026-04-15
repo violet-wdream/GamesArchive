@@ -1,0 +1,244 @@
+
+UI_Lanbing.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan_you
+  rotate: false
+  xy: 171, 104
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+biyan_zuo
+  rotate: false
+  xy: 2, 83
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+bq_hongyun
+  rotate: false
+  xy: 83, 213
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bq_meimaoyou-zc
+  rotate: true
+  xy: 153, 3
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+bq_meimaozuo-zc
+  rotate: false
+  xy: 165, 28
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+bq_yanjingyou-zc
+  rotate: false
+  xy: 47, 4
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+bq_yanjingzuo-zc
+  rotate: false
+  xy: 47, 21
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+bq_zui
+  rotate: false
+  xy: 167, 99
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+hongbing_erduo
+  rotate: false
+  xy: 2, 11
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+hongbing_lian
+  rotate: false
+  xy: 2, 125
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+lanbing_dun
+  rotate: 180
+  xy: 64, 72
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+lanbing_gebo_z2
+  rotate: false
+  xy: 180, 48
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+lanbing_hongsheng
+  rotate: 270
+  xy: 130, 9
+  size: 90, 123
+  orig: 90, 123
+  offset: 0, 0
+  index: -1
+lanbing_jian
+  rotate: false
+  xy: 202, 42
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+lanbing_jianjia_y
+  rotate: false
+  xy: 104, 18
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+lanbing_jianjia_z
+  rotate: false
+  xy: 130, 56
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+lanbing_maozi1
+  rotate: true
+  xy: 101, 128
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+lanbing_maozi2
+  rotate: true
+  xy: 171, 147
+  size: 77, 51
+  orig: 77, 51
+  offset: 0, 0
+  index: -1
+lanbing_shenti
+  rotate: false
+  xy: 121, 81
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+lanbing_shoubi_y1
+  rotate: false
+  xy: 22, 16
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+lanbing_shoubi_y2
+  rotate: false
+  xy: 224, 151
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+lanbing_shoubi_z1
+  rotate: false
+  xy: 130, 16
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+lanbing_xiabai_lan
+  rotate: false
+  xy: 224, 186
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+lanbing_xiabai_lan2
+  rotate: false
+  xy: 107, 39
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+lanbing_xiabail_lan
+  rotate: false
+  xy: 62, 37
+  size: 21, 35
+  orig: 21, 35
+  offset: 0, 0
+  index: -1
+lanbing_yaodai1
+  rotate: false
+  xy: 2, 42
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+lanbing_yaodai2
+  rotate: false
+  xy: 241, 118
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+lanbing_youjiao
+  rotate: true
+  xy: 203, 27
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+lanbing_youshou
+  rotate: false
+  xy: 90, 131
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+lanbing_youshou2
+  rotate: false
+  xy: 241, 104
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+lanbing_zuojiao
+  rotate: false
+  xy: 75, 11
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+lanbing_zuoshou
+  rotate: false
+  xy: 2, 126
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+lanbing_zuoxiabi
+  rotate: false
+  xy: 85, 50
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 58
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1

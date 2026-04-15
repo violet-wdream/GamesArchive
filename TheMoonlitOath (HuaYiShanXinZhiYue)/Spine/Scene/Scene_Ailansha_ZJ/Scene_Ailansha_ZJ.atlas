@@ -1,0 +1,62 @@
+
+Scene_Ailansha_ZJ.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu1
+  rotate: false
+  xy: 2, 3
+  size: 124, 273
+  orig: 124, 273
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: true
+  xy: 128, 3
+  size: 225, 200
+  orig: 225, 200
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: true
+  xy: 226, 247
+  size: 29, 73
+  orig: 29, 73
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: false
+  xy: 330, 40
+  size: 46, 122
+  orig: 46, 122
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: false
+  xy: 330, 164
+  size: 86, 112
+  orig: 86, 112
+  offset: 0, 0
+  index: -1
+shu6
+  rotate: false
+  xy: 378, 66
+  size: 37, 96
+  orig: 37, 96
+  offset: 0, 0
+  index: -1
+shu7
+  rotate: true
+  xy: 128, 240
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+shu8
+  rotate: true
+  xy: 138, 80
+  size: 47, 115
+  orig: 47, 115
+  offset: 0, 0
+  index: -1

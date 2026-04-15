@@ -1,0 +1,90 @@
+
+UI_Mingpian_Lu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+erduo
+  rotate: false
+  xy: 471, 625
+  size: 34, 93
+  orig: 36, 95
+  offset: 1, 1
+  index: -1
+jiao1
+  rotate: false
+  xy: 2, 172
+  size: 427, 401
+  orig: 428, 407
+  offset: 1, 5
+  index: -1
+jiao2
+  rotate: true
+  xy: 570, 390
+  size: 518, 247
+  orig: 526, 247
+  offset: 1, 0
+  index: -1
+jiao3
+  rotate: 270
+  xy: 569, 4
+  size: 239, 216
+  orig: 239, 219
+  offset: 0, 1
+  index: -1
+jiao4
+  rotate: true
+  xy: 406, 105
+  size: 526, 213
+  orig: 537, 213
+  offset: 0, 0
+  index: -1
+jiao5
+  rotate: false
+  xy: 581, 221
+  size: 186, 345
+  orig: 189, 345
+  offset: 3, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 405
+  size: 379, 502
+  orig: 460, 748
+  offset: 47, 175
+  index: -1
+tui1
+  rotate: 270
+  xy: 214, 4
+  size: 148, 323
+  orig: 150, 323
+  offset: 2, 0
+  index: -1
+tui2
+  rotate: 180
+  xy: 338, 571
+  size: 137, 336
+  orig: 138, 336
+  offset: 1, 0
+  index: -1
+tui3
+  rotate: 270
+  xy: 2, 82
+  size: 136, 408
+  orig: 136, 408
+  offset: 0, 0
+  index: -1
+tui4
+  rotate: false
+  xy: 2, 314
+  size: 117, 334
+  orig: 117, 334
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: false
+  xy: 472, 721
+  size: 192, 152
+  orig: 192, 152
+  offset: 0, 0
+  index: -1

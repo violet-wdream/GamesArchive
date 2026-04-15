@@ -1,0 +1,69 @@
+
+Eternalheart_Huo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huo1/xiaohuo10001
+  rotate: false
+  xy: 56, 4
+  size: 50, 69
+  orig: 60, 80
+  offset: 5, 4
+  index: -1
+huo1/xiaohuo10002
+  rotate: false
+  xy: 108, 3
+  size: 48, 70
+  orig: 60, 80
+  offset: 6, 5
+  index: -1
+huo1/xiaohuo10003
+  rotate: false
+  xy: 158, 2
+  size: 45, 71
+  orig: 60, 80
+  offset: 9, 4
+  index: -1
+huo1/xiaohuo10004
+  rotate: false
+  xy: 205, 10
+  size: 49, 63
+  orig: 60, 80
+  offset: 6, 4
+  index: -1
+huo1/xiaohuo10005
+  rotate: false
+  xy: 2, 6
+  size: 52, 67
+  orig: 60, 80
+  offset: 4, 4
+  index: -1
+huo2/xiaohuo20001
+  rotate: false
+  xy: 256, 26
+  size: 37, 47
+  orig: 60, 80
+  offset: 12, 12
+  index: -1
+huo2/xiaohuo20002
+  rotate: false
+  xy: 332, 25
+  size: 35, 48
+  orig: 60, 80
+  offset: 14, 12
+  index: -1
+huo2/xiaohuo20003
+  rotate: false
+  xy: 369, 24
+  size: 31, 49
+  orig: 60, 80
+  offset: 15, 12
+  index: -1
+huo2/xiaohuo20004
+  rotate: false
+  xy: 295, 24
+  size: 35, 49
+  orig: 60, 80
+  offset: 13, 12
+  index: -1

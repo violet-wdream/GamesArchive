@@ -1,0 +1,125 @@
+
+UI_Bq_Chengxiaoshi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianzi
+  rotate: false
+  xy: 226, 4
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+gang
+  rotate: false
+  xy: 64, 177
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+lian
+  rotate: 270
+  xy: 134, 79
+  size: 107, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 73, 147
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: 270
+  xy: 126, 56
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+meimaoyou
+  rotate: true
+  xy: 239, 59
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+meimaozuo
+  rotate: false
+  xy: 216, 118
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 217, 126
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 194, 35
+  size: 76, 59
+  orig: 90, 65
+  offset: 14, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 54
+  size: 135, 131
+  orig: 135, 131
+  offset: 0, 0
+  index: -1
+wzz
+  rotate: false
+  xy: 2, 9
+  size: 177, 43
+  orig: 177, 43
+  offset: 0, 0
+  index: -1
+xing
+  rotate: false
+  xy: 2, 58
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+yanjingtou
+  rotate: false
+  xy: 2, 170
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+yanjingzou
+  rotate: false
+  xy: 192, 15
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+yuoshou
+  rotate: false
+  xy: 2, 148
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 176, 55
+  size: 20, 8
+  orig: 20, 8
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 98, 129
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+UI_Flower_Huamanmiyu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c1
+  rotate: true
+  xy: 216, 218
+  size: 137, 246
+  orig: 137, 246
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 33
+  size: 111, 72
+  orig: 111, 72
+  offset: 0, 0
+  index: -1
+c3
+  rotate: 180
+  xy: 323, 32
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+c4
+  rotate: 180
+  xy: 2, 103
+  size: 146, 110
+  orig: 146, 110
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 323, 20
+  size: 162, 98
+  orig: 162, 99
+  offset: 0, 0
+  index: -1
+dizuo
+  rotate: false
+  xy: 2, 214
+  size: 216, 143
+  orig: 216, 143
+  offset: 0, 0
+  index: -1
+hua
+  rotate: 180
+  xy: 214, 30
+  size: 108, 63
+  orig: 109, 67
+  offset: 0, 4
+  index: -1
+qiu1
+  rotate: false
+  xy: 355, 111
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+qiu2
+  rotate: 180
+  xy: 199, 128
+  size: 159, 135
+  orig: 161, 135
+  offset: 2, 0
+  index: -1
+z1
+  rotate: true
+  xy: 100, 74
+  size: 70, 253
+  orig: 110, 253
+  offset: 0, 0
+  index: -1
+z2
+  rotate: true
+  xy: 64, 3
+  size: 83, 110
+  orig: 83, 110
+  offset: 0, 0
+  index: -1

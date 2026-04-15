@@ -1,0 +1,13 @@
+
+NPC_Heiyiren.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+heiyiren
+  rotate: false
+  xy: 2, 2
+  size: 398, 655
+  orig: 400, 657
+  offset: 1, 1
+  index: -1

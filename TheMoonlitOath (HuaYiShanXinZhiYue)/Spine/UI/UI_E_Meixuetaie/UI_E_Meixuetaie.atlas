@@ -1,0 +1,41 @@
+
+UI_E_Meixuetaie.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e
+  rotate: true
+  xy: 48, 33
+  size: 76, 50
+  orig: 157, 118
+  offset: 81, 68
+  index: -1
+e1
+  rotate: true
+  xy: 87, 4
+  size: 42, 93
+  orig: 42, 98
+  offset: 0, 5
+  index: -1
+e2
+  rotate: false
+  xy: 2, 60
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+e3
+  rotate: 270
+  xy: 135, 43
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1
+e5
+  rotate: 270
+  xy: 91, 37
+  size: 65, 44
+  orig: 65, 44
+  offset: 0, 0
+  index: -1

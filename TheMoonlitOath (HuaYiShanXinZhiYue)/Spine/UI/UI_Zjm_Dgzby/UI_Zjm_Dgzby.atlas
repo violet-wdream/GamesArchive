@@ -1,0 +1,97 @@
+
+UI_Zjm_Dgzby.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bu1
+  rotate: true
+  xy: 730, 3
+  size: 369, 435
+  orig: 369, 436
+  offset: 0, 0
+  index: -1
+bu2
+  rotate: 180
+  xy: 915, 4
+  size: 372, 411
+  orig: 372, 411
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 56, 20
+  size: 544, 60
+  orig: 544, 60
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 2, 869
+  size: 407, 127
+  orig: 407, 127
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 1015, 204
+  size: 408, 127
+  orig: 408, 127
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 2, 38
+  size: 1000, 958
+  orig: 1000, 958
+  offset: 0, 0
+  index: -1
+st4
+  rotate: 270
+  xy: 2, 92
+  size: 297, 127
+  orig: 297, 127
+  offset: 0, 0
+  index: -1
+st5
+  rotate: true
+  xy: 1119, 610
+  size: 301, 123
+  orig: 301, 123
+  offset: 0, 0
+  index: -1
+tf
+  rotate: 180
+  xy: 621, 57
+  size: 337, 460
+  orig: 337, 460
+  offset: 0, 0
+  index: -1
+ty
+  rotate: false
+  xy: 674, 861
+  size: 400, 136
+  orig: 400, 140
+  offset: 0, 4
+  index: -1
+youshou
+  rotate: 180
+  xy: 855, 252
+  size: 288, 580
+  orig: 288, 580
+  offset: 0, 0
+  index: -1
+zhulian
+  rotate: false
+  xy: 2, 775
+  size: 139, 94
+  orig: 139, 94
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 2, 102
+  size: 284, 575
+  orig: 284, 575
+  offset: 0, 0
+  index: -1

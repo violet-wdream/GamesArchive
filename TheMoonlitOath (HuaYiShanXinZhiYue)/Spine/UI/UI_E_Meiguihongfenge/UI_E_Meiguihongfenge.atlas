@@ -1,0 +1,55 @@
+
+UI_E_Meiguihongfenge.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e
+  rotate: false
+  xy: 52, 142
+  size: 42, 89
+  orig: 42, 89
+  offset: 0, 0
+  index: -1
+e1
+  rotate: 270
+  xy: 78, 100
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 11
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+e3
+  rotate: 180
+  xy: 46, 3
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+e4
+  rotate: 180
+  xy: 2, 105
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+e5
+  rotate: false
+  xy: 2, 164
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+e6
+  rotate: false
+  xy: 51, 239
+  size: 41, 16
+  orig: 41, 16
+  offset: 0, 0
+  index: -1

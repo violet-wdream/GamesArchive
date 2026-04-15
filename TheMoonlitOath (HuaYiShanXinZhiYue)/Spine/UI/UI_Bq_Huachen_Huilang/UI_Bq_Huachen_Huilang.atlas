@@ -1,0 +1,55 @@
+
+UI_Bq_Huachen_Huilang.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 182, 179
+  size: 75, 34
+  orig: 75, 34
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 93
+  size: 130, 162
+  orig: 162, 162
+  offset: 32, 0
+  index: -1
+char
+  rotate: true
+  xy: 2, 4
+  size: 30, 128
+  orig: 30, 128
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: true
+  xy: 166, 8
+  size: 79, 35
+  orig: 79, 35
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 83, 43
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 2, 36
+  size: 79, 58
+  orig: 79, 58
+  offset: 0, 0
+  index: -1
+wall
+  rotate: false
+  xy: 133, 89
+  size: 47, 166
+  orig: 47, 166
+  offset: 0, 0
+  index: -1

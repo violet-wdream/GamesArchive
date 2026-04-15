@@ -1,0 +1,34 @@
+
+Scene_Qianfu_ZJ.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pd
+  rotate: false
+  xy: 371, 3
+  size: 252, 107
+  orig: 324, 107
+  offset: 72, 0
+  index: -1
+zjdl1
+  rotate: false
+  xy: 419, 74
+  size: 216, 110
+  orig: 220, 110
+  offset: 0, 0
+  index: -1
+zjdl2
+  rotate: false
+  xy: 2, 200
+  size: 84, 21
+  orig: 109, 25
+  offset: 25, 0
+  index: -1
+zl
+  rotate: false
+  xy: 2, 3
+  size: 482, 218
+  orig: 494, 218
+  offset: 0, 0
+  index: -1

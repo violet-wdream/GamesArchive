@@ -1,0 +1,132 @@
+{
+  "Version": 3,
+  "Name": "CG_Lingyanru_Opera",
+  "FileReferences": {
+    "Moc": "CG_Lingyanru_Opera.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png",
+      "textures/texture_03.png",
+      "textures/texture_04.png"
+    ],
+    "Physics": "CG_Lingyanru_Opera.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "CG_Lingyanru_Opera.cdi3.json",
+    "Motions": {
+      "dongzuo1": [
+        {
+          "File": "motions/dongzuo1.motion3.json"
+        }
+      ],
+      "dongzuo2": [
+        {
+          "File": "motions/dongzuo2.motion3.json"
+        }
+      ],
+      "dongzuo3": [
+        {
+          "File": "motions/dongzuo3.motion3.json"
+        }
+      ],
+      "dongzuo5": [
+        {
+          "File": "motions/dongzuo5.motion3.json"
+        }
+      ],
+      "jiaohudongzuo3": [
+        {
+          "File": "motions/jiaohudongzuo3.motion3.json"
+        }
+      ],
+      "STPM35005008": [
+        {
+          "File": "motions/STPM35005008.motion3.json"
+        }
+      ],
+      "STPM35005008_Mouth": [
+        {
+          "File": "motions/STPM35005008_Mouth.motion3.json"
+        }
+      ],
+      "STPM35005011": [
+        {
+          "File": "motions/STPM35005011.motion3.json"
+        }
+      ],
+      "STPM35005011_Mouth": [
+        {
+          "File": "motions/STPM35005011_Mouth.motion3.json"
+        }
+      ],
+      "STPM35005016": [
+        {
+          "File": "motions/STPM35005016.motion3.json"
+        }
+      ],
+      "STPM35005016_Mouth": [
+        {
+          "File": "motions/STPM35005016_Mouth.motion3.json"
+        }
+      ],
+      "STPM35005020": [
+        {
+          "File": "motions/STPM35005020.motion3.json"
+        }
+      ],
+      "STPM35005020_Mouth": [
+        {
+          "File": "motions/STPM35005020_Mouth.motion3.json"
+        }
+      ],
+      "STPM35005025": [
+        {
+          "File": "motions/STPM35005025.motion3.json"
+        }
+      ],
+      "STPM35005025_Mouth": [
+        {
+          "File": "motions/STPM35005025_Mouth.motion3.json"
+        }
+      ],
+      "STPM35005027": [
+        {
+          "File": "motions/STPM35005027.motion3.json"
+        }
+      ],
+      "STPM35005027_Mouth": [
+        {
+          "File": "motions/STPM35005027_Mouth.motion3.json"
+        }
+      ],
+      "STPM35005031": [
+        {
+          "File": "motions/STPM35005031.motion3.json"
+        }
+      ],
+      "STPM35005031_Mouth": [
+        {
+          "File": "motions/STPM35005031_Mouth.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

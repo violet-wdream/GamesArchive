@@ -1,0 +1,55 @@
+
+UI_Lang_Hui.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hui
+  rotate: false
+  xy: 2, 141
+  size: 156, 172
+  orig: 156, 172
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 2, 3
+  size: 72, 144
+  orig: 72, 144
+  offset: 0, 0
+  index: -1
+wb
+  rotate: 270
+  xy: 131, 55
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+yhts
+  rotate: true
+  xy: 133, 120
+  size: 16, 41
+  orig: 16, 50
+  offset: 0, 9
+  index: -1
+yhtx
+  rotate: false
+  xy: 160, 138
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+yj
+  rotate: false
+  xy: 147, 5
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+yy
+  rotate: true
+  xy: 2, 76
+  size: 63, 129
+  orig: 63, 129
+  offset: 0, 0
+  index: -1

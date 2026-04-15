@@ -1,0 +1,139 @@
+
+UI_Quming.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cebian1
+  rotate: false
+  xy: 2, 637
+  size: 64, 168
+  orig: 64, 168
+  offset: 0, 0
+  index: -1
+cebian2
+  rotate: false
+  xy: 494, 839
+  size: 44, 103
+  orig: 44, 103
+  offset: 0, 0
+  index: -1
+cebian3
+  rotate: false
+  xy: 2, 441
+  size: 145, 171
+  orig: 145, 171
+  offset: 0, 0
+  index: -1
+cebian4
+  rotate: true
+  xy: 113, 41
+  size: 139, 175
+  orig: 144, 175
+  offset: 0, 0
+  index: -1
+gaizi1
+  rotate: 180
+  xy: 1728, 155
+  size: 318, 422
+  orig: 318, 422
+  offset: 0, 0
+  index: -1
+gaizi11
+  rotate: true
+  xy: 2, 169
+  size: 237, 454
+  orig: 237, 454
+  offset: 0, 0
+  index: -1
+gaizi2
+  rotate: true
+  xy: 1326, 15
+  size: 336, 447
+  orig: 336, 447
+  offset: 0, 0
+  index: -1
+gaizi21
+  rotate: 270
+  xy: 447, 115
+  size: 234, 452
+  orig: 234, 452
+  offset: 0, 0
+  index: -1
+hezi
+  rotate: false
+  xy: 2, 405
+  size: 580, 538
+  orig: 580, 538
+  offset: 0, 0
+  index: -1
+hezi1
+  rotate: false
+  xy: 1651, 578
+  size: 342, 365
+  orig: 342, 365
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: false
+  xy: 1182, 15
+  size: 123, 291
+  orig: 123, 291
+  offset: 0, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 584, 307
+  size: 275, 636
+  orig: 275, 636
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: false
+  xy: 1136, 308
+  size: 258, 635
+  orig: 258, 635
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: 180
+  xy: 860, 338
+  size: 274, 605
+  orig: 274, 605
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: false
+  xy: 1396, 308
+  size: 254, 635
+  orig: 254, 635
+  offset: 0, 0
+  index: -1
+suizi
+  rotate: true
+  xy: 795, 3
+  size: 306, 385
+  orig: 709, 477
+  offset: 0, 92
+  index: -1
+suizi1
+  rotate: false
+  xy: 289, 24
+  size: 181, 159
+  orig: 709, 477
+  offset: 528, 0
+  index: -1
+yy1
+  rotate: false
+  xy: 1995, 695
+  size: 18, 248
+  orig: 20, 251
+  offset: 1, 1
+  index: -1
+yy2
+  rotate: false
+  xy: 544, 704
+  size: 26, 239
+  orig: 28, 241
+  offset: 1, 1
+  index: -1

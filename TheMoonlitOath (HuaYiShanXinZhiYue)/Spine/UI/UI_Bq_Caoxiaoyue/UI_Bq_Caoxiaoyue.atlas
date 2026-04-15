@@ -1,0 +1,104 @@
+
+UI_Bq_Caoxiaoyue.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 139, 192
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1
+char1
+  rotate: false
+  xy: 139, 156
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 179, 159
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+char3
+  rotate: false
+  xy: 190, 119
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 139, 129
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+eyeL_by
+  rotate: false
+  xy: 196, 212
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 173, 129
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+eyeR_by
+  rotate: false
+  xy: 196, 203
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 2, 20
+  size: 101, 80
+  orig: 101, 80
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 139, 220
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+hounao
+  rotate: false
+  xy: 2, 123
+  size: 135, 132
+  orig: 135, 132
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: 180
+  xy: 84, 3
+  size: 144, 120
+  orig: 144, 120
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: false
+  xy: 84, 104
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: false
+  xy: 84, 110
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1

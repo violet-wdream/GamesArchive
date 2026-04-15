@@ -1,0 +1,62 @@
+
+Scene_Jingshi.png
+size: 960,1088
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cao1
+  rotate: false
+  xy: 8, 3
+  size: 839, 237
+  orig: 839, 237
+  offset: 0, 0
+  index: -1
+cao2
+  rotate: 180
+  xy: 369, 445
+  size: 585, 457
+  orig: 744, 676
+  offset: 0, 219
+  index: -1
+cao3
+  rotate: 180
+  xy: 2, 241
+  size: 846, 216
+  orig: 846, 216
+  offset: 0, 0
+  index: -1
+cao4
+  rotate: false
+  xy: 2, 478
+  size: 249, 113
+  orig: 249, 113
+  offset: 0, 0
+  index: -1
+cao5
+  rotate: false
+  xy: 2, 592
+  size: 808, 493
+  orig: 808, 493
+  offset: 0, 0
+  index: -1
+niao1
+  rotate: false
+  xy: 2, 429
+  size: 85, 63
+  orig: 85, 70
+  offset: 0, 7
+  index: -1
+niao2
+  rotate: false
+  xy: 2, 483
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: false
+  xy: 2, 347
+  size: 63, 94
+  orig: 67, 94
+  offset: 0, 0
+  index: -1

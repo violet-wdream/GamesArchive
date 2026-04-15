@@ -1,0 +1,90 @@
+
+UI_Niao_Danque.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: false
+  xy: 86, 29
+  size: 82, 64
+  orig: 82, 64
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2, 180
+  size: 276, 330
+  orig: 276, 330
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: 180
+  xy: 96, 354
+  size: 328, 155
+  orig: 328, 155
+  offset: 0, 0
+  index: -1
+duzi
+  rotate: false
+  xy: 2, 204
+  size: 135, 83
+  orig: 135, 91
+  offset: 0, 8
+  index: -1
+jinshu
+  rotate: true
+  xy: 33, 3
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 58
+  size: 101, 149
+  orig: 101, 149
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 184, 14
+  size: 286, 235
+  orig: 286, 235
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: true
+  xy: 311, 235
+  size: 118, 109
+  orig: 118, 109
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 292
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: false
+  xy: 234, 306
+  size: 65, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 95, 88
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 158, 404
+  size: 33, 29
+  orig: 33, 29
+  offset: 0, 0
+  index: -1

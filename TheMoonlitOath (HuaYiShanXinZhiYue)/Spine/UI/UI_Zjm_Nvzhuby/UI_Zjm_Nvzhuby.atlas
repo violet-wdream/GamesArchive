@@ -1,0 +1,48 @@
+
+UI_Zjm_Nvzhuby.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pifeng
+  rotate: false
+  xy: 2, 32
+  size: 999, 928
+  orig: 1000, 928
+  offset: 1, 0
+  index: -1
+st
+  rotate: 180
+  xy: 394, 4
+  size: 600, 642
+  orig: 600, 642
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1216, 101
+  size: 326, 252
+  orig: 327, 252
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 874, 75
+  size: 680, 885
+  orig: 715, 887
+  offset: 2, 0
+  index: -1
+toufa2
+  rotate: false
+  xy: 2, 714
+  size: 272, 245
+  orig: 272, 245
+  offset: 0, 0
+  index: -1
+zhuzi
+  rotate: true
+  xy: 1453, 305
+  size: 369, 248
+  orig: 373, 249
+  offset: 2, 1
+  index: -1

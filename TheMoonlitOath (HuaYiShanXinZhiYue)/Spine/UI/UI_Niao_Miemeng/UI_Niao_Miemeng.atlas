@@ -1,0 +1,97 @@
+
+UI_Niao_Miemeng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: false
+  xy: 2, 21
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+chibang1
+  rotate: false
+  xy: 2, 172
+  size: 277, 330
+  orig: 277, 330
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: 180
+  xy: 96, 346
+  size: 328, 155
+  orig: 328, 155
+  offset: 0, 0
+  index: -1
+duzi
+  rotate: false
+  xy: 2, 194
+  size: 137, 83
+  orig: 137, 91
+  offset: 0, 8
+  index: -1
+hua
+  rotate: false
+  xy: 120, 97
+  size: 36, 46
+  orig: 36, 46
+  offset: 0, 0
+  index: -1
+jinshu
+  rotate: false
+  xy: 119, 145
+  size: 86, 25
+  orig: 86, 25
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 314, 203
+  size: 92, 142
+  orig: 94, 142
+  offset: 1, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 184, 4
+  size: 290, 234
+  orig: 290, 234
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: false
+  xy: 2, 86
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 2, 285
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+yumao1
+  rotate: false
+  xy: 235, 297
+  size: 67, 65
+  orig: 68, 65
+  offset: 0, 0
+  index: -1
+yumao2
+  rotate: false
+  xy: 83, 25
+  size: 69, 76
+  orig: 69, 76
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 159, 396
+  size: 33, 28
+  orig: 33, 29
+  offset: 0, 0
+  index: -1

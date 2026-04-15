@@ -1,0 +1,48 @@
+
+UI_E_Shuiqinge.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 75, 8
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+d2
+  rotate: 180
+  xy: 81, 23
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+d3
+  rotate: 270
+  xy: 111, 3
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 2, 23
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1
+d5
+  rotate: 270
+  xy: 147, 27
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+d6
+  rotate: true
+  xy: 2, 5
+  size: 17, 44
+  orig: 17, 44
+  offset: 0, 0
+  index: -1

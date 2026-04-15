@@ -1,0 +1,108 @@
+{
+  "Version": 3,
+  "Parameters": [
+    {
+      "Id": "ParamBodyAngleX",
+      "GroupId": "",
+      "Name": "身体旋转　X"
+    },
+    {
+      "Id": "ParamBodyAngleY",
+      "GroupId": "",
+      "Name": "躯干缩放"
+    },
+    {
+      "Id": "ParamBodyAngleZ",
+      "GroupId": "",
+      "Name": "身体缩放"
+    },
+    {
+      "Id": "ParamBreath",
+      "GroupId": "",
+      "Name": "呼吸"
+    },
+    {
+      "Id": "yc1",
+      "GroupId": "",
+      "Name": "右翅膀1"
+    },
+    {
+      "Id": "yc2",
+      "GroupId": "",
+      "Name": "右翅膀2"
+    },
+    {
+      "Id": "youxu",
+      "GroupId": "",
+      "Name": "右须1"
+    },
+    {
+      "Id": "youxu2",
+      "GroupId": "",
+      "Name": "右须2"
+    },
+    {
+      "Id": "youxu3",
+      "GroupId": "",
+      "Name": "右须3"
+    },
+    {
+      "Id": "youxu4",
+      "GroupId": "",
+      "Name": "右须4"
+    },
+    {
+      "Id": "zcb1",
+      "GroupId": "",
+      "Name": "左翅膀1"
+    },
+    {
+      "Id": "zcb2",
+      "GroupId": "",
+      "Name": "左翅膀2"
+    },
+    {
+      "Id": "zuoxu",
+      "GroupId": "",
+      "Name": "左须1"
+    },
+    {
+      "Id": "zuoxu2",
+      "GroupId": "",
+      "Name": "左须2"
+    },
+    {
+      "Id": "zuoxu3",
+      "GroupId": "",
+      "Name": "左须3"
+    },
+    {
+      "Id": "zuoxu4",
+      "GroupId": "",
+      "Name": "左须4"
+    }
+  ],
+  "ParameterGroups": [],
+  "Parts": [
+    {
+      "Id": "Part",
+      "Name": "蝴蝶拆分"
+    },
+    {
+      "Id": "youchuxu_Skinning",
+      "Name": "youchuxu(蒙皮)"
+    },
+    {
+      "Id": "youchuxu_Skinning2",
+      "Name": "youchuxu(蒙皮)"
+    },
+    {
+      "Id": "zuochuxu_Skinning",
+      "Name": "zuochuxu(蒙皮)"
+    },
+    {
+      "Id": "zuochuxu_Skinning2",
+      "Name": "zuochuxu(蒙皮)"
+    }
+  ]
+}

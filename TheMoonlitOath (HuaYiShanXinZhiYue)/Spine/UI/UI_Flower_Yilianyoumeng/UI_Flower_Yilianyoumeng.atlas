@@ -1,0 +1,62 @@
+
+UI_Flower_Yilianyoumeng.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a
+  rotate: true
+  xy: 2, 3
+  size: 120, 248
+  orig: 120, 248
+  offset: 0, 0
+  index: -1
+c
+  rotate: 180
+  xy: 123, 83
+  size: 221, 318
+  orig: 221, 318
+  offset: 0, 0
+  index: -1
+hua
+  rotate: false
+  xy: 138, 276
+  size: 95, 126
+  orig: 95, 126
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 2, 93
+  size: 134, 132
+  orig: 134, 132
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: true
+  xy: 275, 144
+  size: 134, 95
+  orig: 136, 96
+  offset: 0, 1
+  index: -1
+pingzi
+  rotate: false
+  xy: 2, 226
+  size: 134, 175
+  orig: 134, 175
+  offset: 0, 0
+  index: -1
+sha
+  rotate: 270
+  xy: 135, 30
+  size: 145, 175
+  orig: 145, 175
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 300, 11
+  size: 118, 153
+  orig: 120, 153
+  offset: 0, 0
+  index: -1

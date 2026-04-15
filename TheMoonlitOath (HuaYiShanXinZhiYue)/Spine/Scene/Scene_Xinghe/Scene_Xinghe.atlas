@@ -1,0 +1,62 @@
+
+Scene_Xinghe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 500, 3
+  size: 325, 521
+  orig: 325, 521
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 697, 183
+  size: 325, 434
+  orig: 325, 434
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 502, 302
+  size: 440, 520
+  orig: 440, 520
+  offset: 0, 0
+  index: -1
+5
+  rotate: 270
+  xy: 2, 34
+  size: 479, 520
+  orig: 479, 520
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 360
+  size: 377, 566
+  orig: 378, 566
+  offset: 0, 0
+  index: -1
+7
+  rotate: 180
+  xy: 376, 363
+  size: 373, 563
+  orig: 520, 564
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 178, 814
+  size: 34, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 237, 814
+  size: 38, 112
+  orig: 38, 112
+  offset: 0, 0
+  index: -1

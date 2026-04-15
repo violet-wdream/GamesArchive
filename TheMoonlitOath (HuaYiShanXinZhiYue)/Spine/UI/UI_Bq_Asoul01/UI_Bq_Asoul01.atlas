@@ -1,0 +1,111 @@
+
+UI_Bq_Asoul01.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianziyou
+  rotate: true
+  xy: 2, 14
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+bianzizuo
+  rotate: false
+  xy: 108, 31
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: true
+  xy: 103, 5
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 2, 52
+  size: 143, 139
+  orig: 143, 139
+  offset: 0, 0
+  index: -1
+lian
+  rotate: 180
+  xy: 171, 23
+  size: 82, 78
+  orig: 82, 78
+  offset: 0, 0
+  index: -1
+meimao_y
+  rotate: false
+  xy: 226, 148
+  size: 21, 3
+  orig: 21, 3
+  offset: 0, 0
+  index: -1
+meimao_z
+  rotate: false
+  xy: 2, 168
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: 180
+  xy: 2, 3
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: false
+  xy: 137, 18
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: 270
+  xy: 131, 81
+  size: 110, 93
+  orig: 110, 93
+  offset: 0, 0
+  index: -1
+yanjing_you
+  rotate: false
+  xy: 176, 14
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+yanjing_z
+  rotate: false
+  xy: 134, 137
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 204, 153
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 188
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 216, 105
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Scene_Tianquan_Jj1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ganzi
+  rotate: 180
+  xy: 709, 170
+  size: 313, 500
+  orig: 314, 500
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 304, 333
+  size: 300, 122
+  orig: 300, 122
+  offset: 0, 0
+  index: -1
+h10
+  rotate: true
+  xy: 804, 665
+  size: 211, 55
+  orig: 211, 55
+  offset: 0, 0
+  index: -1
+h11
+  rotate: true
+  xy: 606, 243
+  size: 212, 82
+  orig: 212, 82
+  offset: 0, 0
+  index: -1
+h12
+  rotate: 180
+  xy: 304, 602
+  size: 600, 176
+  orig: 600, 176
+  offset: 0, 0
+  index: -1
+h13
+  rotate: false
+  xy: 2, 738
+  size: 800, 182
+  orig: 800, 182
+  offset: 0, 0
+  index: -1
+h14
+  rotate: 180
+  xy: 96, 4
+  size: 600, 67
+  orig: 600, 67
+  offset: 0, 0
+  index: -1
+h15
+  rotate: 180
+  xy: 71, 124
+  size: 800, 90
+  orig: 800, 90
+  offset: 0, 0
+  index: -1
+h16
+  rotate: 180
+  xy: 2, 34
+  size: 600, 113
+  orig: 600, 113
+  offset: 0, 0
+  index: -1
+h17
+  rotate: false
+  xy: 191, 174
+  size: 550, 76
+  orig: 550, 130
+  offset: 0, 22
+  index: -1
+h18
+  rotate: false
+  xy: 2, 48
+  size: 1000, 128
+  orig: 1000, 128
+  offset: 0, 0
+  index: -1
+h2
+  rotate: true
+  xy: 941, 233
+  size: 200, 81
+  orig: 200, 81
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 2, 368
+  size: 300, 139
+  orig: 300, 139
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 269, 248
+  size: 271, 83
+  orig: 600, 83
+  offset: 329, 0
+  index: -1
+h5
+  rotate: false
+  xy: 2, 274
+  size: 270, 92
+  orig: 600, 92
+  offset: 0, 0
+  index: -1
+h6
+  rotate: false
+  xy: 604, 457
+  size: 300, 142
+  orig: 300, 142
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 2, 650
+  size: 300, 203
+  orig: 300, 203
+  offset: 0, 0
+  index: -1
+h8
+  rotate: false
+  xy: 304, 750
+  size: 130, 82
+  orig: 130, 82
+  offset: 0, 0
+  index: -1
+h9
+  rotate: false
+  xy: 2, 509
+  size: 600, 90
+  orig: 600, 90
+  offset: 0, 0
+  index: -1
+piaodai1
+  rotate: true
+  xy: 842, 554
+  size: 367, 170
+  orig: 400, 217
+  offset: 0, 47
+  index: -1
+piaodai2
+  rotate: 180
+  xy: 742, 157
+  size: 279, 64
+  orig: 300, 64
+  offset: 0, 0
+  index: -1

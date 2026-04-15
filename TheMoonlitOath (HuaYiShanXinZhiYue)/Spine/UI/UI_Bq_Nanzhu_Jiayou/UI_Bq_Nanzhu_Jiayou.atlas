@@ -1,0 +1,188 @@
+
+UI_Bq_Nanzhu_Jiayou.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+11
+  rotate: false
+  xy: 469, 48
+  size: 41, 61
+  orig: 41, 61
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 449, 229
+  size: 59, 61
+  orig: 95, 161
+  offset: 17, 100
+  index: -1
+browL
+  rotate: false
+  xy: 242, 373
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1
+browR
+  rotate: false
+  xy: 189, 370
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 21, 24
+  size: 131, 41
+  orig: 131, 41
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 292, 18
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+hounao
+  rotate: false
+  xy: 2, 152
+  size: 258, 236
+  orig: 258, 236
+  offset: 0, 0
+  index: -1
+lian
+  rotate: 270
+  xy: 232, 162
+  size: 225, 212
+  orig: 225, 212
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 192, 75
+  size: 93, 125
+  orig: 93, 125
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 431, 111
+  size: 78, 117
+  orig: 78, 117
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: 270
+  xy: 2, 51
+  size: 153, 124
+  orig: 153, 124
+  offset: 0, 0
+  index: -1
+shouR
+  rotate: false
+  xy: 445, 289
+  size: 59, 98
+  orig: 59, 98
+  offset: 0, 0
+  index: -1
+shoubiL
+  rotate: false
+  xy: 2, 245
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+shoubiR
+  rotate: false
+  xy: 2, 273
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 319, 57
+  size: 30, 139
+  orig: 30, 139
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 319, 89
+  size: 30, 148
+  orig: 30, 148
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: true
+  xy: 154, 25
+  size: 49, 64
+  orig: 49, 64
+  offset: 0, 0
+  index: -1
+xiuziL
+  rotate: true
+  xy: 220, 27
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+xiuziL2
+  rotate: false
+  xy: 399, 341
+  size: 43, 47
+  orig: 47, 69
+  offset: 4, 22
+  index: -1
+xiuziR2
+  rotate: true
+  xy: 349, 3
+  size: 52, 60
+  orig: 54, 78
+  offset: 0, 18
+  index: -1
+xiuziR3
+  rotate: false
+  xy: 136, 72
+  size: 54, 78
+  orig: 54, 78
+  offset: 0, 0
+  index: -1
+yanjingyou
+  rotate: false
+  xy: 2, 350
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+yanjingyou-by
+  rotate: false
+  xy: 50, 379
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+yanjingzuo
+  rotate: false
+  xy: 375, 123
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+yanjingzuo-by
+  rotate: false
+  xy: 200, 360
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 242, 353
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

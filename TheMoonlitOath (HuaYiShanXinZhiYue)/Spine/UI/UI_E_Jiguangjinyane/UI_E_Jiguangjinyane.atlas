@@ -1,0 +1,41 @@
+
+UI_E_Jiguangjinyane.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: 270
+  xy: 4, 3
+  size: 26, 68
+  orig: 26, 68
+  offset: 0, 0
+  index: -1
+e2
+  rotate: false
+  xy: 2, 117
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+e3
+  rotate: true
+  xy: 2, 73
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 2, 175
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+e5
+  rotate: 270
+  xy: 4, 22
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1

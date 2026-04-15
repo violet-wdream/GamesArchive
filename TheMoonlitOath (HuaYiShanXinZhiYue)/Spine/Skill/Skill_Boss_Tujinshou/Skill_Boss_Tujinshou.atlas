@@ -1,0 +1,146 @@
+
+Skill_Boss_Tujinshou.png
+size: 992,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beihou(2)
+  rotate: false
+  xy: 409, 213
+  size: 331, 336
+  orig: 331, 336
+  offset: 0, 0
+  index: -1
+dizhu
+  rotate: false
+  xy: 2, 196
+  size: 405, 353
+  orig: 405, 353
+  offset: 0, 0
+  index: -1
+guazhui1(2)
+  rotate: false
+  xy: 456, 11
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+maozi_h1(2)
+  rotate: false
+  xy: 135, 35
+  size: 93, 46
+  orig: 93, 46
+  offset: 0, 0
+  index: -1
+maozi_h2(2)
+  rotate: false
+  xy: 400, 11
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+piaodai1(2)
+  rotate: true
+  xy: 742, 65
+  size: 171, 247
+  orig: 171, 247
+  offset: 0, 0
+  index: -1
+piaodai2(2)
+  rotate: 270
+  xy: 600, 3
+  size: 154, 222
+  orig: 154, 222
+  offset: 0, 0
+  index: -1
+piaodai3(2)
+  rotate: true
+  xy: 80, 4
+  size: 95, 219
+  orig: 95, 219
+  offset: 0, 0
+  index: -1
+piaodai4(2)
+  rotate: true
+  xy: 803, 6
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+qiu_b(2)
+  rotate: false
+  xy: 559, 64
+  size: 142, 147
+  orig: 144, 149
+  offset: 1, 1
+  index: -1
+qiu_w(2)
+  rotate: false
+  xy: 409, 63
+  size: 148, 148
+  orig: 150, 150
+  offset: 1, 1
+  index: -1
+shenti(2)
+  rotate: false
+  xy: 742, 180
+  size: 233, 370
+  orig: 239, 370
+  offset: 0, 0
+  index: -1
+yuanbao1(2)
+  rotate: false
+  xy: 745, 9
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+yuanbao2(2)
+  rotate: false
+  xy: 122, 139
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+yuanbao3(2)
+  rotate: false
+  xy: 301, 5
+  size: 58, 70
+  orig: 58, 70
+  offset: 0, 0
+  index: -1
+yuanbao4(2)
+  rotate: false
+  xy: 308, 77
+  size: 71, 46
+  orig: 71, 46
+  offset: 0, 0
+  index: -1
+zhuazi1(2)
+  rotate: false
+  xy: 361, 29
+  size: 37, 46
+  orig: 37, 46
+  offset: 0, 0
+  index: -1
+zhuazi2(2)
+  rotate: false
+  xy: 2, 20
+  size: 67, 76
+  orig: 67, 76
+  offset: 0, 0
+  index: -1
+zhuizi2(2)
+  rotate: true
+  xy: 196, 77
+  size: 113, 189
+  orig: 113, 189
+  offset: 0, 0
+  index: -1
+zhuizi3(2)
+  rotate: true
+  xy: 2, 78
+  size: 116, 192
+  orig: 116, 192
+  offset: 0, 0
+  index: -1

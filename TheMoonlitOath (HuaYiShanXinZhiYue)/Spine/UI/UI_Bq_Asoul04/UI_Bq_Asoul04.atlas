@@ -1,0 +1,160 @@
+
+UI_Bq_Asoul04.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan_y
+  rotate: false
+  xy: 221, 41
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+biyan_z
+  rotate: true
+  xy: 188, 167
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+char
+  rotate: false
+  xy: 100, 75
+  size: 145, 32
+  orig: 145, 32
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: true
+  xy: 2, 12
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+gebo_y
+  rotate: false
+  xy: 236, 134
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+gebo_z
+  rotate: 180
+  xy: 233, 114
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 137, 39
+  size: 83, 35
+  orig: 83, 35
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 38
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: true
+  xy: 75, 22
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+meimao_y
+  rotate: false
+  xy: 2, 115
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+meimao_z
+  rotate: false
+  xy: 149, 157
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 165, 112
+  size: 72, 33
+  orig: 72, 33
+  offset: 0, 0
+  index: -1
+tiegun
+  rotate: 180
+  xy: 127, 4
+  size: 95, 44
+  orig: 95, 44
+  offset: 0, 0
+  index: -1
+toufa01
+  rotate: 180
+  xy: 124, 109
+  size: 111, 112
+  orig: 111, 128
+  offset: 0, 0
+  index: -1
+toufa02
+  rotate: false
+  xy: 2, 99
+  size: 129, 122
+  orig: 129, 122
+  offset: 0, 0
+  index: -1
+yanjing_y
+  rotate: false
+  xy: 222, 53
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+yanjing_z
+  rotate: true
+  xy: 231, 194
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 234, 174
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 132, 214
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+zui_szc
+  rotate: false
+  xy: 173, 186
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 236, 155
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+zuoshoumuzhi
+  rotate: false
+  xy: 216, 211
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1

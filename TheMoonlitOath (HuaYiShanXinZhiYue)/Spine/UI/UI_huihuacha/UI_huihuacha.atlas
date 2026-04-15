@@ -1,0 +1,27 @@
+
+UI_huihuacha.png
+size: 592,388
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaizi
+  rotate: true
+  xy: 519, 125
+  size: 101, 49
+  orig: 103, 51
+  offset: 1, 1
+  index: -1
+weiba
+  rotate: true
+  xy: 519, 228
+  size: 157, 69
+  orig: 157, 69
+  offset: 0, 0
+  index: -1
+zhuozo
+  rotate: false
+  xy: 2, 2
+  size: 515, 383
+  orig: 515, 383
+  offset: 0, 0
+  index: -1

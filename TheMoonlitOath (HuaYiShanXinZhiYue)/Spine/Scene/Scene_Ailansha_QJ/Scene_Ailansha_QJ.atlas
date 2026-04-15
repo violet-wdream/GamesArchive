@@ -1,0 +1,55 @@
+
+Scene_Ailansha_QJ.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ts1
+  rotate: false
+  xy: 2, 6
+  size: 224, 221
+  orig: 231, 221
+  offset: 0, 0
+  index: -1
+ts2
+  rotate: false
+  xy: 40, 159
+  size: 275, 198
+  orig: 278, 198
+  offset: 3, 0
+  index: -1
+ts3
+  rotate: false
+  xy: 2, 274
+  size: 595, 403
+  orig: 600, 509
+  offset: 0, 0
+  index: -1
+ts4
+  rotate: false
+  xy: 717, 3
+  size: 305, 201
+  orig: 305, 240
+  offset: 0, 39
+  index: -1
+ts5
+  rotate: 180
+  xy: 224, 82
+  size: 271, 214
+  orig: 272, 216
+  offset: 1, 1
+  index: -1
+ts6
+  rotate: false
+  xy: 518, 88
+  size: 344, 296
+  orig: 345, 296
+  offset: 1, 0
+  index: -1
+ts7
+  rotate: 180
+  xy: 570, 250
+  size: 430, 428
+  orig: 614, 565
+  offset: 183, 0
+  index: -1

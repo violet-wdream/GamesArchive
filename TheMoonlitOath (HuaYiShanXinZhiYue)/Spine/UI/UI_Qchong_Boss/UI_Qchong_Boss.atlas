@@ -1,0 +1,97 @@
+
+UI_Qchong_Boss.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hei001
+  rotate: false
+  xy: 504, 43
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+hei002
+  rotate: false
+  xy: 475, 4
+  size: 29, 82
+  orig: 30, 83
+  offset: 0, 1
+  index: -1
+hei003
+  rotate: 180
+  xy: 323, 4
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+hei004
+  rotate: false
+  xy: 367, 14
+  size: 46, 73
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+hei005
+  rotate: false
+  xy: 440, 17
+  size: 35, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+hei006
+  rotate: false
+  xy: 504, 5
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+hei007
+  rotate: true
+  xy: 280, 3
+  size: 84, 45
+  orig: 84, 45
+  offset: 0, 0
+  index: -1
+hei008
+  rotate: false
+  xy: 533, 45
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+hei009
+  rotate: false
+  xy: 468, 7
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+hei010
+  rotate: false
+  xy: 530, 8
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+hei011
+  rotate: false
+  xy: 407, 17
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+hei012
+  rotate: true
+  xy: 182, 3
+  size: 83, 99
+  orig: 84, 113
+  offset: 0, 12
+  index: -1
+yy
+  rotate: false
+  xy: 2, 17
+  size: 178, 68
+  orig: 178, 68
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+UI_Bq_Mingxing_biezou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char2
+  rotate: false
+  xy: 2, 46
+  size: 187, 46
+  orig: 187, 46
+  offset: 0, 0
+  index: -1
+l_body
+  rotate: 270
+  xy: 153, 162
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+l_browL
+  rotate: true
+  xy: 2, 204
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+l_browR
+  rotate: false
+  xy: 55, 4
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+l_fatuan
+  rotate: true
+  xy: 148, 94
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 236, 207
+  size: 15, 31
+  orig: 15, 35
+  offset: 0, 0
+  index: -1
+l_lian
+  rotate: false
+  xy: 2, 94
+  size: 150, 144
+  orig: 152, 144
+  offset: 2, 0
+  index: -1
+l_liuhai1
+  rotate: 180
+  xy: 156, 150
+  size: 67, 88
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+l_liuhai3
+  rotate: true
+  xy: 197, 38
+  size: 78, 39
+  orig: 81, 45
+  offset: 0, 6
+  index: -1
+l_pijian_you
+  rotate: false
+  xy: 181, 4
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+l_pijian_zuo
+  rotate: false
+  xy: 100, 8
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+l_touguan
+  rotate: false
+  xy: 2, 14
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+l_xiuzi
+  rotate: true
+  xy: 224, 79
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+l_yanpi
+  rotate: true
+  xy: 216, 104
+  size: 130, 23
+  orig: 130, 23
+  offset: 0, 0
+  index: -1
+l_yanqiu
+  rotate: false
+  xy: 74, 18
+  size: 74, 26
+  orig: 74, 26
+  offset: 0, 0
+  index: -1
+qipao1
+  rotate: false
+  xy: 149, 16
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+qipao2
+  rotate: false
+  xy: 209, 10
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+xiuzi_L
+  rotate: false
+  xy: 124, 210
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+yanjingyou-by
+  rotate: false
+  xy: 2, 102
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+yanjingzuo-by
+  rotate: false
+  xy: 119, 94
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+zui_biezou
+  rotate: false
+  xy: 199, 228
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1

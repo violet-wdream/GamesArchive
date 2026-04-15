@@ -1,0 +1,62 @@
+
+Scene_Ailansha_Niao.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao1
+  rotate: true
+  xy: 2, 86
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+niao2
+  rotate: true
+  xy: 41, 58
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: false
+  xy: 7, 4
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+niao4
+  rotate: false
+  xy: 12, 47
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+niao5
+  rotate: 180
+  xy: 2, 75
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+niao6
+  rotate: true
+  xy: 43, 3
+  size: 17, 10
+  orig: 19, 12
+  offset: 1, 1
+  index: -1
+niao7
+  rotate: 270
+  xy: 2, 34
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+niao8
+  rotate: 180
+  xy: 2, 53
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1

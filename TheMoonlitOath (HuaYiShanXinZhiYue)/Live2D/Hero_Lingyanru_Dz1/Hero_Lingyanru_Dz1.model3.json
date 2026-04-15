@@ -1,0 +1,239 @@
+{
+  "Version": 3,
+  "Name": "Hero_Lingyanru_Dz1",
+  "FileReferences": {
+    "Moc": "Hero_Lingyanru_Dz1.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png"
+    ],
+    "Physics": "Hero_Lingyanru_Dz1.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "Hero_Lingyanru_Dz1.cdi3.json",
+    "Motions": {
+      "C005": [
+        {
+          "File": "motions/C005.motion3.json"
+        }
+      ],
+      "C007": [
+        {
+          "File": "motions/C007.motion3.json"
+        }
+      ],
+      "C008": [
+        {
+          "File": "motions/C008.motion3.json"
+        }
+      ],
+      "C009": [
+        {
+          "File": "motions/C009.motion3.json"
+        }
+      ],
+      "C010": [
+        {
+          "File": "motions/C010.motion3.json"
+        }
+      ],
+      "C014": [
+        {
+          "File": "motions/C014.motion3.json"
+        }
+      ],
+      "C015": [
+        {
+          "File": "motions/C015.motion3.json"
+        }
+      ],
+      "Idle": [
+        {
+          "File": "motions/Idle.motion3.json"
+        }
+      ],
+      "Idle_noeye": [
+        {
+          "File": "motions/Idle_noeye.motion3.json"
+        }
+      ],
+      "Idle_Smile": [
+        {
+          "File": "motions/Idle_Smile.motion3.json"
+        }
+      ],
+      "MK510950251": [
+        {
+          "File": "motions/MK510950251.motion3.json"
+        }
+      ],
+      "MK510950251_M": [
+        {
+          "File": "motions/MK510950251_M.motion3.json"
+        }
+      ],
+      "MK510950253": [
+        {
+          "File": "motions/MK510950253.motion3.json"
+        }
+      ],
+      "MK510950253_M": [
+        {
+          "File": "motions/MK510950253_M.motion3.json"
+        }
+      ],
+      "MK510950260": [
+        {
+          "File": "motions/MK510950260.motion3.json"
+        }
+      ],
+      "MK510950263_M": [
+        {
+          "File": "motions/MK510950263_M.motion3.json"
+        }
+      ],
+      "MK510950416_M": [
+        {
+          "File": "motions/MK510950416_M.motion3.json"
+        }
+      ],
+      "MK510950420_M": [
+        {
+          "File": "motions/MK510950420_M.motion3.json"
+        }
+      ],
+      "MK510950422": [
+        {
+          "File": "motions/MK510950422.motion3.json"
+        }
+      ],
+      "MK510950422_M": [
+        {
+          "File": "motions/MK510950422_M.motion3.json"
+        }
+      ],
+      "MK510950423": [
+        {
+          "File": "motions/MK510950423.motion3.json"
+        }
+      ],
+      "MK510950424_M": [
+        {
+          "File": "motions/MK510950424_M.motion3.json"
+        }
+      ],
+      "MK510950436": [
+        {
+          "File": "motions/MK510950436.motion3.json"
+        }
+      ],
+      "MK510950437": [
+        {
+          "File": "motions/MK510950437.motion3.json"
+        }
+      ],
+      "MK510950439": [
+        {
+          "File": "motions/MK510950439.motion3.json"
+        }
+      ],
+      "MK510950440": [
+        {
+          "File": "motions/MK510950440.motion3.json"
+        }
+      ],
+      "MK510950445": [
+        {
+          "File": "motions/MK510950445.motion3.json"
+        }
+      ],
+      "MK510950448": [
+        {
+          "File": "motions/MK510950448.motion3.json"
+        }
+      ],
+      "MK510950448_M": [
+        {
+          "File": "motions/MK510950448_M.motion3.json"
+        }
+      ],
+      "MS_C005": [
+        {
+          "File": "motions/MS_C005.motion3.json"
+        }
+      ],
+      "MS_C007_1": [
+        {
+          "File": "motions/MS_C007_1.motion3.json"
+        }
+      ],
+      "MS_C007_2": [
+        {
+          "File": "motions/MS_C007_2.motion3.json"
+        }
+      ],
+      "MS_C008": [
+        {
+          "File": "motions/MS_C008.motion3.json"
+        }
+      ],
+      "MS_C009_1": [
+        {
+          "File": "motions/MS_C009_1.motion3.json"
+        }
+      ],
+      "MS_C009_2": [
+        {
+          "File": "motions/MS_C009_2.motion3.json"
+        }
+      ],
+      "MS_C010_1": [
+        {
+          "File": "motions/MS_C010_1.motion3.json"
+        }
+      ],
+      "MS_C010_2": [
+        {
+          "File": "motions/MS_C010_2.motion3.json"
+        }
+      ],
+      "MS_C014": [
+        {
+          "File": "motions/MS_C014.motion3.json"
+        }
+      ],
+      "MS_C015": [
+        {
+          "File": "motions/MS_C015.motion3.json"
+        }
+      ],
+      "Shouhuan": [
+        {
+          "File": "motions/Shouhuan.motion3.json"
+        }
+      ],
+      "zhihuan": [
+        {
+          "File": "motions/zhihuan.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

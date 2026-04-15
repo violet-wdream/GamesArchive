@@ -1,0 +1,76 @@
+
+UI_SeekingLightBird3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 299, 55
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 240, 3
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+saihong
+  rotate: false
+  xy: 299, 4
+  size: 77, 16
+  orig: 77, 16
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 7
+  size: 164, 153
+  orig: 168, 153
+  offset: 1, 0
+  index: -1
+tou
+  rotate: 270
+  xy: 165, 38
+  size: 122, 110
+  orig: 122, 110
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 136, 9
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+zhuazi1
+  rotate: false
+  xy: 198, 5
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+zhuazi2
+  rotate: false
+  xy: 322, 22
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+zuibi
+  rotate: false
+  xy: 346, 22
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+zuikai
+  rotate: false
+  xy: 2, 12
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,265 @@
+
+UI_Hongbing_Dao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan_you
+  rotate: false
+  xy: 174, 124
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+biyan_zuo
+  rotate: false
+  xy: 2, 114
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+bq_hongyun
+  rotate: false
+  xy: 83, 244
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bq_meimaoyou-zc
+  rotate: false
+  xy: 154, 3
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+bq_meimaozuo-zc
+  rotate: true
+  xy: 225, 25
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+bq_yanjingyou-zc
+  rotate: false
+  xy: 107, 139
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+bq_yanjingzuo-zc
+  rotate: false
+  xy: 2, 5
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+bq_zui
+  rotate: false
+  xy: 161, 252
+  size: 13, 2
+  orig: 13, 2
+  offset: 0, 0
+  index: -1
+hongbing_dadao
+  rotate: 180
+  xy: 61, 41
+  size: 124, 83
+  orig: 124, 83
+  offset: 0, 0
+  index: -1
+hongbing_erduo
+  rotate: false
+  xy: 217, 93
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+hongbing_jianjia_hong
+  rotate: true
+  xy: 128, 3
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+hongbing_jianjia_z
+  rotate: true
+  xy: 196, 8
+  size: 19, 26
+  orig: 19, 26
+  offset: 0, 0
+  index: -1
+hongbing_lian
+  rotate: false
+  xy: 2, 156
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+hongbing_mao
+  rotate: false
+  xy: 125, 29
+  size: 98, 79
+  orig: 98, 79
+  offset: 0, 0
+  index: -1
+hongbing_shanzi
+  rotate: false
+  xy: 2, 68
+  size: 70, 44
+  orig: 70, 44
+  offset: 0, 0
+  index: -1
+hongbing_shenti
+  rotate: false
+  xy: 127, 110
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+hongbing_shoubi_z1
+  rotate: false
+  xy: 193, 92
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+hongbing_shoubi_z2
+  rotate: false
+  xy: 48, 87
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hongbing_tooukui_z1
+  rotate: 270
+  xy: 69, 43
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+hongbing_toukui
+  rotate: 270
+  xy: 96, 155
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+hongbing_toukui_h1
+  rotate: true
+  xy: 72, 19
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1
+hongbing_toukui_h2
+  rotate: 270
+  xy: 67, 102
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+hongbing_toukuihou
+  rotate: 270
+  xy: 189, 167
+  size: 87, 48
+  orig: 87, 48
+  offset: 0, 0
+  index: -1
+hongbing_xiabai1
+  rotate: false
+  xy: 101, 185
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1
+hongbing_xiabai2
+  rotate: true
+  xy: 36, 22
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+hongbing_xiabai3
+  rotate: false
+  xy: 171, 88
+  size: 20, 34
+  orig: 20, 34
+  offset: 0, 0
+  index: -1
+hongbing_yaodai1
+  rotate: false
+  xy: 151, 25
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+hongbing_yaodai2
+  rotate: true
+  xy: 97, 172
+  size: 11, 31
+  orig: 11, 31
+  offset: 0, 0
+  index: -1
+hongbing_youjiao_hong
+  rotate: false
+  xy: 205, 52
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+hongbing_youshou
+  rotate: false
+  xy: 88, 159
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+hongbing_youshou2
+  rotate: false
+  xy: 113, 87
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+hongbing_youxiuzi1
+  rotate: true
+  xy: 104, 7
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+hongbing_youxiuzi2
+  rotate: true
+  xy: 2, 20
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+hongbing_zuojiao_hong
+  rotate: true
+  xy: 112, 25
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+hongbing_zuoshou
+  rotate: false
+  xy: 2, 157
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+hongbing_zuoxiabi
+  rotate: false
+  xy: 225, 71
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+yy
+  rotate: false
+  xy: 2, 44
+  size: 59, 22
+  orig: 59, 22
+  offset: 0, 0
+  index: -1

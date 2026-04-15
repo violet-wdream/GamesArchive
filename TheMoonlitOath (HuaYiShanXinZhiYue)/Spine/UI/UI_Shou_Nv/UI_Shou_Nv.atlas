@@ -1,0 +1,55 @@
+
+UI_Shou_Nv.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nvshou_1
+  rotate: false
+  xy: 2, 36
+  size: 139, 113
+  orig: 145, 122
+  offset: 0, 9
+  index: -1
+nvshou_2
+  rotate: false
+  xy: 2, 75
+  size: 40, 73
+  orig: 40, 73
+  offset: 0, 0
+  index: -1
+nvshou_3
+  rotate: 270
+  xy: 49, 13
+  size: 45, 79
+  orig: 45, 79
+  offset: 0, 0
+  index: -1
+nvshou_4
+  rotate: 270
+  xy: 34, 4
+  size: 43, 68
+  orig: 52, 73
+  offset: 9, 0
+  index: -1
+nvshou_5
+  rotate: false
+  xy: 18, 86
+  size: 36, 48
+  orig: 63, 52
+  offset: 27, 0
+  index: -1
+nvshou_6
+  rotate: 180
+  xy: 139, 12
+  size: 54, 44
+  orig: 82, 121
+  offset: 0, 1
+  index: -1
+nvshou_7
+  rotate: 180
+  xy: 101, 29
+  size: 89, 95
+  orig: 89, 98
+  offset: 0, 3
+  index: -1

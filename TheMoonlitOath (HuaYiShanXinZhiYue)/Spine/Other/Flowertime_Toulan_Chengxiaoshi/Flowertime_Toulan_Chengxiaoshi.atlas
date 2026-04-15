@@ -1,0 +1,104 @@
+
+Flowertime_Toulan_Chengxiaoshi.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cxs_bianzi
+  rotate: false
+  xy: 131, 3
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+cxs_liuhai1
+  rotate: true
+  xy: 78, 407
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+cxs_liuhai2
+  rotate: false
+  xy: 128, 209
+  size: 31, 61
+  orig: 31, 61
+  offset: 0, 0
+  index: -1
+cxs_meimaoyou
+  rotate: false
+  xy: 88, 4
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+cxs_meimaozuo
+  rotate: false
+  xy: 2, 316
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+cxs_shenti
+  rotate: 270
+  xy: 2, 199
+  size: 101, 127
+  orig: 101, 127
+  offset: 0, 0
+  index: -1
+cxs_tou
+  rotate: false
+  xy: 31, 112
+  size: 122, 95
+  orig: 122, 95
+  offset: 0, 0
+  index: -1
+cxs_toufa1
+  rotate: false
+  xy: 2, 8
+  size: 138, 112
+  orig: 155, 125
+  offset: 17, 0
+  index: -1
+cxs_toufa2
+  rotate: false
+  xy: 2, 296
+  size: 154, 159
+  orig: 154, 161
+  offset: 0, 2
+  index: -1
+cxs_yanjingyou
+  rotate: false
+  xy: 128, 390
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+cxs_yanjingzuo
+  rotate: false
+  xy: 2, 427
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+cxs_youshou
+  rotate: true
+  xy: 138, 75
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+cxs_zui
+  rotate: false
+  xy: 2, 19
+  size: 22, 8
+  orig: 22, 8
+  offset: 0, 0
+  index: -1
+cxs_zuoshou
+  rotate: false
+  xy: 142, 271
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+UI_Bq_Bairuier.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 82, 11
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+a2
+  rotate: false
+  xy: 10, 221
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 167, 58
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+char1
+  rotate: true
+  xy: 204, 93
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 211, 24
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+char3
+  rotate: false
+  xy: 225, 64
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+eyeL
+  rotate: false
+  xy: 110, 100
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+eyeR
+  rotate: false
+  xy: 167, 101
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+f1
+  rotate: true
+  xy: 2, 57
+  size: 58, 163
+  orig: 58, 163
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 124, 128
+  size: 99, 79
+  orig: 99, 79
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 204, 142
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+hounao
+  rotate: true
+  xy: 2, 4
+  size: 52, 163
+  orig: 52, 163
+  offset: 0, 0
+  index: -1
+liuhai
+  rotate: false
+  xy: 2, 102
+  size: 120, 126
+  orig: 120, 126
+  offset: 0, 0
+  index: -1
+x1
+  rotate: false
+  xy: 109, 214
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+x2
+  rotate: false
+  xy: 2, 120
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+x3
+  rotate: false
+  xy: 2, 214
+  size: 6, 14
+  orig: 6, 14
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 135
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Scene_Lyr_08.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 983, 21
+  size: 497, 444
+  orig: 500, 444
+  offset: 3, 0
+  index: -1
+10
+  rotate: false
+  xy: 1764, 1595
+  size: 163, 173
+  orig: 163, 173
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1653, 1749
+  size: 344, 220
+  orig: 344, 226
+  offset: 0, 6
+  index: -1
+3
+  rotate: false
+  xy: 1209, 485
+  size: 242, 234
+  orig: 242, 239
+  offset: 0, 5
+  index: -1
+4
+  rotate: false
+  xy: 2, 461
+  size: 636, 619
+  orig: 638, 620
+  offset: 0, 0
+  index: -1
+5
+  rotate: 270
+  xy: 1190, 653
+  size: 537, 684
+  orig: 537, 848
+  offset: 0, 54
+  index: -1
+6
+  rotate: false
+  xy: 804, 1628
+  size: 139, 91
+  orig: 139, 91
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 804, 1721
+  size: 211, 247
+  orig: 211, 247
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1017, 1751
+  size: 135, 217
+  orig: 135, 217
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1762, 689
+  size: 171, 501
+  orig: 171, 501
+  offset: 0, 0
+  index: -1
+bj
+  rotate: false
+  xy: 2, 1541
+  size: 800, 427
+  orig: 800, 427
+  offset: 0, 0
+  index: -1
+ding
+  rotate: false
+  xy: 2, 1466
+  size: 300, 73
+  orig: 300, 73
+  offset: 0, 0
+  index: -1
+huoyan01
+  rotate: 180
+  xy: 1045, 1192
+  size: 1000, 541
+  orig: 1000, 541
+  offset: 0, 0
+  index: -1
+jinshu1
+  rotate: false
+  xy: 62, 78
+  size: 332, 500
+  orig: 332, 500
+  offset: 0, 0
+  index: -1
+maomao_1
+  rotate: true
+  xy: 395, 3
+  size: 582, 625
+  orig: 582, 625
+  offset: 0, 0
+  index: -1
+xiuzi5
+  rotate: 270
+  xy: 2, 933
+  size: 472, 800
+  orig: 472, 800
+  offset: 0, 0
+  index: -1
+xiuzi7
+  rotate: true
+  xy: 601, 733
+  size: 503, 600
+  orig: 543, 600
+  offset: 40, 0
+  index: -1
+xiuzi9
+  rotate: 270
+  xy: 512, 472
+  size: 404, 800
+  orig: 404, 800
+  offset: 0, 0
+  index: -1
+yan01
+  rotate: 180
+  xy: 651, 1389
+  size: 1000, 580
+  orig: 1000, 886
+  offset: 0, 306
+  index: -1
+zuoxiuzi_1
+  rotate: true
+  xy: 1430, 138
+  size: 189, 616
+  orig: 304, 1000
+  offset: 0, 384
+  index: -1
+zuoxiuzi_11
+  rotate: true
+  xy: 1245, 329
+  size: 339, 800
+  orig: 339, 800
+  offset: 0, 0
+  index: -1

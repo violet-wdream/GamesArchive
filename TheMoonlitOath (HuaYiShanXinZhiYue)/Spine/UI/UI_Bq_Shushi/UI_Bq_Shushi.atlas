@@ -1,0 +1,104 @@
+
+UI_Bq_Shushi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+char2
+  rotate: true
+  xy: 120, 52
+  size: 169, 41
+  orig: 169, 41
+  offset: 0, 0
+  index: -1
+s1
+  rotate: false
+  xy: 47, 215
+  size: 36, 7
+  orig: 36, 7
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 164, 7
+  size: 37, 7
+  orig: 37, 7
+  offset: 0, 0
+  index: -1
+s3
+  rotate: false
+  xy: 162, 112
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+s4
+  rotate: false
+  xy: 162, 97
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 13, 3
+  size: 105, 86
+  orig: 105, 86
+  offset: 0, 0
+  index: -1
+t1
+  rotate: false
+  xy: 179, 163
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+t2
+  rotate: true
+  xy: 186, 185
+  size: 34, 24
+  orig: 34, 24
+  offset: 0, 0
+  index: -1
+t3
+  rotate: false
+  xy: 2, 81
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+t4
+  rotate: false
+  xy: 162, 188
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+t5
+  rotate: false
+  xy: 90, 216
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+t6
+  rotate: false
+  xy: 2, 215
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 80
+  size: 116, 141
+  orig: 116, 141
+  offset: 0, 0
+  index: -1
+tui
+  rotate: 270
+  xy: 119, 12
+  size: 149, 95
+  orig: 149, 95
+  offset: 0, 0
+  index: -1

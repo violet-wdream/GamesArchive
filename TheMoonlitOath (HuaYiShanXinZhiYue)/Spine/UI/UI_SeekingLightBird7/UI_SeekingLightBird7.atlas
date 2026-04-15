@@ -1,0 +1,90 @@
+
+UI_SeekingLightBird7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 2, 17
+  size: 81, 169
+  orig: 99, 169
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 258, 4
+  size: 63, 166
+  orig: 67, 166
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 107
+  size: 146, 200
+  orig: 193, 200
+  offset: 44, 0
+  index: -1
+tou
+  rotate: false
+  xy: 369, 55
+  size: 103, 91
+  orig: 103, 91
+  offset: 0, 0
+  index: -1
+weiyu
+  rotate: false
+  xy: 410, 147
+  size: 74, 217
+  orig: 74, 217
+  offset: 0, 0
+  index: -1
+xiong
+  rotate: 180
+  xy: 155, 35
+  size: 143, 115
+  orig: 143, 136
+  offset: 0, 21
+  index: -1
+yanjing
+  rotate: false
+  xy: 276, 348
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+zhanchi1
+  rotate: 270
+  xy: 280, 83
+  size: 281, 130
+  orig: 281, 130
+  offset: 0, 0
+  index: -1
+zhanchi2
+  rotate: false
+  xy: 2, 242
+  size: 315, 122
+  orig: 315, 122
+  offset: 0, 0
+  index: -1
+zhuazi
+  rotate: false
+  xy: 2, 335
+  size: 14, 29
+  orig: 14, 29
+  offset: 0, 0
+  index: -1
+zuibi
+  rotate: false
+  xy: 18, 343
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+zuikai
+  rotate: false
+  xy: 37, 345
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1

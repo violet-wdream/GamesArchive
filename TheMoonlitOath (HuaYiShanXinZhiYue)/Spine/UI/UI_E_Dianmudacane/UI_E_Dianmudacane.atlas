@@ -1,0 +1,41 @@
+
+UI_E_Dianmudacane.png
+size: 128,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+e1
+  rotate: true
+  xy: 2, 4
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1
+e2
+  rotate: 270
+  xy: 2, 144
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+e3
+  rotate: true
+  xy: 2, 91
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+e4
+  rotate: false
+  xy: 2, 197
+  size: 80, 61
+  orig: 80, 61
+  offset: 0, 0
+  index: -1
+e5
+  rotate: 270
+  xy: 16, 32
+  size: 60, 65
+  orig: 76, 65
+  offset: 16, 0
+  index: -1

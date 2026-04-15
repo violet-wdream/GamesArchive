@@ -1,0 +1,104 @@
+
+UI_Flower_Guosetianxiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: 180
+  xy: 2, 4
+  size: 167, 146
+  orig: 172, 160
+  offset: 5, 0
+  index: -1
+a2
+  rotate: false
+  xy: 280, 373
+  size: 127, 108
+  orig: 127, 108
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 411, 283
+  size: 103, 78
+  orig: 105, 84
+  offset: 0, 0
+  index: -1
+a4
+  rotate: 180
+  xy: 397, 353
+  size: 84, 117
+  orig: 84, 117
+  offset: 0, 0
+  index: -1
+a5
+  rotate: 270
+  xy: 429, 24
+  size: 62, 57
+  orig: 62, 62
+  offset: 0, 5
+  index: -1
+a6
+  rotate: false
+  xy: 217, 142
+  size: 237, 224
+  orig: 237, 224
+  offset: 0, 0
+  index: -1
+b1
+  rotate: false
+  xy: 309, 205
+  size: 82, 60
+  orig: 82, 68
+  offset: 0, 7
+  index: -1
+b2
+  rotate: false
+  xy: 293, 8
+  size: 134, 149
+  orig: 155, 161
+  offset: 13, 11
+  index: -1
+b3
+  rotate: false
+  xy: 277, 141
+  size: 72, 81
+  orig: 127, 113
+  offset: 21, 11
+  index: -1
+b4
+  rotate: true
+  xy: 431, 171
+  size: 69, 64
+  orig: 74, 83
+  offset: 2, 12
+  index: -1
+b5
+  rotate: false
+  xy: 376, 84
+  size: 95, 95
+  orig: 123, 114
+  offset: 0, 18
+  index: -1
+z
+  rotate: 180
+  xy: 146, 20
+  size: 158, 158
+  orig: 159, 168
+  offset: 1, 9
+  index: -1
+z2
+  rotate: false
+  xy: 2, 149
+  size: 231, 332
+  orig: 231, 332
+  offset: 0, 0
+  index: -1
+z3
+  rotate: 270
+  xy: 214, 215
+  size: 267, 79
+  orig: 273, 134
+  offset: 0, 8
+  index: -1

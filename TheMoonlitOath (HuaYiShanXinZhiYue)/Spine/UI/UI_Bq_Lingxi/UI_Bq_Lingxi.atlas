@@ -1,0 +1,174 @@
+
+UI_Bq_Lingxi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biyan_y
+  rotate: false
+  xy: 63, 106
+  size: 32, 27
+  orig: 38, 27
+  offset: 6, 0
+  index: -1
+biyan_z
+  rotate: false
+  xy: 95, 111
+  size: 29, 26
+  orig: 32, 27
+  offset: 0, 1
+  index: -1
+bj
+  rotate: true
+  xy: 147, 19
+  size: 52, 61
+  orig: 52, 75
+  offset: 0, 14
+  index: -1
+bj2
+  rotate: false
+  xy: 107, 180
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+er_y
+  rotate: 270
+  xy: 68, 4
+  size: 22, 76
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+er_z
+  rotate: 270
+  xy: 124, 158
+  size: 23, 73
+  orig: 53, 73
+  offset: 0, 0
+  index: -1
+fa_hou
+  rotate: false
+  xy: 2, 145
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+fa_y
+  rotate: 180
+  xy: 207, 4
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+fashi
+  rotate: false
+  xy: 200, 88
+  size: 39, 67
+  orig: 39, 67
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 178
+  size: 104, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+mei_y
+  rotate: false
+  xy: 79, 248
+  size: 24, 5
+  orig: 24, 5
+  offset: 0, 0
+  index: -1
+mei_z
+  rotate: false
+  xy: 72, 134
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: 180
+  xy: 150, 74
+  size: 58, 90
+  orig: 83, 95
+  offset: 3, 0
+  index: -1
+shou_y
+  rotate: true
+  xy: 45, 49
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shou_z
+  rotate: true
+  xy: 74, 182
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+shoubi_ya
+  rotate: false
+  xy: 2, 123
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+shoubi_yz
+  rotate: true
+  xy: 2, 22
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+shoubi_z
+  rotate: true
+  xy: 68, 20
+  size: 52, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: true
+  xy: 173, 178
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+toufa_hou
+  rotate: 180
+  xy: 19, 105
+  size: 141, 74
+  orig: 141, 74
+  offset: 0, 0
+  index: -1
+yan_y
+  rotate: false
+  xy: 2, 6
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+yan_z
+  rotate: false
+  xy: 199, 159
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+ziti
+  rotate: false
+  xy: 2, 73
+  size: 143, 31
+  orig: 143, 31
+  offset: 0, 0
+  index: -1
+zui
+  rotate: false
+  xy: 2, 251
+  size: 7, 2
+  orig: 7, 2
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+UI_E_Changweidacan.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d1
+  rotate: false
+  xy: 56, 169
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 60, 46
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+d3
+  rotate: true
+  xy: 2, 3
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+d4
+  rotate: true
+  xy: 41, 61
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 2, 44
+  size: 29, 147
+  orig: 29, 147
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 2, 6
+  size: 75, 37
+  orig: 75, 37
+  offset: 0, 0
+  index: -1
+d7
+  rotate: 180
+  xy: 25, 44
+  size: 29, 147
+  orig: 29, 147
+  offset: 0, 0
+  index: -1
+d8
+  rotate: false
+  xy: 58, 137
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

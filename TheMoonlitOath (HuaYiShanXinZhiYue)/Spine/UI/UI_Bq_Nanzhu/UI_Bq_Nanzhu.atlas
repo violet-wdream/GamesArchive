@@ -1,0 +1,132 @@
+
+UI_Bq_Nanzhu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 202, 164
+  size: 39, 40
+  orig: 62, 105
+  offset: 11, 65
+  index: -1
+browL
+  rotate: false
+  xy: 93, 227
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+browR
+  rotate: false
+  xy: 152, 44
+  size: 43, 15
+  orig: 43, 15
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 97, 5
+  size: 105, 28
+  orig: 105, 28
+  offset: 0, 0
+  index: -1
+daimao
+  rotate: false
+  xy: 2, 25
+  size: 113, 35
+  orig: 113, 35
+  offset: 0, 0
+  index: -1
+erduo
+  rotate: true
+  xy: 204, 5
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+hounao
+  rotate: false
+  xy: 111, 143
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 2, 127
+  size: 120, 113
+  orig: 120, 113
+  offset: 0, 0
+  index: -1
+liuhai1
+  rotate: true
+  xy: 107, 83
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+liuhai2
+  rotate: false
+  xy: 187, 84
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+liuhai3
+  rotate: 180
+  xy: 15, 57
+  size: 90, 73
+  orig: 90, 73
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: true
+  xy: 2, 4
+  size: 19, 90
+  orig: 19, 90
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 97, 60
+  size: 22, 105
+  orig: 22, 105
+  offset: 0, 0
+  index: -1
+toushi
+  rotate: false
+  xy: 204, 28
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xiuziL2
+  rotate: false
+  xy: 115, 15
+  size: 37, 40
+  orig: 40, 59
+  offset: 3, 19
+  index: -1
+xiuziR2
+  rotate: false
+  xy: 2, 78
+  size: 45, 52
+  orig: 46, 67
+  offset: 0, 15
+  index: -1
+yanjing
+  rotate: false
+  xy: 228, 143
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+zui
+  rotate: true
+  xy: 218, 207
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1

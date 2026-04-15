@@ -1,0 +1,55 @@
+
+UI_Bq_Wensiyou_Honghuli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 140
+  size: 158, 97
+  orig: 158, 97
+  offset: 0, 0
+  index: -1
+char
+  rotate: false
+  xy: 2, 56
+  size: 108, 36
+  orig: 108, 36
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: true
+  xy: 2, 3
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+ear2
+  rotate: false
+  xy: 190, 62
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+face
+  rotate: 270
+  xy: 161, 127
+  size: 110, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: 270
+  xy: 125, 16
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+tail
+  rotate: 180
+  xy: 28, 95
+  size: 161, 50
+  orig: 161, 50
+  offset: 0, 0
+  index: -1

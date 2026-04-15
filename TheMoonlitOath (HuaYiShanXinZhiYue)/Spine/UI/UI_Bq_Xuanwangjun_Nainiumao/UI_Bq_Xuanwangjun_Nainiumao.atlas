@@ -1,0 +1,104 @@
+
+UI_Bq_Xuanwangjun_Nainiumao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Woolball
+  rotate: 180
+  xy: 2, 90
+  size: 69, 56
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 76, 114
+  size: 116, 81
+  orig: 120, 153
+  offset: 4, 0
+  index: -1
+char1
+  rotate: true
+  xy: 126, 32
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 66, 19
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+char3
+  rotate: false
+  xy: 32, 6
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 69, 50
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+eyes2
+  rotate: false
+  xy: 2, 70
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+eyes3
+  rotate: true
+  xy: 155, 68
+  size: 52, 30
+  orig: 52, 30
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 136
+  size: 105, 95
+  orig: 105, 104
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 2, 37
+  size: 32, 78
+  orig: 32, 78
+  offset: 0, 0
+  index: -1
+lefthand1
+  rotate: false
+  xy: 146, 92
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+line
+  rotate: 270
+  xy: 87, 4
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 158, 117
+  size: 11, 28
+  orig: 11, 28
+  offset: 0, 0
+  index: -1
+righthand
+  rotate: false
+  xy: 87, 68
+  size: 61, 45
+  orig: 61, 57
+  offset: 0, 0
+  index: -1

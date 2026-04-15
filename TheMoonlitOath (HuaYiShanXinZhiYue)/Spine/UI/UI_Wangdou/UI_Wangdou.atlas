@@ -1,0 +1,27 @@
+
+UI_Wangdou.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wang_1
+  rotate: false
+  xy: 2, 13
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+wang_2
+  rotate: true
+  xy: 47, 32
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+wang_3
+  rotate: 270
+  xy: 35, 3
+  size: 54, 14
+  orig: 54, 14
+  offset: 0, 0
+  index: -1

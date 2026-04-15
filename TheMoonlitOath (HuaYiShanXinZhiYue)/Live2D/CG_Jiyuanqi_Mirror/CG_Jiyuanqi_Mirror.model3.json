@@ -1,0 +1,270 @@
+{
+  "Version": 3,
+  "Name": "CG_Jiyuanqi_Mirror",
+  "FileReferences": {
+    "Moc": "CG_Jiyuanqi_Mirror.moc3",
+    "Textures": [
+      "textures/texture_00.png",
+      "textures/texture_01.png",
+      "textures/texture_02.png"
+    ],
+    "Physics": "CG_Jiyuanqi_Mirror.physics3.json",
+    "Pose": null,
+    "DisplayInfo": "CG_Jiyuanqi_Mirror.cdi3.json",
+    "Motions": {
+      "dongzuo_Cloth1": [
+        {
+          "File": "motions/dongzuo_Cloth1.motion3.json"
+        }
+      ],
+      "dongzuo_Cloth2": [
+        {
+          "File": "motions/dongzuo_Cloth2.motion3.json"
+        }
+      ],
+      "dongzuo1": [
+        {
+          "File": "motions/dongzuo1.motion3.json"
+        }
+      ],
+      "dongzuo10": [
+        {
+          "File": "motions/dongzuo10.motion3.json"
+        }
+      ],
+      "dongzuo11": [
+        {
+          "File": "motions/dongzuo11.motion3.json"
+        }
+      ],
+      "dongzuo12": [
+        {
+          "File": "motions/dongzuo12.motion3.json"
+        }
+      ],
+      "dongzuo2": [
+        {
+          "File": "motions/dongzuo2.motion3.json"
+        }
+      ],
+      "dongzuo3": [
+        {
+          "File": "motions/dongzuo3.motion3.json"
+        }
+      ],
+      "dongzuo4": [
+        {
+          "File": "motions/dongzuo4.motion3.json"
+        }
+      ],
+      "dongzuo4_yumao": [
+        {
+          "File": "motions/dongzuo4_yumao.motion3.json"
+        }
+      ],
+      "dongzuo4_yumao_Opera": [
+        {
+          "File": "motions/dongzuo4_yumao_Opera.motion3.json"
+        }
+      ],
+      "dongzuo4_yumao_Start": [
+        {
+          "File": "motions/dongzuo4_yumao_Start.motion3.json"
+        }
+      ],
+      "dongzuo5": [
+        {
+          "File": "motions/dongzuo5.motion3.json"
+        }
+      ],
+      "dongzuo6": [
+        {
+          "File": "motions/dongzuo6.motion3.json"
+        }
+      ],
+      "dongzuo7": [
+        {
+          "File": "motions/dongzuo7.motion3.json"
+        }
+      ],
+      "dongzuo8": [
+        {
+          "File": "motions/dongzuo8.motion3.json"
+        }
+      ],
+      "dongzuo9": [
+        {
+          "File": "motions/dongzuo9.motion3.json"
+        }
+      ],
+      "HJZB3420201": [
+        {
+          "File": "motions/HJZB3420201.motion3.json"
+        }
+      ],
+      "HJZB3420202": [
+        {
+          "File": "motions/HJZB3420202.motion3.json"
+        }
+      ],
+      "HJZB3420203": [
+        {
+          "File": "motions/HJZB3420203.motion3.json"
+        }
+      ],
+      "HJZB3420204": [
+        {
+          "File": "motions/HJZB3420204.motion3.json"
+        }
+      ],
+      "HJZB3420206": [
+        {
+          "File": "motions/HJZB3420206.motion3.json"
+        }
+      ],
+      "HJZB3420208": [
+        {
+          "File": "motions/HJZB3420208.motion3.json"
+        }
+      ],
+      "HJZB3420210": [
+        {
+          "File": "motions/HJZB3420210.motion3.json"
+        }
+      ],
+      "HJZB3420212": [
+        {
+          "File": "motions/HJZB3420212.motion3.json"
+        }
+      ],
+      "HJZB3420213": [
+        {
+          "File": "motions/HJZB3420213.motion3.json"
+        }
+      ],
+      "HJZB3420214": [
+        {
+          "File": "motions/HJZB3420214.motion3.json"
+        }
+      ],
+      "HJZB3420215": [
+        {
+          "File": "motions/HJZB3420215.motion3.json"
+        }
+      ],
+      "HJZB3420216": [
+        {
+          "File": "motions/HJZB3420216.motion3.json"
+        }
+      ],
+      "HJZB3420217": [
+        {
+          "File": "motions/HJZB3420217.motion3.json"
+        }
+      ],
+      "HJZB3420218": [
+        {
+          "File": "motions/HJZB3420218.motion3.json"
+        }
+      ],
+      "HJZB3420219": [
+        {
+          "File": "motions/HJZB3420219.motion3.json"
+        }
+      ],
+      "HJZB3420220": [
+        {
+          "File": "motions/HJZB3420220.motion3.json"
+        }
+      ],
+      "HJZB3420221": [
+        {
+          "File": "motions/HJZB3420221.motion3.json"
+        }
+      ],
+      "HJZB3420222": [
+        {
+          "File": "motions/HJZB3420222.motion3.json"
+        }
+      ],
+      "idle1": [
+        {
+          "File": "motions/idle1.motion3.json"
+        }
+      ],
+      "idle2": [
+        {
+          "File": "motions/idle2.motion3.json"
+        }
+      ],
+      "idle3": [
+        {
+          "File": "motions/idle3.motion3.json"
+        }
+      ],
+      "YuMao_1": [
+        {
+          "File": "motions/YuMao_1.motion3.json"
+        }
+      ],
+      "YuMao_2": [
+        {
+          "File": "motions/YuMao_2.motion3.json"
+        }
+      ],
+      "YuMao_3": [
+        {
+          "File": "motions/YuMao_3.motion3.json"
+        }
+      ],
+      "YuMao_4": [
+        {
+          "File": "motions/YuMao_4.motion3.json"
+        }
+      ],
+      "YuMao_5": [
+        {
+          "File": "motions/YuMao_5.motion3.json"
+        }
+      ],
+      "YuMao_6": [
+        {
+          "File": "motions/YuMao_6.motion3.json"
+        }
+      ],
+      "YuMao_7": [
+        {
+          "File": "motions/YuMao_7.motion3.json"
+        }
+      ],
+      "YuMao_8": [
+        {
+          "File": "motions/YuMao_8.motion3.json"
+        }
+      ],
+      "YuMao_9": [
+        {
+          "File": "motions/YuMao_9.motion3.json"
+        }
+      ]
+    },
+    "Expressions": []
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "ParamMouthOpenY"
+      ]
+    }
+  ]
+}

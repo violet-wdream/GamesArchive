@@ -1,0 +1,83 @@
+
+Flowertime_Toulan_Luguang.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lg_lian
+  rotate: 270
+  xy: 293, 7
+  size: 120, 81
+  orig: 120, 81
+  offset: 0, 0
+  index: -1
+lg_meimaoyou
+  rotate: false
+  xy: 127, 3
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+lg_meimaozuo
+  rotate: false
+  xy: 402, 3
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+lg_shenti
+  rotate: 180
+  xy: 156, 3
+  size: 141, 126
+  orig: 141, 126
+  offset: 0, 0
+  index: -1
+lg_toufa1
+  rotate: false
+  xy: 2, 2
+  size: 172, 135
+  orig: 172, 135
+  offset: 0, 0
+  index: -1
+lg_toufa2
+  rotate: 270
+  xy: 361, 69
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+lg_toufa3
+  rotate: true
+  xy: 376, 7
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+lg_yanjingyou
+  rotate: true
+  xy: 418, 14
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+lg_yanjingzuo
+  rotate: false
+  xy: 45, 105
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+lg_youshou
+  rotate: false
+  xy: 424, 47
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+lg_zui
+  rotate: false
+  xy: 2, 133
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1

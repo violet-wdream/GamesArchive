@@ -1,0 +1,69 @@
+
+UI_SeekingLightBird5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chibang1
+  rotate: true
+  xy: 168, 3
+  size: 153, 135
+  orig: 153, 135
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 294, 3
+  size: 153, 135
+  orig: 153, 135
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 7
+  size: 178, 150
+  orig: 178, 174
+  offset: 0, 24
+  index: -1
+tou
+  rotate: false
+  xy: 411, 6
+  size: 99, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 249, 131
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+zhuazi1
+  rotate: false
+  xy: 470, 120
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+zhuazi2
+  rotate: false
+  xy: 172, 29
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+zuibi
+  rotate: false
+  xy: 423, 112
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+zuikai
+  rotate: false
+  xy: 292, 86
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1

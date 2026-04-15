@@ -1,0 +1,286 @@
+
+Mao1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mao1hua
+  rotate: false
+  xy: 331, 64
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+mao1huxu
+  rotate: false
+  xy: 2, 157
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+mao1shenti
+  rotate: false
+  xy: 2, 92
+  size: 139, 110
+  orig: 139, 110
+  offset: 0, 0
+  index: -1
+mao1weiba
+  rotate: true
+  xy: 262, 34
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+mao1weiba1
+  rotate: 180
+  xy: 318, 5
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+mao1yanjin
+  rotate: false
+  xy: 30, 196
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+mao1youtui1
+  rotate: false
+  xy: 149, 3
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+mao1youtui2
+  rotate: 180
+  xy: 299, 52
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+mao1youzhua1
+  rotate: false
+  xy: 331, 169
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+mao1youzhua2
+  rotate: true
+  xy: 282, 7
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+mao1zuiba
+  rotate: false
+  xy: 2, 105
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+mao1zuotui1
+  rotate: true
+  xy: 2, 164
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+mao1zuotui2
+  rotate: false
+  xy: 310, 135
+  size: 27, 34
+  orig: 27, 36
+  offset: 0, 2
+  index: -1
+mao1zuozhua1
+  rotate: false
+  xy: 48, 86
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+mao1zuozhua2
+  rotate: 180
+  xy: 308, 166
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+mao2bizi
+  rotate: false
+  xy: 66, 114
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+mao2hua
+  rotate: true
+  xy: 325, 30
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+mao2shenti
+  rotate: 180
+  xy: 135, 89
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+mao2tou
+  rotate: 180
+  xy: 179, 34
+  size: 81, 67
+  orig: 81, 67
+  offset: 0, 0
+  index: -1
+mao2weiba1
+  rotate: false
+  xy: 236, 4
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+mao2weiba2
+  rotate: false
+  xy: 308, 95
+  size: 28, 38
+  orig: 28, 38
+  offset: 0, 0
+  index: -1
+mao2youtui
+  rotate: true
+  xy: 110, 33
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+mao2yy
+  rotate: false
+  xy: 165, 196
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+mao2zuiba
+  rotate: false
+  xy: 327, 81
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+mao2zuojiao
+  rotate: false
+  xy: 2, 56
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+mao2zuozhua
+  rotate: false
+  xy: 5, 20
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+mao2zy
+  rotate: false
+  xy: 329, 92
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+mao3hua
+  rotate: true
+  xy: 215, 12
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+mao3huzi
+  rotate: false
+  xy: 2, 6
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+mao3shenti
+  rotate: true
+  xy: 228, 82
+  size: 121, 80
+  orig: 121, 82
+  offset: 0, 0
+  index: -1
+mao3shou1
+  rotate: 180
+  xy: 51, 4
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+mao3shou2
+  rotate: 180
+  xy: 102, 5
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+mao3shou3
+  rotate: 180
+  xy: 150, 13
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+mao3tou
+  rotate: 180
+  xy: 61, 60
+  size: 79, 66
+  orig: 80, 66
+  offset: 1, 0
+  index: -1
+mao3wb1
+  rotate: false
+  xy: 2, 179
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+mao3wb2
+  rotate: false
+  xy: 130, 34
+  size: 49, 48
+  orig: 49, 49
+  offset: 0, 1
+  index: -1
+mao3yy
+  rotate: false
+  xy: 122, 127
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+mao3zui
+  rotate: false
+  xy: 2, 46
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+mao3zy
+  rotate: true
+  xy: 139, 187
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+maoyouyouzhua
+  rotate: true
+  xy: 57, 24
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+UI_Bq_Yuze_Qinghuli.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 91
+  size: 199, 115
+  orig: 199, 115
+  offset: 0, 0
+  index: -1
+char1
+  rotate: false
+  xy: 210, 173
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+char2
+  rotate: false
+  xy: 210, 173
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+char3
+  rotate: false
+  xy: 210, 173
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 112, 34
+  size: 64, 49
+  orig: 64, 49
+  offset: 0, 0
+  index: -1
+ear1
+  rotate: 270
+  xy: 70, 53
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+eyes
+  rotate: false
+  xy: 2, 61
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+face
+  rotate: 270
+  xy: 164, 65
+  size: 110, 89
+  orig: 148, 89
+  offset: 38, 0
+  index: -1
+flower
+  rotate: false
+  xy: 209, 25
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+lefthand
+  rotate: 180
+  xy: 70, 3
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 202, 201
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+naicha
+  rotate: true
+  xy: 2, 23
+  size: 37, 67
+  orig: 37, 67
+  offset: 0, 0
+  index: -1
+righthand
+  rotate: 180
+  xy: 152, 12
+  size: 56, 44
+  orig: 95, 69
+  offset: 0, 0
+  index: -1

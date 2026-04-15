@@ -1,0 +1,80 @@
+{
+    "skeleton": {
+        "x": -596.2833251953125,
+        "y": -322.51971435546875,
+        "width": 1366.0,
+        "height": 1065.0,
+        "hash": "994EI+LkJiNSGBrvy2mDjKNvf4k",
+        "spine": "3.8.79",
+        "images": "./images/",
+        "audio": "F:/工作/字节/新资源_宣连隐"
+    },
+    "bones": [
+        {
+            "name": "root"
+        }
+    ],
+    "slots": [
+        {
+            "name": "yingerpf",
+            "bone": "root",
+            "attachment": "yingerpf"
+        }
+    ],
+    "skins": [
+        {
+            "name": "default",
+            "attachments": {
+                "yingerpf": {
+                    "yingerpf": {
+                        "type": "mesh",
+                        "width": 1283.0,
+                        "height": 1000.0,
+                        "hull": 4,
+                        "triangles": [
+                            1,
+                            2,
+                            3,
+                            1,
+                            3,
+                            0
+                        ],
+                        "edges": [
+                            0,
+                            2,
+                            2,
+                            4,
+                            4,
+                            6,
+                            0,
+                            6
+                        ],
+                        "uvs": [
+                            1.0,
+                            1.0,
+                            0.0,
+                            1.0,
+                            0.0,
+                            0.0,
+                            1.0,
+                            0.0
+                        ],
+                        "vertices": [
+                            769.719970703125,
+                            -322.5199890136719,
+                            -596.280029296875,
+                            -322.5199890136719,
+                            -596.280029296875,
+                            742.47998046875,
+                            769.719970703125,
+                            742.47998046875
+                        ]
+                    }
+                }
+            }
+        }
+    ],
+    "animations": {
+        "animation": {}
+    }
+}

@@ -1,0 +1,160 @@
+
+UI_Flower_Yutangchunying.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 441, 214
+  size: 69, 49
+  orig: 74, 49
+  offset: 5, 0
+  index: -1
+a2
+  rotate: 180
+  xy: 172, 4
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+a3
+  rotate: 270
+  xy: 280, 258
+  size: 207, 120
+  orig: 207, 120
+  offset: 0, 0
+  index: -1
+a4
+  rotate: false
+  xy: 439, 97
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+a5
+  rotate: true
+  xy: 122, 404
+  size: 63, 84
+  orig: 76, 86
+  offset: 1, 0
+  index: -1
+a6
+  rotate: false
+  xy: 399, 381
+  size: 72, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+a7
+  rotate: false
+  xy: 290, 143
+  size: 180, 139
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+a8
+  rotate: false
+  xy: 348, 77
+  size: 94, 99
+  orig: 94, 99
+  offset: 0, 0
+  index: -1
+a9
+  rotate: false
+  xy: 199, 59
+  size: 95, 407
+  orig: 115, 408
+  offset: 18, 1
+  index: -1
+b1
+  rotate: true
+  xy: 294, 94
+  size: 66, 53
+  orig: 74, 63
+  offset: 2, 9
+  index: -1
+b2
+  rotate: false
+  xy: 13, 9
+  size: 88, 53
+  orig: 91, 64
+  offset: 3, 0
+  index: -1
+b3
+  rotate: false
+  xy: 2, 140
+  size: 52, 62
+  orig: 52, 65
+  offset: 0, 3
+  index: -1
+b4
+  rotate: false
+  xy: 470, 399
+  size: 34, 67
+  orig: 35, 68
+  offset: 1, 1
+  index: -1
+b5
+  rotate: false
+  xy: 339, 20
+  size: 79, 36
+  orig: 80, 38
+  offset: 1, 2
+  index: -1
+c1
+  rotate: false
+  xy: 31, 9
+  size: 145, 116
+  orig: 145, 116
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 222
+  size: 248, 244
+  orig: 291, 281
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 29, 65
+  size: 169, 156
+  orig: 171, 230
+  offset: 2, 65
+  index: -1
+d1
+  rotate: true
+  xy: 236, 28
+  size: 99, 274
+  orig: 101, 274
+  offset: 2, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 434
+  size: 60, 33
+  orig: 60, 43
+  offset: 0, 2
+  index: -1
+z
+  rotate: false
+  xy: 372, 265
+  size: 138, 114
+  orig: 138, 114
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 171, 295
+  size: 100, 41
+  orig: 100, 53
+  offset: 0, 12
+  index: -1
+z3
+  rotate: false
+  xy: 117, 152
+  size: 140, 117
+  orig: 140, 120
+  offset: 0, 0
+  index: -1

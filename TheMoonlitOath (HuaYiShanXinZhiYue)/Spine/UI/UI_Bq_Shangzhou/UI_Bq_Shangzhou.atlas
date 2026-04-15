@@ -1,0 +1,209 @@
+
+UI_Bq_Shangzhou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beizi
+  rotate: false
+  xy: 237, 46
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+bianzi_1
+  rotate: 180
+  xy: 200, 24
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+bianzi_2
+  rotate: false
+  xy: 2, 17
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+biyan_you
+  rotate: false
+  xy: 148, 147
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+biyan_zuo
+  rotate: false
+  xy: 2, 140
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+erhuan
+  rotate: false
+  xy: 239, 78
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+ftz
+  rotate: true
+  xy: 216, 56
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+houfa_1
+  rotate: true
+  xy: 63, 22
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+houfa_2
+  rotate: true
+  xy: 154, 147
+  size: 101, 100
+  orig: 101, 100
+  offset: 0, 0
+  index: -1
+jtz
+  rotate: false
+  xy: 63, 46
+  size: 53, 23
+  orig: 53, 23
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 61, 70
+  size: 81, 66
+  orig: 81, 66
+  offset: 0, 0
+  index: -1
+liuhai_1
+  rotate: false
+  xy: 232, 109
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+liuhai_2
+  rotate: true
+  xy: 144, 85
+  size: 59, 70
+  orig: 59, 70
+  offset: 0, 0
+  index: -1
+liuhai_3
+  rotate: true
+  xy: 137, 41
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+liuhai_4
+  rotate: false
+  xy: 118, 9
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+liuhai_5
+  rotate: true
+  xy: 2, 77
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1
+liuhai_6
+  rotate: false
+  xy: 2, 36
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+liuhai_7
+  rotate: false
+  xy: 218, 118
+  size: 12, 35
+  orig: 12, 35
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 2, 128
+  size: 151, 121
+  orig: 151, 121
+  offset: 0, 0
+  index: -1
+meimao_you
+  rotate: false
+  xy: 142, 224
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+meimao_zuo
+  rotate: false
+  xy: 197, 244
+  size: 23, 4
+  orig: 23, 4
+  offset: 0, 0
+  index: -1
+mojing
+  rotate: 180
+  xy: 58, 4
+  size: 68, 25
+  orig: 68, 25
+  offset: 0, 0
+  index: -1
+shou_zuo
+  rotate: false
+  xy: 127, 237
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 54, 85
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+shoushi
+  rotate: false
+  xy: 169, 236
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+weijin
+  rotate: false
+  xy: 161, 25
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+yanjing_you
+  rotate: false
+  xy: 2, 232
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+yanjing_zuo
+  rotate: false
+  xy: 141, 231
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+zui_1
+  rotate: false
+  xy: 23, 245
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1

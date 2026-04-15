@@ -1,0 +1,146 @@
+
+Scene_Qianfu_QJ.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lz
+  rotate: 270
+  xy: 822, 517
+  size: 221, 101
+  orig: 244, 101
+  offset: 3, 0
+  index: -1
+niao1
+  rotate: false
+  xy: 2, 3
+  size: 530, 220
+  orig: 530, 220
+  offset: 0, 0
+  index: -1
+qjdl1
+  rotate: false
+  xy: 199, 425
+  size: 121, 77
+  orig: 121, 77
+  offset: 0, 0
+  index: -1
+qjdl2
+  rotate: false
+  xy: 420, 512
+  size: 151, 69
+  orig: 153, 75
+  offset: 1, 6
+  index: -1
+qjdl3
+  rotate: false
+  xy: 2, 713
+  size: 23, 26
+  orig: 23, 27
+  offset: 0, 1
+  index: -1
+ys1
+  rotate: false
+  xy: 676, 138
+  size: 179, 201
+  orig: 181, 202
+  offset: 2, 0
+  index: -1
+ys2
+  rotate: false
+  xy: 2, 471
+  size: 186, 151
+  orig: 186, 151
+  offset: 0, 0
+  index: -1
+ys3
+  rotate: 180
+  xy: 99, 144
+  size: 324, 150
+  orig: 325, 152
+  offset: 1, 1
+  index: -1
+ys4
+  rotate: false
+  xy: 297, 223
+  size: 350, 161
+  orig: 351, 162
+  offset: 1, 1
+  index: -1
+ys5
+  rotate: 270
+  xy: 649, 340
+  size: 330, 257
+  orig: 331, 257
+  offset: 0, 0
+  index: -1
+ys6
+  rotate: true
+  xy: 2, 312
+  size: 426, 780
+  orig: 426, 780
+  offset: 0, 0
+  index: -1
+ys7
+  rotate: 180
+  xy: 224, 647
+  size: 174, 89
+  orig: 182, 91
+  offset: 0, 2
+  index: -1
+ys8
+  rotate: false
+  xy: 2, 162
+  size: 320, 109
+  orig: 320, 109
+  offset: 0, 0
+  index: -1
+zs1
+  rotate: 180
+  xy: 26, 270
+  size: 340, 169
+  orig: 340, 169
+  offset: 0, 0
+  index: -1
+zs2
+  rotate: 180
+  xy: 2, 560
+  size: 255, 179
+  orig: 262, 180
+  offset: 0, 0
+  index: -1
+zs3
+  rotate: 270
+  xy: 541, 105
+  size: 168, 151
+  orig: 169, 153
+  offset: 0, 0
+  index: -1
+zs4
+  rotate: true
+  xy: 268, 129
+  size: 248, 264
+  orig: 252, 264
+  offset: 0, 0
+  index: -1
+zs5
+  rotate: true
+  xy: 704, 228
+  size: 332, 162
+  orig: 332, 166
+  offset: 0, 4
+  index: -1
+zs6
+  rotate: false
+  xy: 156, 108
+  size: 226, 84
+  orig: 226, 85
+  offset: 0, 0
+  index: -1
+zs7
+  rotate: 270
+  xy: 324, 313
+  size: 287, 380
+  orig: 321, 407
+  offset: 34, 27
+  index: -1

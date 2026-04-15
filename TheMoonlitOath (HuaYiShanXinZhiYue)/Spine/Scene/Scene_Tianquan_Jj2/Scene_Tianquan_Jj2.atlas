@@ -1,0 +1,27 @@
+
+Scene_Tianquan_Jj2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi1
+  rotate: false
+  xy: 2, 3
+  size: 280, 169
+  orig: 280, 192
+  offset: 0, 23
+  index: -1
+yang1
+  rotate: false
+  xy: 2, 59
+  size: 79, 62
+  orig: 79, 69
+  offset: 0, 7
+  index: -1
+yang2
+  rotate: false
+  xy: 2, 15
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1

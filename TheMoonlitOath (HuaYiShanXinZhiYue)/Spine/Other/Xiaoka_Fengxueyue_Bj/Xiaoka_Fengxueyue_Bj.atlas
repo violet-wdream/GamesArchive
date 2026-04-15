@@ -1,0 +1,20 @@
+
+Xiaoka_Fengxueyue_Bj.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing_1
+  rotate: true
+  xy: 2, 2
+  size: 411, 500
+  orig: 411, 500
+  offset: 0, 0
+  index: -1
+beijing_2
+  rotate: false
+  xy: 2, 415
+  size: 1000, 454
+  orig: 1000, 454
+  offset: 0, 0
+  index: -1

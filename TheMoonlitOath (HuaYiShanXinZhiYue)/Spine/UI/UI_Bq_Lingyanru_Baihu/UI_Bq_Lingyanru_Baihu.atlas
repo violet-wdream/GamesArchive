@@ -1,0 +1,76 @@
+
+UI_Bq_Lingyanru_Baihu.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bodys
+  rotate: false
+  xy: 2, 53
+  size: 142, 86
+  orig: 146, 86
+  offset: 0, 0
+  index: -1
+char
+  rotate: true
+  xy: 145, 68
+  size: 167, 40
+  orig: 167, 40
+  offset: 0, 0
+  index: -1
+emo
+  rotate: 180
+  xy: 187, 27
+  size: 64, 98
+  orig: 80, 135
+  offset: 0, 37
+  index: -1
+eyes
+  rotate: false
+  xy: 175, 3
+  size: 74, 21
+  orig: 74, 21
+  offset: 0, 0
+  index: -1
+eyes1
+  rotate: false
+  xy: 187, 190
+  size: 37, 10
+  orig: 37, 10
+  offset: 0, 0
+  index: -1
+fank
+  rotate: false
+  xy: 2, 140
+  size: 127, 97
+  orig: 127, 152
+  offset: 0, 55
+  index: -1
+hot
+  rotate: true
+  xy: 118, 14
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 187, 202
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+righthand
+  rotate: false
+  xy: 187, 125
+  size: 63, 48
+  orig: 88, 52
+  offset: 25, 4
+  index: -1
+taill
+  rotate: 270
+  xy: 2, 24
+  size: 71, 67
+  orig: 71, 67
+  offset: 0, 0
+  index: -1
