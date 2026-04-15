@@ -1,0 +1,125 @@
+
+effect_fore.png
+size: 499,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/liuguang/1_00000
+  rotate: true
+  xy: 23, 449
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00002
+  rotate: true
+  xy: 2, 386
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00004
+  rotate: true
+  xy: 249, 385
+  size: 61, 248
+  orig: 64, 256
+  offset: 3, 2
+  index: -1
+effect/liuguang/1_00006
+  rotate: true
+  xy: 249, 322
+  size: 61, 248
+  orig: 64, 256
+  offset: 3, 2
+  index: -1
+effect/liuguang/1_00008
+  rotate: true
+  xy: 2, 323
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00010
+  rotate: true
+  xy: 2, 260
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00012
+  rotate: true
+  xy: 249, 259
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00014
+  rotate: true
+  xy: 249, 2
+  size: 64, 245
+  orig: 64, 256
+  offset: 0, 5
+  index: -1
+effect/liuguang/1_00016
+  rotate: true
+  xy: 249, 68
+  size: 63, 245
+  orig: 64, 256
+  offset: 1, 5
+  index: -1
+effect/liuguang/1_00018
+  rotate: true
+  xy: 2, 5
+  size: 63, 245
+  orig: 64, 256
+  offset: 1, 5
+  index: -1
+effect/liuguang/1_00020
+  rotate: true
+  xy: 2, 197
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00022
+  rotate: true
+  xy: 249, 196
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00024
+  rotate: true
+  xy: 2, 134
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/liuguang/1_00026
+  rotate: true
+  xy: 2, 70
+  size: 62, 245
+  orig: 64, 256
+  offset: 2, 5
+  index: -1
+effect/liuguang/1_00028
+  rotate: true
+  xy: 249, 133
+  size: 61, 245
+  orig: 64, 256
+  offset: 3, 5
+  index: -1
+effect/lizi
+  rotate: true
+  xy: 2, 494
+  size: 16, 19
+  orig: 31, 28
+  offset: 9, 9
+  index: -1
+effect/xing
+  rotate: false
+  xy: 270, 448
+  size: 62, 62
+  orig: 104, 93
+  offset: 24, 18
+  index: -1

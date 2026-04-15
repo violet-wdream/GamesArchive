@@ -1,0 +1,244 @@
+
+effect_fore.png
+size: 1142,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huo/00000
+  rotate: false
+  xy: 185, 118
+  size: 88, 149
+  orig: 197, 169
+  offset: 67, 0
+  index: -1
+effect/huo/00002
+  rotate: false
+  xy: 364, 119
+  size: 86, 148
+  orig: 197, 169
+  offset: 68, 0
+  index: -1
+effect/huo/00004
+  rotate: false
+  xy: 635, 120
+  size: 86, 147
+  orig: 197, 169
+  offset: 68, 0
+  index: -1
+effect/huo/00006
+  rotate: false
+  xy: 275, 119
+  size: 87, 148
+  orig: 197, 169
+  offset: 68, 0
+  index: -1
+effect/huo/00008
+  rotate: false
+  xy: 544, 120
+  size: 89, 147
+  orig: 197, 169
+  offset: 67, 0
+  index: -1
+effect/huo/00010
+  rotate: false
+  xy: 452, 120
+  size: 90, 147
+  orig: 197, 169
+  offset: 66, 0
+  index: -1
+effect/huo/00012
+  rotate: false
+  xy: 723, 121
+  size: 90, 146
+  orig: 197, 169
+  offset: 66, 1
+  index: -1
+effect/huo/00014
+  rotate: false
+  xy: 2, 118
+  size: 90, 149
+  orig: 197, 169
+  offset: 66, 0
+  index: -1
+effect/huo/00016
+  rotate: false
+  xy: 94, 118
+  size: 89, 149
+  orig: 197, 169
+  offset: 67, 0
+  index: -1
+effect/lizi
+  rotate: false
+  xy: 537, 3
+  size: 11, 12
+  orig: 22, 22
+  offset: 6, 5
+  index: -1
+effect/saoguang/1_00000
+  rotate: true
+  xy: 2, 3
+  size: 4, 8
+  orig: 177, 171
+  offset: 88, 73
+  index: -1
+effect/saoguang/1_00002
+  rotate: true
+  xy: 637, 2
+  size: 15, 16
+  orig: 177, 171
+  offset: 79, 66
+  index: -1
+effect/saoguang/1_00004
+  rotate: false
+  xy: 904, 15
+  size: 93, 55
+  orig: 177, 171
+  offset: 39, 61
+  index: -1
+effect/saoguang/1_00006
+  rotate: true
+  xy: 904, 72
+  size: 96, 62
+  orig: 177, 171
+  offset: 36, 55
+  index: -1
+effect/saoguang/1_00008
+  rotate: true
+  xy: 736, 20
+  size: 99, 67
+  orig: 177, 171
+  offset: 34, 50
+  index: -1
+effect/saoguang/1_00010
+  rotate: true
+  xy: 462, 14
+  size: 104, 73
+  orig: 177, 171
+  offset: 29, 44
+  index: -1
+effect/saoguang/1_00012
+  rotate: true
+  xy: 181, 10
+  size: 106, 79
+  orig: 177, 171
+  offset: 26, 38
+  index: -1
+effect/saoguang/1_00014
+  rotate: true
+  xy: 95, 9
+  size: 107, 84
+  orig: 177, 171
+  offset: 25, 32
+  index: -1
+effect/saoguang/1_00016
+  rotate: true
+  xy: 2, 9
+  size: 107, 91
+  orig: 177, 171
+  offset: 25, 25
+  index: -1
+effect/saoguang/1_00018
+  rotate: true
+  xy: 364, 13
+  size: 104, 96
+  orig: 177, 171
+  offset: 24, 17
+  index: -1
+effect/saoguang/1_00020
+  rotate: true
+  xy: 262, 12
+  size: 104, 100
+  orig: 177, 171
+  offset: 24, 13
+  index: -1
+effect/saoguang/1_00022
+  rotate: true
+  xy: 537, 17
+  size: 101, 98
+  orig: 177, 171
+  offset: 24, 13
+  index: -1
+effect/saoguang/1_00024
+  rotate: true
+  xy: 637, 19
+  size: 99, 97
+  orig: 177, 171
+  offset: 24, 12
+  index: -1
+effect/saoguang/1_00026
+  rotate: false
+  xy: 805, 22
+  size: 97, 97
+  orig: 177, 171
+  offset: 24, 12
+  index: -1
+effect/saoguang/1_00028
+  rotate: true
+  xy: 815, 170
+  size: 97, 96
+  orig: 177, 171
+  offset: 24, 12
+  index: -1
+effect/saoguang/1_00030
+  rotate: false
+  xy: 913, 172
+  size: 94, 95
+  orig: 177, 171
+  offset: 24, 12
+  index: -1
+effect/saoguang/1_00032
+  rotate: false
+  xy: 968, 75
+  size: 90, 95
+  orig: 177, 171
+  offset: 25, 12
+  index: -1
+effect/saoguang/1_00034
+  rotate: true
+  xy: 1060, 123
+  size: 87, 76
+  orig: 177, 171
+  offset: 25, 12
+  index: -1
+effect/saoguang/1_00036
+  rotate: false
+  xy: 999, 2
+  size: 82, 71
+  orig: 177, 171
+  offset: 28, 12
+  index: -1
+effect/saoguang/1_00038
+  rotate: false
+  xy: 1060, 212
+  size: 80, 55
+  orig: 177, 171
+  offset: 29, 13
+  index: -1
+effect/saoguang/1_00040
+  rotate: true
+  xy: 1009, 190
+  size: 77, 49
+  orig: 177, 171
+  offset: 32, 13
+  index: -1
+effect/saoguang/1_00042
+  rotate: true
+  xy: 262, 2
+  size: 8, 12
+  orig: 177, 171
+  offset: 100, 42
+  index: -1
+effect/xingguang
+  rotate: false
+  xy: 846, 140
+  size: 28, 28
+  orig: 70, 74
+  offset: 21, 21
+  index: -1
+effect/yumao
+  rotate: true
+  xy: 815, 133
+  size: 35, 29
+  orig: 89, 80
+  offset: 24, 24
+  index: -1
