@@ -39,10 +39,10 @@ Personal archival repository for game-related assets, currently only Live2D/Spin
 | IronSaga | 766M |
 | MorningMist | 135M |
 | OnePercent (BaiFenZhiYi) | 19M |
-| SanGuoZhiHuanXiangDaLu | 44K |
-| SanGuoZhiHuanXiangDaLu2 | 8.0K |
-| Sinisistar2 | 8.0K |
-| TheMoonlitOath (HuaYiShanXinZhiYue) | 4.0K |
+| SanGuoZhiHuanXiangDaLu | 2.1G |
+| SanGuoZhiHuanXiangDaLu2 | 661M |
+| Sinisistar2 | 305M |
+| TheMoonlitOath (HuaYiShanXinZhiYue) | 3.6G |
 <!-- DIR_SIZE_END -->
 
 ---
