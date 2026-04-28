@@ -41,7 +41,7 @@ Personal archival repository for game-related assets, currently only Live2D/Spin
 | OnePercent (BaiFenZhiYi) | 19M |
 | SanGuoZhiHuanXiangDaLu | 2.1G |
 | SanGuoZhiHuanXiangDaLu2 | 661M |
-| Sinisistar2 | 305M |
+| Sinisistar2 | 1.5G |
 | TheMoonlitOath (HuaYiShanXinZhiYue) | 3.6G |
 <!-- DIR_SIZE_END -->
 
